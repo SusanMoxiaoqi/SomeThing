@@ -1,0 +1,239 @@
+{
+  "ID": "c037e286-f628-4ee9-b346-69d2ee5c1b5c",
+  "Version": "2.1.5.0",
+  "Name": "tiShi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 36,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiShiBg.png",
+              "Plist": "TISHI.plist"
+            },
+            "Tag": 37,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -194.0,
+            "RightMargin": -194.0,
+            "TopMargin": -116.0,
+            "BottomMargin": -116.0,
+            "ActionTag": -136095857,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 388.0,
+              "Y": 232.0
+            },
+            "FrameEvent": "",
+            "Name": "tiShiBg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "TextLabelewewfdsdwfrewfbhdhbfhdbhgbhfgdh",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "Tag": 38,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -127.0,
+            "RightMargin": -123.0,
+            "TopMargin": -67.0,
+            "BottomMargin": -50.0,
+            "ActionTag": 1620378745,
+            "Position": {
+              "X": -2.0,
+              "Y": 8.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {
+              "R": 15,
+              "G": 13,
+              "B": 9
+            },
+            "Size": {
+              "X": 250.0,
+              "Y": 117.0
+            },
+            "FrameEvent": "",
+            "Name": "Describe_Text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiShilv118Btn3.png",
+              "Plist": "TISHI.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiShilv118Btn2.png",
+              "Plist": "TISHI.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiShilv118Btn1.png",
+              "Plist": "TISHI.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 118,
+            "Scale9Height": 44,
+            "TouchEnable": true,
+            "Tag": 39,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -59.0,
+            "RightMargin": -59.0,
+            "TopMargin": 52.5,
+            "BottomMargin": -96.5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "tiShibtnTittle_queding.png",
+                  "Plist": "TISHI.plist"
+                },
+                "Tag": 40,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4773
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 23.5,
+                "RightMargin": 23.5,
+                "TopMargin": 11.0,
+                "BottomMargin": 9.0,
+                "ActionTag": 182591176,
+                "Position": {
+                  "X": 59.0,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 71.0,
+                  "Y": 24.0
+                },
+                "FrameEvent": "",
+                "Name": "tiShibtnTittle_queding_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -153247914,
+            "Position": {
+              "X": 0.0,
+              "Y": -74.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 118.0,
+              "Y": 44.0
+            },
+            "FrameEvent": "",
+            "Name": "Button_queding",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

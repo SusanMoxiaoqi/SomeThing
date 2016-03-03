@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="7531" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment version="1296" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="OtherContent">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="请选择支付方式：" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="djP-Rs-13G">
+                    <rect key="frame" x="20" y="20" width="560" height="36"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="67C-Al-wcd" userLabel="Button - alipay">
+                    <rect key="frame" x="47" y="80" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_alipay.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_alipay_sel.png"/>
+                    <state key="highlighted" image="btn_alipay_sel.png"/>
+                    <connections>
+                        <action selector="btnAlipayClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="6dj-cg-cFX"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="CI7-ri-xeW" userLabel="Button - weixin">
+                    <rect key="frame" x="236" y="80" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_weixin.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_weixin_sel.png"/>
+                    <state key="highlighted" image="btn_weixin_sel.png"/>
+                    <connections>
+                        <action selector="btnWeixinClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="lzc-FT-iXA"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="0uE-Qm-RNz" userLabel="Button - union">
+                    <rect key="frame" x="415" y="80" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_union.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_union_sel.png"/>
+                    <state key="highlighted" image="btn_union_sel.png"/>
+                    <connections>
+                        <action selector="btnUnionClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="H5H-ZV-aUh"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="Irf-7r-vsG" userLabel="Button - mo9">
+                    <rect key="frame" x="47" y="152" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_mo9.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_mo9_sel.png"/>
+                    <state key="highlighted" image="btn_mo9_sel.png"/>
+                    <connections>
+                        <action selector="btnMo9Clicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="Jg9-MZ-blH"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="1am-g9-fb4" userLabel="Button - mobile">
+                    <rect key="frame" x="243" y="152" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_mobile.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_mobile_sel.png"/>
+                    <state key="highlighted" image="btn_mobile_sel.png"/>
+                    <connections>
+                        <action selector="btnMobileClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="OC9-kZ-5qt"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="pbC-Kx-VKs" userLabel="Button - gamecard">
+                    <rect key="frame" x="421" y="152" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_gamecard.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_gamecard_sel.png"/>
+                    <state key="highlighted" image="btn_gamecard_sel.png"/>
+                    <connections>
+                        <action selector="btnGamecradClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="VUF-dy-ocA"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" id="za8-6h-NEC">
+                    <rect key="frame" x="0.0" y="538" width="600" height="60"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="付款成功后将于1-10分钟后到账，如遇网络繁忙时请耐心等待。若长时间未到账请联系客服咨询。" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="fzK-DO-Pzq">
+                            <rect key="frame" x="80" y="0.0" width="512" height="50"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
+                            <color key="textColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="温馨提示：" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="mF1-pg-PVz">
+                            <rect key="frame" x="0.0" y="7" width="80" height="21"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" id="EpY-N1-pA8" userLabel="Button - yibao">
+                    <rect key="frame" x="47" y="233" width="105" height="37"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" image="btn_yibao.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <state key="selected" image="btn_yibao_sel.png"/>
+                    <state key="highlighted" image="btn_yibao_sel.png"/>
+                    <connections>
+                        <action selector="btnYibaoClicked:" destination="iN0-l3-epB" eventType="touchUpInside" id="Y4d-ca-LxW"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="btnAlipay" destination="67C-Al-wcd" id="OLp-7j-TrN"/>
+                <outlet property="btnGamecard" destination="pbC-Kx-VKs" id="iSl-bW-FjV"/>
+                <outlet property="btnMo9" destination="Irf-7r-vsG" id="c2S-c7-KnC"/>
+                <outlet property="btnMobile" destination="1am-g9-fb4" id="hWU-Ic-CWQ"/>
+                <outlet property="btnUnion" destination="0uE-Qm-RNz" id="vR2-2g-Sps"/>
+                <outlet property="btnWeixin" destination="CI7-ri-xeW" id="Yw0-xB-rSd"/>
+                <outlet property="btnYibao" destination="EpY-N1-pA8" id="Svr-nX-8IJ"/>
+                <outlet property="topLabel" destination="djP-Rs-13G" id="eJA-yX-ar9"/>
+            </connections>
+            <point key="canvasLocation" x="353" y="464"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="btn_alipay.png" width="210" height="74"/>
+        <image name="btn_alipay_sel.png" width="210" height="74"/>
+        <image name="btn_gamecard.png" width="210" height="74"/>
+        <image name="btn_gamecard_sel.png" width="210" height="74"/>
+        <image name="btn_mo9.png" width="210" height="74"/>
+        <image name="btn_mo9_sel.png" width="210" height="74"/>
+        <image name="btn_mobile.png" width="210" height="74"/>
+        <image name="btn_mobile_sel.png" width="210" height="74"/>
+        <image name="btn_union.png" width="210" height="74"/>
+        <image name="btn_union_sel.png" width="210" height="74"/>
+        <image name="btn_weixin.png" width="210" height="74"/>
+        <image name="btn_weixin_sel.png" width="210" height="74"/>
+        <image name="btn_yibao.png" width="210" height="74"/>
+        <image name="btn_yibao_sel.png" width="210" height="74"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>

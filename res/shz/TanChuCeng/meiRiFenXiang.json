@@ -1,0 +1,487 @@
+{
+  "ID": "1b6b5678-ca35-43e1-8217-8e2c419cfa49",
+  "Version": "2.2.6.0",
+  "Name": "meiRiFenXiang",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 129,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tanChuCeng_bg.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -472.0,
+            "RightMargin": -472.0,
+            "TopMargin": -292.0,
+            "BottomMargin": -292.0,
+            "Tag": 89,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrfx_mrfx.png",
+                  "Plist": "tanChuCengRes/meirifenxiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 477.8445,
+                  "Y": 553.6161
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5062,
+                  "Y": 0.948
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 368.8445,
+                "RightMargin": 357.1555,
+                "TopMargin": 7.8839,
+                "BottomMargin": 531.1161,
+                "Tag": 8,
+                "ActionTag": 273231115,
+                "Size": {
+                  "X": 218.0,
+                  "Y": 45.0
+                },
+                "Name": "mrfx_mrfx_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 519230761,
+            "Size": {
+              "X": 944.0,
+              "Y": 584.0
+            },
+            "Name": "mrfx_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi3.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi2.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi1.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 55,
+            "Scale9Height": 63,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 446.9232,
+              "Y": 230.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 404.4232,
+            "RightMargin": -489.4232,
+            "TopMargin": -272.5,
+            "BottomMargin": 187.5,
+            "Tag": 90,
+            "ActionTag": 2058783372,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "chaHao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_wenben.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.62,
+              "Y": 141.77
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -326.62,
+            "RightMargin": -323.38,
+            "TopMargin": -171.27,
+            "BottomMargin": 112.27,
+            "Tag": 91,
+            "ActionTag": 395455614,
+            "Size": {
+              "X": 650.0,
+              "Y": 59.0
+            },
+            "Name": "mrfx_tip1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weixin1_.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weixin3.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weixin1.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 309.69,
+              "Y": 33.77
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.69,
+            "RightMargin": -413.69,
+            "TopMargin": -62.77,
+            "BottomMargin": 4.77,
+            "Tag": 11,
+            "ActionTag": 758686284,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "weixin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_qqfenxiang1_.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_qqfenxiang3.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_qqfenxiang1.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 309.69,
+              "Y": -60.23
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.69,
+            "RightMargin": -413.69,
+            "TopMargin": 31.23,
+            "BottomMargin": -89.23,
+            "Tag": 12,
+            "ActionTag": -794301860,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "qq",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weibo1_.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weibo3.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrfx_weibo1.png",
+              "Plist": "tanChuCengRes/meirifenxiang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 309.69,
+              "Y": -162.23
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.69,
+            "RightMargin": -413.69,
+            "TopMargin": 133.23,
+            "BottomMargin": -191.23,
+            "Tag": 13,
+            "ActionTag": 2125154533,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "weibo",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": -100.0,
+              "Y": -50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -100.0,
+            "RightMargin": 100.0,
+            "TopMargin": 50.0,
+            "BottomMargin": -50.0,
+            "Tag": 14,
+            "ActionTag": -304338308,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "jietu",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

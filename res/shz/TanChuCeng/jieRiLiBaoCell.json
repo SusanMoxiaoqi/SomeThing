@@ -1,0 +1,580 @@
+{
+  "ID": "59869630-216f-4d6b-9d4e-21e7a335d7a5",
+  "Version": "2.3.1.2",
+  "Name": "jieRiLiBaoCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 560,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_dikuang.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -306.0,
+            "RightMargin": -306.0,
+            "TopMargin": -39.5,
+            "BottomMargin": -39.5,
+            "Tag": 562,
+            "ActionTag": -999263287,
+            "Size": {
+              "X": 612.0,
+              "Y": 79.0
+            },
+            "Name": "cell_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JR_vip0.png",
+              "Plist": "tanChuCengRes/xianShiLiBao_JR.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -223.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -273.5,
+            "RightMargin": 172.5,
+            "TopMargin": -44.5,
+            "BottomMargin": -44.5,
+            "Tag": 563,
+            "ActionTag": -829068159,
+            "Size": {
+              "X": 101.0,
+              "Y": 89.0
+            },
+            "Name": "liBaoBiaoTu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 26,
+            "LabelText": "1000两",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -85.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -185.0,
+            "RightMargin": -15.0,
+            "TopMargin": -17.0,
+            "BottomMargin": -13.0,
+            "Tag": 564,
+            "ActionTag": 50789822,
+            "Size": {
+              "X": 200.0,
+              "Y": 30.0
+            },
+            "Name": "lingJIangShu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "剩余",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 71.0,
+              "Y": 15.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 11.0,
+            "RightMargin": -131.0,
+            "TopMargin": -30.0,
+            "Tag": 565,
+            "ActionTag": -1052968469,
+            "Size": {
+              "X": 120.0,
+              "Y": 30.0
+            },
+            "Name": "text_shengyu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "(822/1000)",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 68.0,
+              "Y": -14.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -32.0,
+            "RightMargin": -168.0,
+            "TopMargin": -1.0,
+            "BottomMargin": -29.0,
+            "Tag": 566,
+            "ActionTag": -1253598785,
+            "Size": {
+              "X": 200.0,
+              "Y": 30.0
+            },
+            "Name": "shengYuBiLiShu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JR_btn-ylq.png",
+              "Plist": "tanChuCengRes/xianShiLiBao_JR.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_2.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_1.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 98,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 233.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 169.0,
+            "RightMargin": -297.0,
+            "TopMargin": -28.5,
+            "BottomMargin": -24.5,
+            "Tag": 567,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JR_keLingQu.png",
+                  "Plist": "tanChuCengRes/xianShiLiBao_JR.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.0,
+                  "Y": 26.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": 0.4906
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 23.0,
+                "RightMargin": 21.0,
+                "TopMargin": 12.5,
+                "BottomMargin": 11.5,
+                "Tag": 568,
+                "ActionTag": 297207503,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 29.0
+                },
+                "Name": "tile",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1469669001,
+            "Size": {
+              "X": 128.0,
+              "Y": 53.0
+            },
+            "Name": "lingQu_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_3_3.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_2_2.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xianshi_1_1.png",
+              "Plist": "tanChuCengRes/xianshilibao.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 98,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 233.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 169.0,
+            "RightMargin": -297.0,
+            "TopMargin": -28.5,
+            "BottomMargin": -24.5,
+            "Tag": 569,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JR_quChongZhi.png",
+                  "Plist": "tanChuCengRes/xianShiLiBao_JR.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 65.0,
+                  "Y": 26.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": 0.4906
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 23.0,
+                "RightMargin": 21.0,
+                "TopMargin": 12.5,
+                "BottomMargin": 11.5,
+                "Tag": 570,
+                "ActionTag": -1700346096,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 29.0
+                },
+                "Name": "tile",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1964624639,
+            "Size": {
+              "X": 128.0,
+              "Y": 53.0
+            },
+            "Name": "chongZhi_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JR_jinQingQiDai.png",
+              "Plist": "tanChuCengRes/xianShiLiBao_JR.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -95.0,
+            "RightMargin": -95.0,
+            "TopMargin": -20.5,
+            "BottomMargin": -20.5,
+            "Tag": 11,
+            "ActionTag": 1062318942,
+            "Size": {
+              "X": 190.0,
+              "Y": 41.0
+            },
+            "Name": "qiDaiTuBiao",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/xianshilibao.plist",
+        "tanChuCengRes/xianshilibao.png",
+        "tanChuCengRes/xianShiLiBao_JR.plist",
+        "tanChuCengRes/xianShiLiBao_JR.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

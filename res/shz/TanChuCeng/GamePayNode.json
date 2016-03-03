@@ -1,0 +1,308 @@
+{
+  "ID": "8abce1dc-8a64-480d-b4b5-b4dfe220b6ec",
+  "Version": "2.3.2.3",
+  "Name": "GamePayNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 58,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "c_kuang.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -128.5,
+            "RightMargin": -128.5,
+            "TopMargin": -176.0,
+            "BottomMargin": -176.0,
+            "Tag": 32,
+            "ActionTag": -2146622653,
+            "Size": {
+              "X": 257.0,
+              "Y": 352.0
+            },
+            "Name": "paynode_beijing",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "yb_1.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0012,
+              "Y": 20.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -62.9988,
+            "RightMargin": -63.0012,
+            "TopMargin": -57.5,
+            "BottomMargin": -17.5,
+            "Tag": 61,
+            "ActionTag": 2117385149,
+            "Size": {
+              "X": 126.0,
+              "Y": 75.0
+            },
+            "Name": "paynode_yuanbao",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "song.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 3.125,
+              "Y": -71.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -104.875,
+            "RightMargin": -111.125,
+            "TopMargin": 55.0,
+            "BottomMargin": -87.0,
+            "Tag": 62,
+            "ActionTag": 1982251711,
+            "Size": {
+              "X": 216.0,
+              "Y": 32.0
+            },
+            "Name": "song_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "biaoqian_rexiao.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -82.0,
+              "Y": 130.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -134.0,
+            "RightMargin": 30.0,
+            "TopMargin": -181.0,
+            "BottomMargin": 79.0,
+            "Tag": 65,
+            "ActionTag": 1799216994,
+            "Size": {
+              "X": 104.0,
+              "Y": 102.0
+            },
+            "Name": "paynode_jiaobiao",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 146.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": -146.0,
+            "BottomMargin": 146.0,
+            "Tag": 28,
+            "ActionTag": 1795072031,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "paynode_jine",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 25.0,
+              "Y": -70.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 25.0,
+            "RightMargin": -25.0,
+            "TopMargin": 70.0,
+            "BottomMargin": -70.0,
+            "Tag": 29,
+            "ActionTag": 1009798379,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "paynode_fanli",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -137.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 137.0,
+            "BottomMargin": -137.0,
+            "Tag": 30,
+            "ActionTag": 372579838,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "paynode_yinliang",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/chongZhi.plist",
+        "tanChuCengRes/chongZhi.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,806 @@
+{
+  "ID": "cfa58896-76ec-4710-a04c-7586371e25cb",
+  "Version": "2.2.8.0",
+  "Name": "touXiangVip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "touxiang_touxiangBtn2.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "touxiang_touxiangBtn2.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "touxiang_touxiangBtn1.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 78,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -54.0,
+            "RightMargin": -54.0,
+            "TopMargin": -54.0,
+            "BottomMargin": -54.0,
+            "Tag": 48,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "touxiang_nan01.png",
+                  "Plist": "tanChuCengRes/touXiangVip.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.0,
+                  "Y": 53.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4954
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": 5.0,
+                "TopMargin": 5.5,
+                "BottomMargin": 4.5,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "touxiang_xiaobanshou.png",
+                      "Plist": "tanChuCengRes/touXiangVip.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 84.0,
+                      "Y": 12.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8571,
+                      "Y": 0.1276
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 69.0,
+                    "RightMargin": -1.0,
+                    "TopMargin": 70.5,
+                    "BottomMargin": -2.5,
+                    "Tag": 50,
+                    "ActionTag": 1442934255,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 30.0
+                    },
+                    "Name": "touxiang_xiaobanshou_2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -336754682,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 98.0
+                },
+                "Name": "touxiang",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1029916557,
+            "Size": {
+              "X": 108.0,
+              "Y": 108.0
+            },
+            "Name": "touxiangBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "nickname.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 89.0,
+              "Y": 12.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.5,
+            "RightMargin": -103.5,
+            "TopMargin": -29.5,
+            "BottomMargin": -5.5,
+            "Tag": 51,
+            "ActionTag": 21982665,
+            "Size": {
+              "X": 29.0,
+              "Y": 35.0
+            },
+            "Name": "nickname_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 194.5,
+              "Y": 9.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 104.5,
+            "RightMargin": -284.5,
+            "TopMargin": -21.0,
+            "BottomMargin": -2.0,
+            "Tag": 52,
+            "ActionTag": -1893210111,
+            "Size": {
+              "X": 180.0,
+              "Y": 23.0
+            },
+            "Name": "niCheng",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DaTing_yuanbao.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 155.0,
+              "Y": -27.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 60.5,
+            "RightMargin": -249.5,
+            "TopMargin": 12.25,
+            "BottomMargin": -43.25,
+            "Tag": 53,
+            "ActionTag": 973677187,
+            "Size": {
+              "X": 189.0,
+              "Y": 31.0
+            },
+            "Name": "DaTing_yuanbao",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DaTing_jiangquan.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 395.0,
+              "Y": -26.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 303.0,
+            "RightMargin": -487.0,
+            "TopMargin": 9.25,
+            "BottomMargin": -43.25,
+            "Tag": 57,
+            "ActionTag": 1463845360,
+            "Size": {
+              "X": 184.0,
+              "Y": 34.0
+            },
+            "Name": "DaTing_jiangquan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 440.0,
+              "Y": -26.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 230,
+              "G": 130,
+              "B": 25
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 360.0,
+            "RightMargin": -520.0,
+            "TopMargin": 15.0,
+            "BottomMargin": -38.0,
+            "Tag": 62,
+            "ActionTag": -565438327,
+            "Size": {
+              "X": 160.0,
+              "Y": 23.0
+            },
+            "Name": "jiangquan",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "1234567890",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 190.0,
+              "Y": -26.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 232,
+              "G": 132,
+              "B": 17
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 110.0,
+            "RightMargin": -270.0,
+            "TopMargin": 15.0,
+            "BottomMargin": -38.0,
+            "Tag": 63,
+            "ActionTag": 1801006441,
+            "Size": {
+              "X": 160.0,
+              "Y": 23.0
+            },
+            "Name": "yuanbao",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_add_dis.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_add_down.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_add_up.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 11,
+            "Scale9Width": 15,
+            "Scale9Height": 18,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.0,
+              "Y": -25.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 244.5,
+            "RightMargin": -285.5,
+            "TopMargin": 5.5,
+            "BottomMargin": -45.5,
+            "Tag": 54,
+            "ActionTag": 1874797420,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "jiahaoBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "ID :",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 329.5,
+              "Y": 8.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 236,
+              "G": 202,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 309.5,
+            "RightMargin": -349.5,
+            "TopMargin": -22.5,
+            "BottomMargin": -5.5,
+            "Tag": 55,
+            "ActionTag": 1315896138,
+            "Size": {
+              "X": 40.0,
+              "Y": 28.0
+            },
+            "Name": "datingID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "123456789",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 409.5,
+              "Y": 9.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 347.0,
+            "RightMargin": -472.0,
+            "TopMargin": -21.0,
+            "BottomMargin": -2.0,
+            "Tag": 56,
+            "ActionTag": 770310205,
+            "Size": {
+              "X": 125.0,
+              "Y": 23.0
+            },
+            "Name": "gameID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_duihuan_dis.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_duihuan_down.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_duihuan_up.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 11,
+            "Scale9Width": 15,
+            "Scale9Height": 18,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 507.5,
+              "Y": -25.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 487.0,
+            "RightMargin": -528.0,
+            "TopMargin": 5.5,
+            "BottomMargin": -45.5,
+            "Tag": 58,
+            "ActionTag": -715712143,
+            "Size": {
+              "X": 41.0,
+              "Y": 40.0
+            },
+            "Name": "duihuanBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "vip0.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "vip0.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "vip0.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 8,
+            "Scale9Width": 37,
+            "Scale9Height": 11,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 499.0,
+              "Y": 10.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 465.5,
+            "RightMargin": -532.5,
+            "TopMargin": -24.0,
+            "BottomMargin": -3.0,
+            "Tag": 16,
+            "ActionTag": -1239287072,
+            "Size": {
+              "X": 67.0,
+              "Y": 27.0
+            },
+            "Name": "userVIP",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

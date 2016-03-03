@@ -1,0 +1,404 @@
+{
+  "ID": "6255a77d-3c49-4308-84d0-9f742eae7a8a",
+  "Version": "2.3.3.0",
+  "Name": "BR_zhuangLieBiao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 49,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Z_lieBiao_bg.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -389.0,
+            "RightMargin": -389.0,
+            "TopMargin": -271.5,
+            "BottomMargin": -271.5,
+            "Tag": 55,
+            "ActionTag": -822517832,
+            "Size": {
+              "X": 778.0,
+              "Y": 543.0
+            },
+            "Name": "BR_Z_Bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Z_woYaoShangZhuang2.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Z_woYaoShuangZhuang.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 129,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.0,
+              "Y": -190.4367
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -82.5,
+            "RightMargin": -84.5,
+            "TopMargin": 156.4367,
+            "BottomMargin": -224.4367,
+            "Tag": 58,
+            "ActionTag": 2031995671,
+            "Size": {
+              "X": 167.0,
+              "Y": 68.0
+            },
+            "Name": "BR_shangZhuang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_chaHao2.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_chaHao.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 321.1383,
+              "Y": 195.1715
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 289.6383,
+            "RightMargin": -352.6383,
+            "TopMargin": -226.6715,
+            "BottomMargin": 163.6715,
+            "Tag": 53,
+            "ActionTag": -2079112737,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "BR_chaHao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 47.0,
+              "Y": -140.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 47.0,
+            "RightMargin": -47.0,
+            "TopMargin": 140.0,
+            "BottomMargin": -140.0,
+            "Tag": 58,
+            "ActionTag": -1675078322,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_shuNode",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "上庄至少需要",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -66.0,
+              "Y": -142.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -126.0,
+            "RightMargin": 6.0,
+            "TopMargin": 130.5,
+            "BottomMargin": -153.5,
+            "Tag": 84,
+            "ActionTag": 1944524129,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "BR_text1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "银两",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 151.0,
+              "Y": -142.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 131.0,
+            "RightMargin": -171.0,
+            "TopMargin": 130.5,
+            "BottomMargin": -153.5,
+            "Tag": 85,
+            "ActionTag": -1853504168,
+            "Size": {
+              "X": 40.0,
+              "Y": 23.0
+            },
+            "Name": "BR_text2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_ziJiDiTiao.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.0,
+              "Y": -96.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -323.5,
+            "RightMargin": -325.5,
+            "TopMargin": 57.0,
+            "BottomMargin": -135.0,
+            "Tag": 86,
+            "ActionTag": 1712673224,
+            "Size": {
+              "X": 649.0,
+              "Y": 78.0
+            },
+            "Name": "BR_selfMessage",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "BR_ZhuangLiBie.plist",
+        "BR_ZhuangLiBie.png",
+        "Default/Button_Disable.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

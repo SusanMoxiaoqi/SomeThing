@@ -1,0 +1,468 @@
+{
+  "ID": "704d128e-ac9c-4009-90a8-113dda8e6a16",
+  "Version": "2.2.8.0",
+  "Name": "qieHuanzhanghao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLlogo.png",
+              "Plist": "dengLu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 496.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.775
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 338.0,
+            "RightMargin": 338.0,
+            "TopMargin": 25.0,
+            "BottomMargin": 377.0,
+            "Tag": 39,
+            "ActionTag": 296364969,
+            "Size": {
+              "X": 460.0,
+              "Y": 238.0
+            },
+            "Name": "DLlogo_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLzhanghao.png",
+              "Plist": "dengLu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 390.0,
+              "Y": 350.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3433,
+              "Y": 0.5469
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 337.5,
+            "RightMargin": 693.5,
+            "TopMargin": 273.0,
+            "BottomMargin": 333.0,
+            "Tag": 40,
+            "ActionTag": -1395399183,
+            "Size": {
+              "X": 105.0,
+              "Y": 34.0
+            },
+            "Name": "DLzhanghao_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kaishiyouxi_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kaishiyouxi_2.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kaishiyouxi_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 203,
+            "Scale9Height": 67,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 716.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6303,
+              "Y": 0.2656
+            },
+            "PreSize": {
+              "X": 0.1787,
+              "Y": 0.1047
+            },
+            "LeftMargin": 614.5,
+            "RightMargin": 318.5,
+            "TopMargin": 436.5,
+            "BottomMargin": 136.5,
+            "Tag": 44,
+            "ActionTag": -1465441473,
+            "Size": {
+              "X": 203.0,
+              "Y": 67.0
+            },
+            "Name": "Btn_kaishi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiehuanzhanghao_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiehuanzhanghao_2.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiehuanzhanghao_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 203,
+            "Scale9Height": 67,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 420.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3697,
+              "Y": 0.2656
+            },
+            "PreSize": {
+              "X": 0.1787,
+              "Y": 0.1047
+            },
+            "LeftMargin": 318.5,
+            "RightMargin": 614.5,
+            "TopMargin": 436.5,
+            "BottomMargin": 136.5,
+            "Tag": 45,
+            "ActionTag": -1997569555,
+            "Size": {
+              "X": 203.0,
+              "Y": 67.0
+            },
+            "Name": "Btn_qiehuan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLinput.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLinput.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLinput.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 324,
+            "Scale9Height": 49,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 627.0,
+              "Y": 325.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5519,
+              "Y": 0.5078
+            },
+            "PreSize": {
+              "X": 0.2852,
+              "Y": 0.0766
+            },
+            "LeftMargin": 465.0,
+            "RightMargin": 347.0,
+            "TopMargin": 266.0,
+            "BottomMargin": 325.0,
+            "Tag": 166,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.5,
+                  "Y": 25.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4398,
+                  "Y": 0.5204
+                },
+                "PreSize": {
+                  "X": 0.7716,
+                  "Y": 0.6122
+                },
+                "LeftMargin": 17.5,
+                "RightMargin": 56.5,
+                "TopMargin": 8.5,
+                "BottomMargin": 10.5,
+                "Tag": 167,
+                "ActionTag": -286791574,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_zhanghao",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLxiala_3.png",
+                  "Plist": "dengLu.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLxiala_2.png",
+                  "Plist": "dengLu.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLxiala_1.png",
+                  "Plist": "dengLu.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 31,
+                "Scale9Height": 17,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 296.5,
+                  "Y": 24.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9151,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0273,
+                  "Y": 0.0266
+                },
+                "LeftMargin": 281.0,
+                "RightMargin": 12.0,
+                "TopMargin": 16.0,
+                "BottomMargin": 16.0,
+                "Tag": 168,
+                "ActionTag": 1696984768,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 17.0
+                },
+                "Name": "Btn_xiala",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -281547086,
+            "Size": {
+              "X": 324.0,
+              "Y": 49.0
+            },
+            "Name": "DLinput_4",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,208 @@
+{
+  "ID": "04753210-5d99-4523-a920-ffb80a10ffa5",
+  "Version": "2.3.2.0",
+  "Name": "PaihangJinrifushumsg",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 74,
+        "Children": [
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "再升一个排名即可获得",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 67.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -125.0,
+            "RightMargin": -125.0,
+            "TopMargin": -78.5,
+            "BottomMargin": 55.5,
+            "Tag": 75,
+            "ActionTag": -1072778544,
+            "Size": {
+              "X": 250.0,
+              "Y": 23.0
+            },
+            "Name": "jrzj_msg",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_jiangchijiangli.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -3.0,
+              "Y": -46.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -96.5,
+            "RightMargin": -90.5,
+            "TopMargin": -53.0,
+            "BottomMargin": -145.0,
+            "Tag": 76,
+            "ActionTag": -478729568,
+            "Size": {
+              "X": 187.0,
+              "Y": 198.0
+            },
+            "Name": "paihang_jiangchijiangli_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_qudefen2.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_qudefen2.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_qudefen1.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 166,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -184.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.0,
+            "RightMargin": -98.0,
+            "TopMargin": 154.0,
+            "BottomMargin": -214.0,
+            "Tag": 77,
+            "ActionTag": -1121975614,
+            "Size": {
+              "X": 196.0,
+              "Y": 60.0
+            },
+            "Name": "jrzj_qudefen",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/Paihangbanglayer.plist",
+        "tanChuCengRes/Paihangbanglayer.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

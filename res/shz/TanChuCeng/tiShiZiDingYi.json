@@ -1,0 +1,456 @@
+{
+  "ID": "d7546e26-7438-42fc-a6dd-5fcddd2e89f2",
+  "Version": "2.2.9.0",
+  "Name": "tiShiZiDingYi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 129,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TS_bj.png",
+              "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -347.0,
+            "RightMargin": -347.0,
+            "TopMargin": -202.0,
+            "BottomMargin": -202.0,
+            "Tag": 91,
+            "ActionTag": -1767781148,
+            "Size": {
+              "X": 694.0,
+              "Y": 404.0
+            },
+            "Name": "tiShiBg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu3.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu2.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu1.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -140.8107,
+              "Y": -138.807
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -244.8107,
+            "RightMargin": 36.8107,
+            "TopMargin": 109.807,
+            "BottomMargin": -167.807,
+            "Tag": 93,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "buchong.png",
+                  "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 73.5,
+                "RightMargin": 73.5,
+                "TopMargin": 14.0,
+                "BottomMargin": 14.0,
+                "Tag": 94,
+                "ActionTag": -742264842,
+                "Size": {
+                  "X": 61.0,
+                  "Y": 30.0
+                },
+                "Name": "tiShibtnTittle",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -997789043,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "Button_zuo",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TS_tishi.png",
+              "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 175.0071
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -68.5,
+            "RightMargin": -68.5,
+            "TopMargin": -197.0071,
+            "BottomMargin": 153.0071,
+            "Tag": 95,
+            "ActionTag": 652426507,
+            "Size": {
+              "X": 137.0,
+              "Y": 44.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TS_bjkuang.png",
+              "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -299.5,
+            "RightMargin": -299.5,
+            "TopMargin": -88.5,
+            "BottomMargin": -88.5,
+            "Tag": 96,
+            "ActionTag": 279638433,
+            "Size": {
+              "X": 599.0,
+              "Y": 177.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu3.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu2.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "anniu1.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 143.6279,
+              "Y": -138.807
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 39.6279,
+            "RightMargin": -247.6279,
+            "TopMargin": 109.807,
+            "BottomMargin": -167.807,
+            "Tag": 97,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "XTXX_guanbi.png",
+                  "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 74.0,
+                "RightMargin": 74.0,
+                "TopMargin": 14.5,
+                "BottomMargin": 14.5,
+                "Tag": 98,
+                "ActionTag": -369451660,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 29.0
+                },
+                "Name": "tiShibtnTittle",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -834141187,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "Button_you",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 25,
+            "LabelText": "",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -3.5,
+              "Y": -2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -253.5,
+            "RightMargin": -246.5,
+            "TopMargin": -73.0,
+            "BottomMargin": -77.0,
+            "Tag": 58,
+            "ActionTag": 1911186925,
+            "Size": {
+              "X": 500.0,
+              "Y": 150.0
+            },
+            "Name": "showTiShiWenZi",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

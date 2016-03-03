@@ -1,0 +1,198 @@
+{
+  "ID": "e03aecec-d873-4373-aef0-ff1d693dca5e",
+  "Version": "2.3.3.0",
+  "Name": "Qushi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_di.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -520.0,
+            "RightMargin": -520.0,
+            "TopMargin": -265.5,
+            "BottomMargin": -265.5,
+            "Tag": 56,
+            "ActionTag": 1404548198,
+            "Size": {
+              "X": 1040.0,
+              "Y": 531.0
+            },
+            "Name": "qushi_mainbg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_X2.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_X2.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_X.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 467.0,
+              "Y": 182.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 435.5,
+            "RightMargin": -498.5,
+            "TopMargin": -213.5,
+            "BottomMargin": 150.5,
+            "Tag": 57,
+            "ActionTag": -1707348651,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "qushi_btnquit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_newTu.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -375.0,
+              "Y": 129.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -403.5,
+            "RightMargin": 346.5,
+            "TopMargin": -158.0,
+            "BottomMargin": 100.0,
+            "Tag": 65,
+            "ActionTag": -967051328,
+            "Size": {
+              "X": 57.0,
+              "Y": 58.0
+            },
+            "Name": "qushi_newTu",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/BR_QS.plist",
+        "baiRenTanChuRes/BR_QS.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

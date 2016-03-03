@@ -1,0 +1,404 @@
+{
+  "ID": "eeeeee3d-df96-445e-a06a-3281077a343f",
+  "Version": "2.2.8.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 15,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "beijing.png",
+              "Plist": "jiaZai.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 319.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4984
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 1.0,
+            "BottomMargin": -1.0,
+            "Tag": 19,
+            "ActionTag": -210095555,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "beijing_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "jindutiao1.png",
+              "Plist": "jiaZai.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 105.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1641
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 219.0,
+            "RightMargin": 219.0,
+            "TopMargin": 519.0,
+            "BottomMargin": 89.0,
+            "Tag": 17,
+            "ActionTag": 1532452717,
+            "Size": {
+              "X": 698.0,
+              "Y": 32.0
+            },
+            "Name": "jindutiao1_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "jindutiao2.png",
+              "Plist": "jiaZai.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 238.5,
+              "Y": 105.0
+            },
+            "Scale": {
+              "ScaleX": 0.001,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2099,
+              "Y": 0.1641
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.5,
+            "RightMargin": 238.5,
+            "TopMargin": 527.0,
+            "BottomMargin": 97.0,
+            "Tag": 18,
+            "ActionTag": 1264286922,
+            "Size": {
+              "X": 659.0,
+              "Y": 16.0
+            },
+            "Name": "jindutiao2_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "jdt.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 246.0,
+              "Y": 103.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2165,
+              "Y": 0.1617
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 246.0,
+            "RightMargin": 890.0,
+            "TopMargin": 536.5,
+            "BottomMargin": 103.5,
+            "Tag": 27,
+            "ActionTag": -1971505082,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Particle_1",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1005.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8847,
+              "Y": 0.3359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1005.0,
+            "RightMargin": 131.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 215.0,
+            "Tag": 13,
+            "ActionTag": -333492745,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 905.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7967,
+              "Y": 0.3359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 905.0,
+            "RightMargin": 231.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 215.0,
+            "Tag": 14,
+            "ActionTag": 817372722,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 805.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7086,
+              "Y": 0.3359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 805.0,
+            "RightMargin": 331.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 215.0,
+            "Tag": 15,
+            "ActionTag": -498463163,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 705.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6206,
+              "Y": 0.3359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 705.0,
+            "RightMargin": 431.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 215.0,
+            "Tag": 16,
+            "ActionTag": -296767141,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 605.0,
+              "Y": 215.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5326,
+              "Y": 0.3359
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 605.0,
+            "RightMargin": 531.0,
+            "TopMargin": 425.0,
+            "BottomMargin": 215.0,
+            "Tag": 17,
+            "ActionTag": -61787476,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 566.5,
+              "Y": 152.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4987,
+              "Y": 0.2375
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 566.5,
+            "RightMargin": 569.5,
+            "TopMargin": 488.0,
+            "BottomMargin": 152.0,
+            "Tag": 14,
+            "ActionTag": -278287739,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "tishiyu",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

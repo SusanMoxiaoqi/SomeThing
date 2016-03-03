@@ -1,0 +1,20 @@
+info face="FZY4JW--GB1-0" size=28 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=33 base=27 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="BR_yongHuFeng3.png"
+chars count=16
+char id=21315 x=2 y=2 width=30 height=30 xoffset=1 yoffset=3 xadvance=28 page=0 chnl=0 letter="千"
+char id=20159 x=34 y=2 width=29 height=30 xoffset=1 yoffset=3 xadvance=28 page=0 chnl=0 letter="亿"
+char id=19975 x=65 y=2 width=29 height=29 xoffset=1 yoffset=4 xadvance=28 page=0 chnl=0 letter="万"
+char id=30334 x=96 y=2 width=28 height=28 xoffset=1 yoffset=4 xadvance=28 page=0 chnl=0 letter="百"
+char id=48 x=2 y=34 width=18 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="0"
+char id=52 x=22 y=34 width=18 height=25 xoffset=0 yoffset=5 xadvance=16 page=0 chnl=0 letter="4"
+char id=51 x=42 y=34 width=17 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="3"
+char id=54 x=61 y=34 width=16 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="6"
+char id=57 x=79 y=34 width=16 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="9"
+char id=56 x=97 y=34 width=16 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="8"
+char id=50 x=2 y=61 width=16 height=25 xoffset=1 yoffset=5 xadvance=16 page=0 chnl=0 letter="2"
+char id=53 x=20 y=61 width=17 height=24 xoffset=1 yoffset=6 xadvance=16 page=0 chnl=0 letter="5"
+char id=55 x=39 y=61 width=17 height=23 xoffset=0 yoffset=7 xadvance=15 page=0 chnl=0 letter="7"
+char id=49 x=58 y=61 width=10 height=23 xoffset=1 yoffset=7 xadvance=10 page=0 chnl=0 letter="1"
+char id=44 x=70 y=61 width=9 height=11 xoffset=-0 yoffset=23 xadvance=7 page=0 chnl=0 letter=","
+char id=32 x=81 y=61 width=0 height=0 xoffset=7 yoffset=47 xadvance=7 page=0 chnl=0 letter="space"

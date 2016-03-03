@@ -1,0 +1,309 @@
+{
+  "ID": "97ad7017-38fd-4ce2-a36c-4c8a7121557a",
+  "Version": "2.3.2.3",
+  "Name": "GamePay",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 50,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "c_xiakuang.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -278.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -568.0,
+            "RightMargin": -568.0,
+            "TopMargin": 236.0,
+            "BottomMargin": -320.0,
+            "Tag": 52,
+            "ActionTag": 1776833183,
+            "Size": {
+              "X": 1136.0,
+              "Y": 84.0
+            },
+            "Name": "c_xiakuang_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_zidongshouzhang_3.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_zidongshouzhang_2.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_zidongshouzhang_1.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 124,
+            "Scale9Height": 40,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -366.0,
+              "Y": -278.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -443.0,
+            "RightMargin": 289.0,
+            "TopMargin": 247.0,
+            "BottomMargin": -309.0,
+            "Tag": 53,
+            "ActionTag": 1337934631,
+            "Size": {
+              "X": 154.0,
+              "Y": 62.0
+            },
+            "Name": "cz_btn_zidongshouzhang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "c_yinliang.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 97.0,
+              "Y": -278.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -45.0,
+            "RightMargin": -239.0,
+            "TopMargin": 248.5,
+            "BottomMargin": -307.5,
+            "Tag": 54,
+            "ActionTag": -1721416522,
+            "Size": {
+              "X": 284.0,
+              "Y": 59.0
+            },
+            "Name": "cz_sp_yinliang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "c_jiangjuan.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.0,
+              "Y": -278.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 256.0,
+            "RightMargin": -544.0,
+            "TopMargin": 248.5,
+            "BottomMargin": -307.5,
+            "Tag": 55,
+            "ActionTag": 1626768848,
+            "Size": {
+              "X": 288.0,
+              "Y": 59.0
+            },
+            "Name": "cz_sp_jiangquan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 136.2502,
+              "Y": -273.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 136.2502,
+            "RightMargin": -136.2502,
+            "TopMargin": 273.75,
+            "BottomMargin": -273.75,
+            "Tag": 56,
+            "ActionTag": -1932585526,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "cz_fnt_yinliang",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 446.2526,
+              "Y": -273.7501
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 446.2526,
+            "RightMargin": -446.2526,
+            "TopMargin": 273.7501,
+            "BottomMargin": -273.7501,
+            "Tag": 57,
+            "ActionTag": -1443313503,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "cz_fnt_jiangquan",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/chongZhi.plist",
+        "tanChuCengRes/chongZhi.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

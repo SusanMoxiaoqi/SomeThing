@@ -1,0 +1,409 @@
+{
+  "ID": "f342b6cf-15a5-4002-af18-fc3bd9b92395",
+  "Version": "2.2.6.0",
+  "Name": "GameHall_back",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 129,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tanChuCeng_bg.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -6.6245,
+              "Y": -4.609
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -478.6245,
+            "RightMargin": -465.3755,
+            "TopMargin": -287.391,
+            "BottomMargin": -296.609,
+            "Tag": 38,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_yinhang.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 476.5721,
+                  "Y": 553.5649
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5048,
+                  "Y": 0.9479
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 405.0721,
+                "RightMargin": 395.9279,
+                "TopMargin": 9.4351,
+                "BottomMargin": 532.5649,
+                "Tag": 39,
+                "ActionTag": -1081521340,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 42.0
+                },
+                "Name": "bg_yh_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi3.png",
+                  "Plist": "tanChuCengRes/GongYong.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi2.png",
+                  "Plist": "tanChuCengRes/GongYong.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi1.png",
+                  "Plist": "tanChuCengRes/GongYong.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 55,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 922.4077,
+                  "Y": 514.4972
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9771,
+                  "Y": 0.881
+                },
+                "PreSize": {
+                  "X": 0.09,
+                  "Y": 0.1455
+                },
+                "LeftMargin": 879.9077,
+                "RightMargin": -20.9077,
+                "TopMargin": 27.0028,
+                "BottomMargin": 471.9972,
+                "Tag": 35,
+                "ActionTag": 2004762920,
+                "Size": {
+                  "X": 85.0,
+                  "Y": 85.0
+                },
+                "Name": "Button_chahao",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_yinhangjilu_.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_yinhangjilu.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_yinhangjilu.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 140,
+                "Scale9Height": 28,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 778.2113,
+                  "Y": 442.7725
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8244,
+                  "Y": 0.7582
+                },
+                "PreSize": {
+                  "X": 0.1801,
+                  "Y": 0.0856
+                },
+                "LeftMargin": 693.2113,
+                "RightMargin": 80.7887,
+                "TopMargin": 116.2275,
+                "BottomMargin": 417.7725,
+                "Tag": 42,
+                "ActionTag": -1778841131,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 50.0
+                },
+                "Name": "Button_yinhangjilu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_qukuan_.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_qukuan.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_qukuan.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 140,
+                "Scale9Height": 28,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 402.8552,
+                  "Y": 442.7725
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4268,
+                  "Y": 0.7582
+                },
+                "PreSize": {
+                  "X": 0.1801,
+                  "Y": 0.0856
+                },
+                "LeftMargin": 317.8552,
+                "RightMargin": 456.1448,
+                "TopMargin": 116.2275,
+                "BottomMargin": 417.7725,
+                "Tag": 43,
+                "ActionTag": -1114901513,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 50.0
+                },
+                "Name": "Button_qukuan",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_cunkuan_.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_cunkuan.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "yh_cunkuan.png",
+                  "Plist": "tanChuCengRes/yinhang.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 140,
+                "Scale9Height": 28,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 588.415,
+                  "Y": 442.7725
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6233,
+                  "Y": 0.7582
+                },
+                "PreSize": {
+                  "X": 0.1801,
+                  "Y": 0.0856
+                },
+                "LeftMargin": 503.415,
+                "RightMargin": 270.585,
+                "TopMargin": 116.2275,
+                "BottomMargin": 417.7725,
+                "Tag": 44,
+                "ActionTag": -48054479,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 50.0
+                },
+                "Name": "Button_cunkuan",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1937259758,
+            "Size": {
+              "X": 944.0,
+              "Y": 584.0
+            },
+            "Name": "CheckinBankBg_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

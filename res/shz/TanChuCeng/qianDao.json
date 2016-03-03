@@ -1,0 +1,2605 @@
+{
+  "ID": "deac742a-1e1c-458c-8993-c0715274c27a",
+  "Version": "2.2.8.0",
+  "Name": "qianDao",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 5,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tanChuCeng_bg.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -472.0,
+            "RightMargin": -472.0,
+            "TopMargin": -292.0,
+            "BottomMargin": -292.0,
+            "Tag": 6,
+            "ActionTag": 250713405,
+            "Size": {
+              "X": 944.0,
+              "Y": 584.0
+            },
+            "Name": "qd_bg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_bjkuang.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.7576,
+              "Y": 34.5378
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -421.2424,
+            "RightMargin": -422.7576,
+            "TopMargin": -172.0378,
+            "BottomMargin": -102.9622,
+            "Tag": 8,
+            "ActionTag": -1027013442,
+            "Size": {
+              "X": 844.0,
+              "Y": 275.0
+            },
+            "Name": "bg_bg01_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_bjkuang1.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1.1819,
+              "Y": -158.4628
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -423.1819,
+            "RightMargin": -420.8181,
+            "TopMargin": 121.4628,
+            "BottomMargin": -195.4628,
+            "Tag": 9,
+            "ActionTag": 1847047506,
+            "Size": {
+              "X": 844.0,
+              "Y": 74.0
+            },
+            "Name": "qd_bg02_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qd_btn3.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qd_btn2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "qd_btn1.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 186,
+            "Scale9Height": 62,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.8182,
+              "Y": -238.4625
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -101.1818,
+            "RightMargin": -106.8182,
+            "TopMargin": 209.4625,
+            "BottomMargin": -267.4625,
+            "Tag": 10,
+            "ActionTag": -649569500,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg1.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.1824,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -377.6824,
+            "RightMargin": -377.3176,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 12,
+            "ActionTag": -89027907,
+            "Size": {
+              "X": 755.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg1_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 300.0,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 245.5,
+            "RightMargin": -354.5,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 61,
+            "ActionTag": -205922609,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_38",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 180.0,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 125.5,
+            "RightMargin": -234.5,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 60,
+            "ActionTag": 1977338528,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_37",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.0,
+              "Y": 66.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 5.5,
+            "RightMargin": -114.5,
+            "TopMargin": -71.5,
+            "BottomMargin": 60.5,
+            "Tag": 59,
+            "ActionTag": 1492438525,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_36",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -51.3817,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -105.8817,
+            "RightMargin": -3.1183,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 58,
+            "ActionTag": -532169660,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_35",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -180.0,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -234.5,
+            "RightMargin": 125.5,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 57,
+            "ActionTag": 1596420019,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_34",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tiao_bg2.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -300.0,
+              "Y": 67.7891
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -354.5,
+            "RightMargin": 245.5,
+            "TopMargin": -73.2891,
+            "BottomMargin": 62.2891,
+            "Tag": 56,
+            "ActionTag": 2085522352,
+            "Size": {
+              "X": 109.0,
+              "Y": 11.0
+            },
+            "Name": "qd_progressbg2_33",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VIP0.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -266.6828,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -292.6828,
+            "RightMargin": 240.6828,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 20,
+            "ActionTag": 2048626418,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip0_01_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip1_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -189.9328,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -215.9328,
+            "RightMargin": 163.9328,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 21,
+            "ActionTag": -693359860,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip1_01_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip2_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -113.1827,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -139.1827,
+            "RightMargin": 87.1827,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 22,
+            "ActionTag": 1354457338,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip2_01_16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip3_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -36.4327,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -62.4327,
+            "RightMargin": 10.4327,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 23,
+            "ActionTag": -707990347,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip3_01_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip4_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 40.3173,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.3173,
+            "RightMargin": -66.3173,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 24,
+            "ActionTag": -1118971452,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip4_01_18",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip5_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 117.0673,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 91.0673,
+            "RightMargin": -143.0673,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 25,
+            "ActionTag": 978345923,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip5_01_19",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip6_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 193.8173,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 167.8173,
+            "RightMargin": -219.8173,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 26,
+            "ActionTag": 357210016,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip6_01_20",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip7_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 270.5673,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 244.5673,
+            "RightMargin": -296.5673,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 27,
+            "ActionTag": -167002471,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip7_01_21",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_vip8_.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 347.3173,
+              "Y": -149.9619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 321.3173,
+            "RightMargin": -373.3173,
+            "TopMargin": 139.4619,
+            "BottomMargin": -160.4619,
+            "Tag": 28,
+            "ActionTag": -548752107,
+            "Size": {
+              "X": 52.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vip8_01_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "1",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -267.1822,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -297.1822,
+            "RightMargin": 237.1822,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 29,
+            "ActionTag": 899506302,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "2",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -190.6197,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -220.6197,
+            "RightMargin": 160.6197,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 30,
+            "ActionTag": 1124301303,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "3",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -114.0571,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -144.0571,
+            "RightMargin": 84.0571,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 31,
+            "ActionTag": -254907745,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_3",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "4",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -37.4946,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -67.4946,
+            "RightMargin": 7.4946,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 32,
+            "ActionTag": -270642695,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_4",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "5",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 39.0679,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.0679,
+            "RightMargin": -69.0679,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 33,
+            "ActionTag": 1090412287,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_5",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "6",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 115.6304,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.6304,
+            "RightMargin": -145.6304,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 34,
+            "ActionTag": -1755173322,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_6",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "7",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 192.1929,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 162.1929,
+            "RightMargin": -222.1929,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 35,
+            "ActionTag": -1442751881,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_7",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "8",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 268.7554,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 238.7554,
+            "RightMargin": -298.7554,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 36,
+            "ActionTag": 1229925829,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_8",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "0",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 345.3179,
+              "Y": -176.9626
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 88,
+              "G": 59,
+              "B": 59
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 315.3179,
+            "RightMargin": -375.3179,
+            "TopMargin": 165.4626,
+            "BottomMargin": -188.4626,
+            "Tag": 37,
+            "ActionTag": 1303212145,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "Text_9",
+            "ctype": "TextObjectData"
+          },
+          {
+            "LabelText": "1000",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "tanChuCengRes/qd_2.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 69.3179,
+              "Y": -1.9627
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 31.3179,
+            "RightMargin": -107.3179,
+            "TopMargin": -20.0373,
+            "BottomMargin": -23.9627,
+            "Tag": 45,
+            "ActionTag": -1934363881,
+            "Size": {
+              "X": 76.0,
+              "Y": 44.0
+            },
+            "Name": "BitmapFontLabel_8",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi3.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi2.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "guanbi1.png",
+              "Plist": "tanChuCengRes/GongYong.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 85,
+            "Scale9Height": 85,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 444.738,
+              "Y": 234.2973
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 402.238,
+            "RightMargin": -487.238,
+            "TopMargin": -276.7973,
+            "BottomMargin": 191.7973,
+            "Tag": 62,
+            "ActionTag": 1812298159,
+            "Size": {
+              "X": 85.0,
+              "Y": 85.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold1_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold1_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold1_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -356.6835,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -393.1835,
+            "RightMargin": 320.1835,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 100,
+            "Children": [
+              {
+                "LabelText": "1000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": -2.0,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 64,
+                "ActionTag": 1314960182,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1433846207,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold2_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold2_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold2_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -236.9342,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -273.4342,
+            "RightMargin": 200.4342,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 101,
+            "Children": [
+              {
+                "LabelText": "2000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": -2.0,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 65,
+                "ActionTag": 935611102,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_2",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1546347842,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold3_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold3_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold3_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -117.1849,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -153.6849,
+            "RightMargin": 80.6849,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 102,
+            "Children": [
+              {
+                "LabelText": "3000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": -2.0,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 66,
+                "ActionTag": 596886887,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_3",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 368846673,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold4_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold4_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold4_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.5644,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -33.9356,
+            "RightMargin": -39.0644,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 103,
+            "Children": [
+              {
+                "LabelText": "4000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.5,
+                "RightMargin": -1.5,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 67,
+                "ActionTag": -560257648,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_4",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 758035076,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_6",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold5_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold5_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold5_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 122.3137,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 85.8137,
+            "RightMargin": -158.8137,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 104,
+            "Children": [
+              {
+                "LabelText": "5000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.5,
+                "RightMargin": -1.5,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 68,
+                "ActionTag": 889205935,
+                "Size": {
+                  "X": 73.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_5",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 341667569,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_7",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold6_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold6_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold6_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 242.063,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.563,
+            "RightMargin": -278.563,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 105,
+            "Children": [
+              {
+                "LabelText": "6000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1.0,
+                "RightMargin": -2.0,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 69,
+                "ActionTag": -1843790264,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_6",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1403362255,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_8",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold7_03.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold7_02.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_gold7_01.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 73,
+            "Scale9Height": 82,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 361.8124,
+              "Y": 67.7868
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 325.3124,
+            "RightMargin": -398.3124,
+            "TopMargin": -108.7868,
+            "BottomMargin": 26.7868,
+            "Tag": 106,
+            "Children": [
+              {
+                "LabelText": "7000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/qd_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 38.0,
+                  "Y": 15.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5205,
+                  "Y": 0.1829
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.5,
+                "RightMargin": -2.5,
+                "TopMargin": 55.5,
+                "BottomMargin": 3.5,
+                "Tag": 70,
+                "ActionTag": 1747620497,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 23.0
+                },
+                "Name": "BitmapFontLabel_7",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -74705561,
+            "Size": {
+              "X": 73.0,
+              "Y": 82.0
+            },
+            "Name": "Button_9",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "tanChuCengRes/qd_2.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 484.3184,
+              "Y": -85.9627
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 484.3184,
+            "RightMargin": -484.3184,
+            "TopMargin": 85.9627,
+            "BottomMargin": -85.9627,
+            "Tag": 51,
+            "ActionTag": -2064001982,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BitmapFontLabel_9",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "tanChuCengRes/qdtx.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -357.4145,
+              "Y": 66.3175
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -357.4145,
+            "RightMargin": 357.4145,
+            "TopMargin": -66.3175,
+            "BottomMargin": 66.3175,
+            "Tag": 230,
+            "ActionTag": 1573553991,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Particle_1",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_liaojieVIP.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_liaojieVIP.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_liaojieVIP.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 87,
+            "Scale9Height": 21,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "G": 127,
+              "B": 80
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 11.8168,
+              "Y": -77.4629
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -31.6832,
+            "RightMargin": -55.3168,
+            "TopMargin": 66.9629,
+            "BottomMargin": -87.9629,
+            "Tag": 53,
+            "ActionTag": -1376608905,
+            "Size": {
+              "X": 87.0,
+              "Y": 21.0
+            },
+            "Name": "qd_vipBtn_5",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "mrqd_qiandao.png",
+              "Plist": "tanChuCengRes/meiriqiandao_new.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 3.3762,
+              "Y": 261.3625
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -103.6238,
+            "RightMargin": -110.3762,
+            "TopMargin": -283.3625,
+            "BottomMargin": 239.3625,
+            "Tag": 53,
+            "ActionTag": -812484390,
+            "Size": {
+              "X": 214.0,
+              "Y": 44.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

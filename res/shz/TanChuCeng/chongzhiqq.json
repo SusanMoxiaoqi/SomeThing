@@ -1,0 +1,4503 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.1.1",
+  "Name": "chongzhiqq",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bj.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 1320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 2.0625
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -999.5,
+            "BottomMargin": 1000.5,
+            "Tag": 40,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "v_shangkuang.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "TopMargin": -0.5,
+                "BottomMargin": 560.5,
+                "Tag": 75,
+                "ActionTag": 1622939370,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 79.0
+                },
+                "Name": "Sprite_1_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 568.0,
+                  "Y": 535.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8372
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 568.0,
+                "RightMargin": 568.0,
+                "TopMargin": 104.0,
+                "BottomMargin": 535.0,
+                "Tag": 115,
+                "ActionTag": 523213740,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "tishi_vip",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "nengliangtiaobg.png",
+                  "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 490.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7668
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 362.5,
+                "RightMargin": 362.5,
+                "TopMargin": 132.0,
+                "BottomMargin": 473.0,
+                "Tag": 113,
+                "ActionTag": -1697628927,
+                "Size": {
+                  "X": 411.0,
+                  "Y": 34.0
+                },
+                "Name": "nengliangtiaobg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "nengliangtiao.png",
+                  "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 364.5,
+                  "Y": 490.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3209,
+                  "Y": 0.7668
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 364.5,
+                "RightMargin": 744.5,
+                "TopMargin": 134.0,
+                "BottomMargin": 475.0,
+                "Tag": 114,
+                "ActionTag": 780140787,
+                "Size": {
+                  "X": 27.0,
+                  "Y": 30.0
+                },
+                "Name": "nengliangtiao",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 310.0,
+                  "Y": 490.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.2729,
+                  "Y": 0.7668
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 310.0,
+                "RightMargin": 826.0,
+                "TopMargin": 149.0,
+                "BottomMargin": 490.0,
+                "Tag": 46,
+                "ActionTag": 1883518586,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Sprite_vip_now",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 830.0,
+                  "Y": 490.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.7306,
+                  "Y": 0.7668
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 830.0,
+                "RightMargin": 306.0,
+                "TopMargin": 149.0,
+                "BottomMargin": 490.0,
+                "Tag": 47,
+                "ActionTag": -1536415777,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Sprite_vip_next",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 2450,
+                  "Height": 640
+                },
+                "ScrollDirectionType": "Horizontal",
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 250,
+                  "G": 245,
+                  "B": 242
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0077,
+                  "Y": -1.0204
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": -0.0016
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.875
+                },
+                "LeftMargin": 0.0077,
+                "RightMargin": -0.0077,
+                "TopMargin": 80.0204,
+                "BottomMargin": -1.0204,
+                "Tag": 91,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip1.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0653,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.5,
+                    "RightMargin": 2161.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 92,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 103,
+                        "ActionTag": 466639887,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_1",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": -2044753905,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip1_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip2.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 460.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1878,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 331.5,
+                    "RightMargin": 1861.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 93,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 104,
+                        "ActionTag": 135054801,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": -1372508212,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip2_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip3.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 760.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3102,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 631.5,
+                    "RightMargin": 1561.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 94,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 105,
+                        "ActionTag": -1875167066,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_0",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 1235147029,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip3_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip4.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1060.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4327,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 931.5,
+                    "RightMargin": 1261.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 95,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 106,
+                        "ActionTag": -686458654,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_1",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 1942449554,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip4_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip5.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1360.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5551,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1231.5,
+                    "RightMargin": 961.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 96,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 107,
+                        "ActionTag": -239207998,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_2",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 927311281,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip5_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip6.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1660.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6776,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1531.5,
+                    "RightMargin": 661.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 97,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 108,
+                        "ActionTag": -772064569,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_3",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 1763646006,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip6_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip7.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1960.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1831.5,
+                    "RightMargin": 361.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 100,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 109,
+                        "ActionTag": 975522725,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_3_0",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": 1762516082,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip7_sprite",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "chongzhi_vip8.png",
+                      "Plist": "tanChuCengRes/chongzhiVIP.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2260.0,
+                      "Y": 360.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9224,
+                      "Y": 0.5625
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 2131.5,
+                    "RightMargin": 61.5,
+                    "TopMargin": 105.0,
+                    "BottomMargin": 185.0,
+                    "Tag": 153,
+                    "Children": [
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.0,
+                          "Y": -40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4864,
+                          "Y": -0.1143
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.0,
+                        "RightMargin": 132.0,
+                        "TopMargin": 390.0,
+                        "BottomMargin": -40.0,
+                        "Tag": 154,
+                        "ActionTag": -2045762141,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "Node_2_3_0_4",
+                        "ctype": "SingleNodeObjectData"
+                      }
+                    ],
+                    "ActionTag": -667837349,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 350.0
+                    },
+                    "Name": "vip8_sprite",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -359672632,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 560.0
+                },
+                "Name": "vip_ScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 38,
+                "Scale9OriginY": 8,
+                "Scale9Width": 88,
+                "Scale9Height": 61,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 884.9993,
+                  "Y": 599.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.779,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.1205
+                },
+                "LeftMargin": 802.9993,
+                "RightMargin": 169.0007,
+                "TopMargin": 0.5003,
+                "BottomMargin": 561.4997,
+                "Tag": 41,
+                "ActionTag": -343614019,
+                "Size": {
+                  "X": 164.0,
+                  "Y": 77.0
+                },
+                "Name": "youxichongzhi_but_vip",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 164,
+                "Scale9Height": 77,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1052.9998,
+                  "Y": 599.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9269,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.1203
+                },
+                "LeftMargin": 970.9998,
+                "RightMargin": 1.0002,
+                "TopMargin": 0.5003,
+                "BottomMargin": 561.4997,
+                "Tag": 42,
+                "ActionTag": 1152734524,
+                "Size": {
+                  "X": 164.0,
+                  "Y": 77.0
+                },
+                "Name": "viptequan_but_vip",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-2.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 80,
+                "Scale9Height": 75,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0352,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.0704,
+                  "Y": 0.1172
+                },
+                "RightMargin": 1056.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 562.5,
+                "Tag": 43,
+                "ActionTag": -651011699,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 75.0
+                },
+                "Name": "rechang_back_but_vip",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1231264337,
+            "Size": {
+              "X": 1136.0,
+              "Y": 639.0
+            },
+            "Name": "vip_background",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bj.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0405,
+              "Y": 0.0719
+            },
+            "TopMargin": 0.5,
+            "BottomMargin": 0.5,
+            "Tag": 28,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "v_shangkuang.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "TopMargin": -0.5,
+                "BottomMargin": 560.5,
+                "Tag": 46,
+                "ActionTag": -1146059760,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 79.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "youxichongzhi-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 164,
+                "Scale9Height": 77,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 885.0002,
+                  "Y": 599.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.779,
+                  "Y": 0.9374
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.1205
+                },
+                "LeftMargin": 803.0002,
+                "RightMargin": 168.9998,
+                "TopMargin": 1.5,
+                "BottomMargin": 560.5,
+                "Tag": 34,
+                "ActionTag": 786026875,
+                "Size": {
+                  "X": 164.0,
+                  "Y": 77.0
+                },
+                "Name": "youxichongzhi_but",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn-vip-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 164,
+                "Scale9Height": 77,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1054.0,
+                  "Y": 598.9999
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9278,
+                  "Y": 0.9374
+                },
+                "PreSize": {
+                  "X": 0.1444,
+                  "Y": 0.1205
+                },
+                "LeftMargin": 972.0,
+                "TopMargin": 1.5001,
+                "BottomMargin": 560.4999,
+                "Tag": 35,
+                "ActionTag": 203852960,
+                "Size": {
+                  "X": 164.0,
+                  "Y": 77.0
+                },
+                "Name": "viptequan_but",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 2850,
+                  "Height": 640
+                },
+                "ScrollDirectionType": "Horizontal",
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 250,
+                  "G": 245,
+                  "B": 242
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 122.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.1909
+                },
+                "PreSize": {
+                  "X": 1.1833,
+                  "Y": 0.625
+                },
+                "TopMargin": 117.0,
+                "BottomMargin": 122.0,
+                "Tag": 29,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 470.7843,
+                      "Y": 450.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1652,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 342.2843,
+                    "RightMargin": 2250.7158,
+                    "TopMargin": 13.9999,
+                    "BottomMargin": 274.0001,
+                    "Tag": 33,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_1.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 67.8577,
+                        "RightMargin": 63.1423,
+                        "TopMargin": 127.9303,
+                        "BottomMargin": 149.0697,
+                        "Tag": 100,
+                        "ActionTag": -513023454,
+                        "Size": {
+                          "X": 126.0,
+                          "Y": 75.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 204,
+                        "ActionTag": -859537618,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6785,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6785,
+                        "RightMargin": 131.3215,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 205,
+                        "ActionTag": 746939264,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 48.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1868,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -4.0,
+                        "RightMargin": 157.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 79,
+                        "ActionTag": -1569358564,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 48.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1868,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -4.0,
+                        "RightMargin": 157.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 80,
+                        "ActionTag": 143549721,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 95,
+                        "ActionTag": 5772848,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -360273356,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 781.5685,
+                      "Y": 450.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2742,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 653.0685,
+                    "RightMargin": 1939.9315,
+                    "TopMargin": 13.9998,
+                    "BottomMargin": 274.0002,
+                    "Tag": 207,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_2.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 62.3577,
+                        "RightMargin": 57.6423,
+                        "TopMargin": 119.9303,
+                        "BottomMargin": 141.0697,
+                        "Tag": 208,
+                        "ActionTag": 1543155086,
+                        "Size": {
+                          "X": 137.0,
+                          "Y": 91.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 209,
+                        "ActionTag": -671270744,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 210,
+                        "ActionTag": 744050739,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.9998,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1868,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -4.0002,
+                        "RightMargin": 157.0002,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 91,
+                        "ActionTag": -1520063093,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.9998,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1868,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -4.0002,
+                        "RightMargin": 157.0002,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 92,
+                        "ActionTag": -412336040,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 104,
+                        "ActionTag": -530930534,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -217451104,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_12",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1092.3529,
+                      "Y": 450.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3833,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 963.8529,
+                    "RightMargin": 1629.1471,
+                    "TopMargin": 13.9998,
+                    "BottomMargin": 274.0002,
+                    "Tag": 212,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_3.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 63.8577,
+                        "RightMargin": 59.1423,
+                        "TopMargin": 116.9303,
+                        "BottomMargin": 138.0697,
+                        "Tag": 213,
+                        "ActionTag": -1112629836,
+                        "Size": {
+                          "X": 134.0,
+                          "Y": 97.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 214,
+                        "ActionTag": -923069190,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 215,
+                        "ActionTag": 1987289961,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.0023,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.179,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.9977,
+                        "RightMargin": 158.9977,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 89,
+                        "ActionTag": -851743216,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 46.0023,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.179,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.9977,
+                        "RightMargin": 158.9977,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 90,
+                        "ActionTag": 450798294,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 103,
+                        "ActionTag": -468339363,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -838575943,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_30",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1403.1373,
+                      "Y": 450.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4923,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1274.6373,
+                    "RightMargin": 1318.3627,
+                    "TopMargin": 13.9998,
+                    "BottomMargin": 274.0002,
+                    "Tag": 217,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_4.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 60.8577,
+                        "RightMargin": 56.1423,
+                        "TopMargin": 107.9303,
+                        "BottomMargin": 129.0697,
+                        "Tag": 218,
+                        "ActionTag": -323684064,
+                        "Size": {
+                          "X": 140.0,
+                          "Y": 115.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 219,
+                        "ActionTag": -749446899,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 220,
+                        "ActionTag": 379329677,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -8.0,
+                        "RightMargin": 161.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 87,
+                        "ActionTag": -1306853023,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1712,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -8.0,
+                        "RightMargin": 161.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 88,
+                        "ActionTag": -1819086572,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 102,
+                        "ActionTag": -1572611679,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 896885875,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_60",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.0,
+                      "Y": 450.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0561,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.5,
+                    "RightMargin": 2561.5,
+                    "TopMargin": 13.9998,
+                    "BottomMargin": 274.0002,
+                    "Tag": 222,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_5.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 59.8577,
+                        "RightMargin": 55.1423,
+                        "TopMargin": 113.4303,
+                        "BottomMargin": 134.5697,
+                        "Tag": 223,
+                        "ActionTag": 1622246338,
+                        "Size": {
+                          "X": 142.0,
+                          "Y": 104.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 224,
+                        "ActionTag": -1613801116,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 225,
+                        "ActionTag": 1345059483,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1751,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -7.0,
+                        "RightMargin": 160.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 85,
+                        "ActionTag": -1470016557,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 45.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1751,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -7.0,
+                        "RightMargin": 160.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 86,
+                        "ActionTag": -1141081013,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 101,
+                        "ActionTag": 1256781926,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1394037380,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_128",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1713.9218,
+                      "Y": 450.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6014,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1585.4218,
+                    "RightMargin": 1007.5782,
+                    "TopMargin": 13.9998,
+                    "BottomMargin": 274.0002,
+                    "Tag": 227,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_6.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 46.8577,
+                        "RightMargin": 42.1423,
+                        "TopMargin": 100.4303,
+                        "BottomMargin": 121.5697,
+                        "Tag": 228,
+                        "ActionTag": -2018916985,
+                        "Size": {
+                          "X": 168.0,
+                          "Y": 130.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 229,
+                        "ActionTag": 1421511101,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 230,
+                        "ActionTag": 1314829100,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 83,
+                        "ActionTag": -520973614,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 84,
+                        "ActionTag": 1597876842,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 100,
+                        "ActionTag": -1453995926,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1987205587,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_388",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2024.7062,
+                      "Y": 450.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7104,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 1896.2062,
+                    "RightMargin": 696.7939,
+                    "TopMargin": 13.9999,
+                    "BottomMargin": 274.0001,
+                    "Tag": 232,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_7.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 59.8577,
+                        "RightMargin": 55.1423,
+                        "TopMargin": 108.9303,
+                        "BottomMargin": 130.0697,
+                        "Tag": 233,
+                        "ActionTag": 1605121285,
+                        "Size": {
+                          "X": 142.0,
+                          "Y": 113.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 234,
+                        "ActionTag": 905276960,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 235,
+                        "ActionTag": -1204997052,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 81,
+                        "ActionTag": 1708156501,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 82,
+                        "ActionTag": 1621975933,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 99,
+                        "ActionTag": 241318151,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 203022120,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_618",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2335.4905,
+                      "Y": 450.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8195,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 2206.9905,
+                    "RightMargin": 386.0095,
+                    "TopMargin": 13.9999,
+                    "BottomMargin": 274.0001,
+                    "Tag": 83,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_8.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 44.8577,
+                        "RightMargin": 40.1423,
+                        "TopMargin": 106.4303,
+                        "BottomMargin": 127.5697,
+                        "Tag": 84,
+                        "ActionTag": 326557604,
+                        "Size": {
+                          "X": 172.0,
+                          "Y": 118.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 85,
+                        "ActionTag": -2012949689,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 86,
+                        "ActionTag": -1304446236,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 87,
+                        "ActionTag": -1396976757,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 88,
+                        "ActionTag": 1935160521,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 98,
+                        "ActionTag": -1194387325,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 971180665,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_500",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "c_kuang.png",
+                      "Plist": "tanChuCengRes/chongZhi.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2646.2747,
+                      "Y": 450.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9285,
+                      "Y": 0.7031
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 2517.7747,
+                    "RightMargin": 75.2253,
+                    "TopMargin": 13.9999,
+                    "BottomMargin": 274.0001,
+                    "Tag": 89,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "yb_9.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 130.8577,
+                          "Y": 186.5697
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5092,
+                          "Y": 0.53
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 32.8577,
+                        "RightMargin": 28.1423,
+                        "TopMargin": 93.9303,
+                        "BottomMargin": 115.0697,
+                        "Tag": 90,
+                        "ActionTag": -954250123,
+                        "Size": {
+                          "X": 196.0,
+                          "Y": 143.0
+                        },
+                        "Name": "yuanbaotu",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 314.8357
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.8944
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 37.1643,
+                        "BottomMargin": 314.8357,
+                        "Tag": 91,
+                        "ActionTag": -920564358,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_renmingbi",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 125.6754,
+                          "Y": 42.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.489,
+                          "Y": 0.1193
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 125.6754,
+                        "RightMargin": 131.3246,
+                        "TopMargin": 310.0,
+                        "BottomMargin": 42.0,
+                        "Tag": 92,
+                        "ActionTag": 415427965,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "ziti_fengshu",
+                        "ctype": "SingleNodeObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_chaozhi.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 93,
+                        "ActionTag": 332015211,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "biaoqian_rexiao.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 47.0,
+                          "Y": 305.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1829,
+                          "Y": 0.8665
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": -5.0,
+                        "RightMargin": 158.0,
+                        "TopMargin": -4.0,
+                        "BottomMargin": 254.0,
+                        "Tag": 94,
+                        "ActionTag": -1049967866,
+                        "Size": {
+                          "X": 104.0,
+                          "Y": 102.0
+                        },
+                        "Name": "shangbiao_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "song.png",
+                          "Plist": "tanChuCengRes/chongZhi.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 124.0,
+                          "Y": 105.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4825,
+                          "Y": 0.2983
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 16.0,
+                        "RightMargin": 25.0,
+                        "TopMargin": 231.0,
+                        "BottomMargin": 89.0,
+                        "Tag": 97,
+                        "ActionTag": 458390600,
+                        "Size": {
+                          "X": 216.0,
+                          "Y": 32.0
+                        },
+                        "Name": "zensong_bili",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1302924588,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 352.0
+                    },
+                    "Name": "recharge_1000",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 307172519,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 400.0
+                },
+                "Name": "recharge_ScrollView",
+                "ctype": "ScrollViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-2.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "back-1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 80,
+                "Scale9Height": 75,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.0,
+                  "Y": 600.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0352,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.0704,
+                  "Y": 0.1174
+                },
+                "RightMargin": 1056.0,
+                "TopMargin": 1.5,
+                "BottomMargin": 562.5,
+                "Tag": 21,
+                "ActionTag": -1289655291,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 75.0
+                },
+                "Name": "rechang_back_but",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "c_xiakuang.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 568.0001,
+                  "Y": 43.0008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0673
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 0.0001,
+                "RightMargin": -0.0001,
+                "TopMargin": 553.9992,
+                "BottomMargin": 1.0008,
+                "Tag": 91,
+                "ActionTag": 1978033473,
+                "Size": {
+                  "X": 1136.0,
+                  "Y": 84.0
+                },
+                "Name": "beijingtiao_xia",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "c_jiangjuan.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 967.9796,
+                  "Y": 41.7731
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8521,
+                  "Y": 0.0654
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 823.9796,
+                "RightMargin": 24.0204,
+                "TopMargin": 567.7269,
+                "BottomMargin": 12.2731,
+                "Tag": 92,
+                "ActionTag": -1841409068,
+                "Size": {
+                  "X": 288.0,
+                  "Y": 59.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "c_yinliang.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 664.8109,
+                  "Y": 41.7731
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5852,
+                  "Y": 0.0654
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 522.8109,
+                "RightMargin": 329.1891,
+                "TopMargin": 567.7269,
+                "BottomMargin": 12.2731,
+                "Tag": 93,
+                "ActionTag": -181096906,
+                "Size": {
+                  "X": 284.0,
+                  "Y": 59.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1013.0001,
+                  "Y": 41.7251
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8917,
+                  "Y": 0.0653
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 1013.0001,
+                "RightMargin": 122.9999,
+                "TopMargin": 597.2749,
+                "BottomMargin": 41.7251,
+                "Tag": 38,
+                "ActionTag": 1337171883,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "jiangjuan_label",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 705.4216,
+                  "Y": 41.7251
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.621,
+                  "Y": 0.0653
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 705.4216,
+                "RightMargin": 430.5784,
+                "TopMargin": 597.2749,
+                "BottomMargin": 41.7251,
+                "Tag": 37,
+                "ActionTag": 275130292,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "yinliang_label",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_zidongshouzhang_3.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_zidongshouzhang_2.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_zidongshouzhang_1.png",
+                  "Plist": "tanChuCengRes/chongZhi.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 154,
+                "Scale9Height": 62,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "G": 127,
+                  "B": 80
+                },
+                "ShadowOffsetX": 0.0,
+                "ShadowOffsetY": 0.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.0,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1496,
+                  "Y": 0.0626
+                },
+                "PreSize": {
+                  "X": 0.1356,
+                  "Y": 0.097
+                },
+                "LeftMargin": 93.0,
+                "RightMargin": 889.0,
+                "TopMargin": 568.0,
+                "BottomMargin": 9.0,
+                "Tag": 36,
+                "ActionTag": 1261518461,
+                "Size": {
+                  "X": 154.0,
+                  "Y": 62.0
+                },
+                "Name": "zidongshouzhang_but",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 863797388,
+            "Size": {
+              "X": 1136.0,
+              "Y": 639.0
+            },
+            "Name": "recharge_background",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/chongZhi.plist",
+        "tanChuCengRes/chongZhi.png",
+        "tanChuCengRes/chongzhiVIP.plist",
+        "tanChuCengRes/chongzhiVIP.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

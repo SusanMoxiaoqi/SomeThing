@@ -1,0 +1,367 @@
+{
+  "ID": "49f5da84-4736-43fa-bd1a-c0b4e12e2077",
+  "Version": "2.3.2.3",
+  "Name": "JF_pangHangBang",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 32,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JFTCC_paihangbang-bg.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -268.0,
+            "RightMargin": -268.0,
+            "TopMargin": -296.5,
+            "BottomMargin": -296.5,
+            "Tag": 33,
+            "ActionTag": 1661996741,
+            "Size": {
+              "X": 536.0,
+              "Y": 593.0
+            },
+            "Name": "JF_paiHangBangBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu3.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu2.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu1.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -135.0,
+              "Y": -250.4811
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -239.0,
+            "RightMargin": 31.0,
+            "TopMargin": 221.4811,
+            "BottomMargin": -279.4811,
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JFTCC_wenzi-shuaxin.png",
+                  "Plist": "JF_TCC.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4856,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.0,
+                "RightMargin": 76.0,
+                "TopMargin": 14.5,
+                "BottomMargin": 14.5,
+                "Tag": 36,
+                "ActionTag": -110162217,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 29.0
+                },
+                "Name": "tile",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1484568745,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "JF_shuaXin_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu3_.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu2_.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_anniu1_.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 127.0,
+              "Y": -247.4811
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 23.0,
+            "RightMargin": -231.0,
+            "TopMargin": 218.4811,
+            "BottomMargin": -276.4811,
+            "Tag": 37,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JFTCC_wenzi-guanbi.png",
+                  "Plist": "JF_TCC.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4856,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 71.0,
+                "RightMargin": 77.0,
+                "TopMargin": 14.5,
+                "BottomMargin": 14.5,
+                "Tag": 38,
+                "ActionTag": -1511549438,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 29.0
+                },
+                "Name": "tile",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 433510657,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "JF_guanBi_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JFTCC_paihangbang-bg-2.png",
+              "Plist": "JF_TCC.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -3.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -240.0,
+            "RightMargin": -240.0,
+            "TopMargin": -199.0,
+            "BottomMargin": -205.0,
+            "Tag": 42,
+            "ActionTag": -1930765026,
+            "Size": {
+              "X": 480.0,
+              "Y": 404.0
+            },
+            "Name": "JF_cellBg",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "JF_TCC.plist",
+        "JF_TCC.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

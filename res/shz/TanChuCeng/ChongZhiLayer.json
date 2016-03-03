@@ -1,0 +1,342 @@
+{
+  "ID": "05fb91a2-c1ff-474e-8dfc-1368ebb04a0c",
+  "Version": "2.3.2.3",
+  "Name": "ChongZhiLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 41,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bj.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 0.5,
+            "BottomMargin": 0.5,
+            "Tag": 42,
+            "ActionTag": -1063919129,
+            "Size": {
+              "X": 1136.0,
+              "Y": 639.0
+            },
+            "Name": "cz_beijing",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "c_shangkuang.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 599.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9367
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 1.0,
+            "BottomMargin": 560.0,
+            "Tag": 45,
+            "ActionTag": -1968229499,
+            "Size": {
+              "X": 1136.0,
+              "Y": 79.0
+            },
+            "Name": "c_shangkuang_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "back-3.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "back-2.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "back-1.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 50,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 40.0,
+              "Y": 600.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0352,
+              "Y": 0.9375
+            },
+            "PreSize": {
+              "X": 0.0704,
+              "Y": 0.1172
+            },
+            "RightMargin": 1056.0,
+            "TopMargin": 2.5,
+            "BottomMargin": 562.5,
+            "Tag": 47,
+            "ActionTag": 573459309,
+            "Size": {
+              "X": 80.0,
+              "Y": 75.0
+            },
+            "Name": "cz_btn_fanhui",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-vip-2.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-vip-3.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-vip-1.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 134,
+            "Scale9Height": 55,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1054.0,
+              "Y": 599.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9278,
+              "Y": 0.9359
+            },
+            "PreSize": {
+              "X": 0.1444,
+              "Y": 0.1203
+            },
+            "LeftMargin": 972.0,
+            "TopMargin": 2.5,
+            "BottomMargin": 560.5,
+            "Tag": 48,
+            "ActionTag": -491507063,
+            "Size": {
+              "X": 164.0,
+              "Y": 77.0
+            },
+            "Name": "cz_btn_vipTeQuan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "youxichongzhi-2.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "youxichongzhi-3.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "youxichongzhi-1.png",
+              "Plist": "tanChuCengRes/chongZhi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 134,
+            "Scale9Height": 55,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 885.0,
+              "Y": 599.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.779,
+              "Y": 0.9359
+            },
+            "PreSize": {
+              "X": 0.1444,
+              "Y": 0.1203
+            },
+            "LeftMargin": 803.0,
+            "RightMargin": 169.0,
+            "TopMargin": 2.5,
+            "BottomMargin": 560.5,
+            "Tag": 49,
+            "ActionTag": -782524422,
+            "Size": {
+              "X": 164.0,
+              "Y": 77.0
+            },
+            "Name": "cz_btn_chongzhi",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/chongZhi.plist",
+        "tanChuCengRes/chongZhi.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

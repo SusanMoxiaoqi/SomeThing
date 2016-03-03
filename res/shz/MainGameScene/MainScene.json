@@ -1,0 +1,569 @@
+{
+  "ID": "5fa7c938-af84-4cc2-a1f4-906d6d59b29f",
+  "Version": "2.2.8.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_bg.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 3,
+            "ActionTag": 722139841,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "First_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "18",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 572.5,
+              "Y": 71.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.504,
+              "Y": 0.1117
+            },
+            "PreSize": {
+              "X": 0.1144,
+              "Y": 0.0359
+            },
+            "LeftMargin": 507.5,
+            "RightMargin": 498.5,
+            "TopMargin": 557.0,
+            "BottomMargin": 60.0,
+            "Tag": 9,
+            "ActionTag": 921440627,
+            "Size": {
+              "X": 130.0,
+              "Y": 30.0
+            },
+            "Name": "First_allbetscore",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "9",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 572.5,
+              "Y": 26.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.504,
+              "Y": 0.0414
+            },
+            "PreSize": {
+              "X": 0.088,
+              "Y": 0.0359
+            },
+            "LeftMargin": 522.5,
+            "RightMargin": 513.5,
+            "TopMargin": 602.0,
+            "BottomMargin": 15.0,
+            "Tag": 10,
+            "ActionTag": -1536957472,
+            "Size": {
+              "X": 100.0,
+              "Y": 30.0
+            },
+            "Name": "First_betlines",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "2",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 811.5,
+              "Y": 70.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7143,
+              "Y": 0.1102
+            },
+            "PreSize": {
+              "X": 0.088,
+              "Y": 0.0359
+            },
+            "LeftMargin": 761.5,
+            "RightMargin": 274.5,
+            "TopMargin": 558.0,
+            "BottomMargin": 59.0,
+            "Tag": 11,
+            "ActionTag": -186241017,
+            "Size": {
+              "X": 100.0,
+              "Y": 30.0
+            },
+            "Name": "First_betscore",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jianzhu_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jianzhu_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jianzhu_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 106,
+            "Scale9Height": 46,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 716.5,
+              "Y": 28.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6307,
+              "Y": 0.0445
+            },
+            "PreSize": {
+              "X": 0.0933,
+              "Y": 0.0719
+            },
+            "LeftMargin": 663.5,
+            "RightMargin": 366.5,
+            "TopMargin": 588.5,
+            "BottomMargin": 5.5,
+            "Tag": 12,
+            "ActionTag": -1315085868,
+            "Size": {
+              "X": 106.0,
+              "Y": 46.0
+            },
+            "Name": "First_jianzhuBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jiazhu_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jiazhu_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jiazhu_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 106,
+            "Scale9Height": 46,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 832.5,
+              "Y": 28.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7328,
+              "Y": 0.0445
+            },
+            "PreSize": {
+              "X": 0.0933,
+              "Y": 0.0719
+            },
+            "LeftMargin": 779.5,
+            "RightMargin": 250.5,
+            "TopMargin": 588.5,
+            "BottomMargin": 5.5,
+            "Tag": 13,
+            "ActionTag": -1536706487,
+            "Size": {
+              "X": 106.0,
+              "Y": 46.0
+            },
+            "Name": "First_jiazhuBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_zidong_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_zidong_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_zidong_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 93,
+            "Scale9Height": 79,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 946.5,
+              "Y": 48.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8332,
+              "Y": 0.0758
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.1234
+            },
+            "LeftMargin": 900.0,
+            "RightMargin": 143.0,
+            "TopMargin": 552.0,
+            "BottomMargin": 9.0,
+            "Tag": 14,
+            "ActionTag": -558466108,
+            "Size": {
+              "X": 93.0,
+              "Y": 79.0
+            },
+            "Name": "First_zidongBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_kaishi_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_kaishi_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_kaishi_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 93,
+            "Scale9Height": 79,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1053.5,
+              "Y": 48.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9274,
+              "Y": 0.0758
+            },
+            "PreSize": {
+              "X": 0.0819,
+              "Y": 0.1234
+            },
+            "LeftMargin": 1007.0,
+            "RightMargin": 36.0,
+            "TopMargin": 552.0,
+            "BottomMargin": 9.0,
+            "Tag": 15,
+            "ActionTag": 1978665645,
+            "Size": {
+              "X": 93.0,
+              "Y": 79.0
+            },
+            "Name": "First_kaishiBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_shuihuzhuan_00.png",
+              "Plist": "SHZ_result.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 258.0,
+            "RightMargin": 258.0,
+            "BottomMargin": 554.0,
+            "Tag": 54,
+            "ActionTag": -1416297106,
+            "Size": {
+              "X": 620.0,
+              "Y": 86.0
+            },
+            "Name": "First_shuihuzhuan",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

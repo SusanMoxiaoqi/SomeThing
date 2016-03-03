@@ -1,0 +1,12 @@
+{
+  "channelNumber" : "1319138",
+  "channelName" : "shz_NTG_qiye",
+  "VERSION_frontPart" : "1.1",
+  "VERSION_latterPart" : "2.5",
+  "ORIGINAL_VERSION" : "1.1.2.5",
+  "updatePath" : "shz_hot_update/shz_bycps_ios1",
+  "thirdSdkLogin" : false,
+  "thirdSdkPay" : false,
+  "prefix" : "",
+  "deBug" : "release"
+}

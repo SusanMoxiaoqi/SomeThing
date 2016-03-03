@@ -1,0 +1,312 @@
+{
+  "ID": "6a4fe49c-81fc-408f-a969-8fe51c203ac6",
+  "Version": "2.3.3.0",
+  "Name": "ShouQi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 67,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hongbao_fafangjine.png",
+              "Plist": "baiRenTanChuRes/HongBao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -164.0,
+              "Y": -50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -222.5,
+            "RightMargin": 105.5,
+            "TopMargin": 36.0,
+            "BottomMargin": -64.0,
+            "Tag": 69,
+            "ActionTag": -1586708551,
+            "Size": {
+              "X": 117.0,
+              "Y": 28.0
+            },
+            "Name": "hongbao_fafangjine_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hongbao_hongbaogeshu.png",
+              "Plist": "baiRenTanChuRes/HongBao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -164.0,
+              "Y": 5.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -222.5,
+            "RightMargin": 105.5,
+            "TopMargin": -19.0,
+            "BottomMargin": -9.0,
+            "Tag": 70,
+            "ActionTag": 61041587,
+            "Size": {
+              "X": 117.0,
+              "Y": 28.0
+            },
+            "Name": "hongbao_hongbaogeshu_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hongbao_textbg.png",
+              "Plist": "baiRenTanChuRes/HongBao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 56.0,
+              "Y": 6.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -96.0,
+            "RightMargin": -208.0,
+            "TopMargin": -29.0,
+            "BottomMargin": -17.0,
+            "Tag": 71,
+            "ActionTag": -2137879389,
+            "Size": {
+              "X": 304.0,
+              "Y": 46.0
+            },
+            "Name": "hongbao_textbg_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hongbao_textbg.png",
+              "Plist": "baiRenTanChuRes/HongBao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 57.0,
+              "Y": -50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -95.0,
+            "RightMargin": -209.0,
+            "TopMargin": 27.0,
+            "BottomMargin": -73.0,
+            "Tag": 72,
+            "ActionTag": -312703241,
+            "Size": {
+              "X": 304.0,
+              "Y": 46.0
+            },
+            "Name": "hongbao_textbg_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "hongbao_dangejine.png",
+              "Plist": "baiRenTanChuRes/HongBao.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -164.0,
+              "Y": -50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -222.5,
+            "RightMargin": 105.5,
+            "TopMargin": 36.0,
+            "BottomMargin": -64.0,
+            "Tag": 82,
+            "ActionTag": -1571518212,
+            "Size": {
+              "X": 117.0,
+              "Y": 28.0
+            },
+            "VisibleForFrame": false,
+            "Name": "hongbao_dangejine_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "*发送的个数不能超过100个",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -64.0,
+              "Y": -93.194
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -214.0,
+            "RightMargin": -86.0,
+            "TopMargin": 81.694,
+            "BottomMargin": -104.694,
+            "Tag": 84,
+            "ActionTag": -317639814,
+            "Size": {
+              "X": 300.0,
+              "Y": 23.0
+            },
+            "Name": "faileMsg",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/HongBao.plist",
+        "baiRenTanChuRes/HongBao.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

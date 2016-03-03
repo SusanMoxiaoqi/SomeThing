@@ -1,0 +1,441 @@
+{
+  "ID": "a6a1b11d-bc82-4145-b677-1b8aa0287dcc",
+  "Version": "2.3.3.0",
+  "Name": "jieSuanNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 43,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_guangquan.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -279.0,
+            "RightMargin": -279.0,
+            "TopMargin": -393.5,
+            "BottomMargin": -193.5,
+            "Tag": 59,
+            "ActionTag": 1092496855,
+            "Size": {
+              "X": 558.0,
+              "Y": 587.0
+            },
+            "Name": "BR_diGuang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_guangxiao.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -291.0,
+            "RightMargin": -291.0,
+            "TopMargin": -364.5,
+            "BottomMargin": -164.5,
+            "Tag": 44,
+            "ActionTag": 1295387804,
+            "Size": {
+              "X": 305.0,
+              "Y": 310.0
+            },
+            "Name": "BR_huangGuang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_xuanzhuanguang.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -197.0,
+            "RightMargin": -197.0,
+            "TopMargin": -296.0,
+            "BottomMargin": -96.0,
+            "Tag": 51,
+            "ActionTag": -990607676,
+            "Size": {
+              "X": 394.0,
+              "Y": 392.0
+            },
+            "Name": "BR_zhuanGuang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_beijingguang.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -241.5,
+            "RightMargin": -241.5,
+            "TopMargin": -329.0,
+            "BottomMargin": -129.0,
+            "Tag": 52,
+            "ActionTag": 1316930434,
+            "Size": {
+              "X": 483.0,
+              "Y": 458.0
+            },
+            "Name": "BR_beiJingGuang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_gongXi.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -175.0,
+            "RightMargin": -175.0,
+            "TopMargin": -161.0,
+            "BottomMargin": 39.0,
+            "Tag": 45,
+            "ActionTag": 1263903000,
+            "Size": {
+              "X": 350.0,
+              "Y": 122.0
+            },
+            "Name": "BR_gongXi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_touxiangguangxiao.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -100.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -254.5,
+            "RightMargin": -254.5,
+            "TopMargin": 56.0,
+            "BottomMargin": -144.0,
+            "Tag": 46,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/Sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 43.9991,
+                  "Y": 43.9986
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0864,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0904,
+                  "Y": 0.5227
+                },
+                "LeftMargin": 20.9991,
+                "RightMargin": 442.0009,
+                "TopMargin": 21.0014,
+                "BottomMargin": 20.9986,
+                "Tag": 48,
+                "ActionTag": 1165382012,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 46.0
+                },
+                "Name": "yongHuTouXiang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BR_JS_jia.png",
+                  "Plist": "baiRenTanChuRes/BR_JS.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.0,
+                  "Y": 46.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3595,
+                  "Y": 0.5227
+                },
+                "PreSize": {
+                  "X": 0.0648,
+                  "Y": 0.4773
+                },
+                "LeftMargin": 166.5,
+                "RightMargin": 309.5,
+                "TopMargin": 21.0,
+                "BottomMargin": 25.0,
+                "Tag": 49,
+                "ActionTag": 1549348809,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 42.0
+                },
+                "Name": "jiaHao",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 691450185,
+            "Size": {
+              "X": 509.0,
+              "Y": 88.0
+            },
+            "Name": "BR_diTu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_JS_wenzi.png",
+              "Plist": "baiRenTanChuRes/BR_JS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -200.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -125.0,
+            "RightMargin": -125.0,
+            "TopMargin": 163.5,
+            "BottomMargin": -236.5,
+            "Tag": 47,
+            "ActionTag": 1890799838,
+            "Size": {
+              "X": 250.0,
+              "Y": 73.0
+            },
+            "Name": "BR_dianPingJiXu",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/BR_JS.plist",
+        "baiRenTanChuRes/BR_JS.png",
+        "Default/Sprite.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

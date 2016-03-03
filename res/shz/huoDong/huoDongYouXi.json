@@ -1,0 +1,1325 @@
+{
+  "ID": "1cc414a2-d4d9-473e-adcc-4b4574b3a194",
+  "Version": "2.3.3.0",
+  "Name": "huoDongYouXi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_bg.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 25,
+            "ActionTag": 2142281413,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "huoDong_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 331.9352,
+              "Y": 67.1877
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2922,
+              "Y": 0.105
+            },
+            "PreSize": {
+              "X": 0.1761,
+              "Y": 0.0469
+            },
+            "LeftMargin": 231.9352,
+            "RightMargin": 704.0648,
+            "TopMargin": 557.8123,
+            "BottomMargin": 52.1877,
+            "Tag": 18,
+            "ActionTag": -1940380228,
+            "Size": {
+              "X": 200.0,
+              "Y": 30.0
+            },
+            "Name": "niCheng",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 286.9352,
+              "Y": 26.5401
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2526,
+              "Y": 0.0415
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0469
+            },
+            "LeftMargin": 231.9352,
+            "RightMargin": 794.0648,
+            "TopMargin": 598.4599,
+            "BottomMargin": 11.5401,
+            "Tag": 65,
+            "ActionTag": -638042524,
+            "Size": {
+              "X": 110.0,
+              "Y": 30.0
+            },
+            "Name": "User_ID",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paotai.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 569.0,
+              "Y": 75.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5009,
+              "Y": 0.1172
+            },
+            "PreSize": {
+              "X": 0.2738,
+              "Y": 0.2297
+            },
+            "LeftMargin": 413.5,
+            "RightMargin": 411.5,
+            "TopMargin": 491.5,
+            "BottomMargin": 1.5,
+            "Tag": 24,
+            "ActionTag": -42871591,
+            "Size": {
+              "X": 311.0,
+              "Y": 147.0
+            },
+            "Name": "gongJIan_di",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "nu_fashe_01.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 573.0818,
+              "Y": 77.6857
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "RotationSkewY": -0.0302,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5045,
+              "Y": 0.1214
+            },
+            "PreSize": {
+              "X": 0.228,
+              "Y": 0.2984
+            },
+            "LeftMargin": 443.5818,
+            "RightMargin": 433.4182,
+            "TopMargin": 466.8143,
+            "BottomMargin": -17.8143,
+            "Tag": 27,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "faSheTeXiao_01.png",
+                  "Plist": "huoDongXiaoYouXi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 126.9999,
+                  "Y": 179.147
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4903,
+                  "Y": 0.9379
+                },
+                "PreSize": {
+                  "X": 0.2008,
+                  "Y": 0.3141
+                },
+                "LeftMargin": 100.9999,
+                "RightMargin": 106.0001,
+                "TopMargin": -18.147,
+                "BottomMargin": 149.147,
+                "Tag": 37,
+                "ActionTag": 1033196945,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 60.0
+                },
+                "Name": "faJianTeXiao",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JF_jian.png",
+                  "Plist": "huoDongXiaoYouXi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 125.0,
+                  "Y": 112.9287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4826,
+                  "Y": 0.5912
+                },
+                "PreSize": {
+                  "X": 0.0965,
+                  "Y": 0.7906
+                },
+                "LeftMargin": 112.5,
+                "RightMargin": 121.5,
+                "TopMargin": 2.5713,
+                "BottomMargin": 37.4287,
+                "Tag": 48,
+                "ActionTag": 620904114,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 151.0
+                },
+                "Name": "jian",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -753181078,
+            "Size": {
+              "X": 259.0,
+              "Y": 191.0
+            },
+            "Name": "gongNu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_-_3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_-_2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_-_1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 27,
+            "Scale9Height": 30,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 482.0,
+              "Y": 25.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4243,
+              "Y": 0.0391
+            },
+            "PreSize": {
+              "X": 0.0502,
+              "Y": 0.0812
+            },
+            "LeftMargin": 453.5,
+            "RightMargin": 625.5,
+            "TopMargin": 588.9999,
+            "BottomMargin": -0.9999,
+            "Tag": 25,
+            "ActionTag": 477631529,
+            "Size": {
+              "X": 57.0,
+              "Y": 52.0
+            },
+            "Name": "btn_jian",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_+_3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_+_2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_+_1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 27,
+            "Scale9Height": 30,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 657.0,
+              "Y": 25.0001
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5783,
+              "Y": 0.0391
+            },
+            "PreSize": {
+              "X": 0.0502,
+              "Y": 0.0812
+            },
+            "LeftMargin": 628.5,
+            "RightMargin": 450.5,
+            "TopMargin": 588.9999,
+            "BottomMargin": -0.9999,
+            "Tag": 26,
+            "ActionTag": -1910991706,
+            "Size": {
+              "X": 57.0,
+              "Y": 52.0
+            },
+            "Name": "btn_jia",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "nuJian_gai.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.53,
+              "ScaleY": 0.65
+            },
+            "Position": {
+              "X": 573.43,
+              "Y": 77.8985
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5048,
+              "Y": 0.1217
+            },
+            "PreSize": {
+              "X": 0.0713,
+              "Y": 0.1641
+            },
+            "LeftMargin": 530.5,
+            "RightMargin": 524.5,
+            "TopMargin": 525.3515,
+            "BottomMargin": 9.6485,
+            "Tag": 36,
+            "ActionTag": -875711596,
+            "Size": {
+              "X": 81.0,
+              "Y": 105.0
+            },
+            "Name": "gaiZi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "shuzhixianshi.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 570.0,
+              "Y": 65.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5018,
+              "Y": 0.1016
+            },
+            "PreSize": {
+              "X": 0.0995,
+              "Y": 0.075
+            },
+            "LeftMargin": 513.5,
+            "RightMargin": 509.5,
+            "TopMargin": 551.0,
+            "BottomMargin": 41.0,
+            "Tag": 28,
+            "ActionTag": -876901566,
+            "Size": {
+              "X": 113.0,
+              "Y": 48.0
+            },
+            "Name": "shuZhiXianSHi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "999",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 570.9998,
+              "Y": 64.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5026,
+              "Y": 0.1016
+            },
+            "PreSize": {
+              "X": 0.0801,
+              "Y": 0.0391
+            },
+            "LeftMargin": 525.4998,
+            "RightMargin": 519.5002,
+            "TopMargin": 562.5001,
+            "BottomMargin": 52.4999,
+            "Tag": 35,
+            "ActionTag": 1124308786,
+            "Size": {
+              "X": 91.0,
+              "Y": 25.0
+            },
+            "Name": "nengliangShu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 984.9352,
+              "Y": 25.5401
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.867,
+              "Y": 0.0399
+            },
+            "PreSize": {
+              "X": 0.1585,
+              "Y": 0.0469
+            },
+            "LeftMargin": 894.9352,
+            "RightMargin": 61.0648,
+            "TopMargin": 599.4599,
+            "BottomMargin": 10.5401,
+            "Tag": 22,
+            "ActionTag": -820109919,
+            "Size": {
+              "X": 180.0,
+              "Y": 30.0
+            },
+            "Name": "User_ID_0",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fanhui-3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fanhui-2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fanhui-1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 42,
+            "Scale9Height": 37,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 97.9999,
+              "Y": 585.59
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0863,
+              "Y": 0.915
+            },
+            "PreSize": {
+              "X": 0.0827,
+              "Y": 0.1141
+            },
+            "LeftMargin": 50.9999,
+            "RightMargin": 991.0001,
+            "TopMargin": 17.91,
+            "BottomMargin": 549.09,
+            "Tag": 36,
+            "ActionTag": -758989244,
+            "Size": {
+              "X": 94.0,
+              "Y": 73.0
+            },
+            "Name": "fanHui_JF",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fenxiang-3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fenxiang-2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-fenxiang-1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 46,
+            "Scale9Height": 47,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 253.9999,
+              "Y": 585.59
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2236,
+              "Y": 0.915
+            },
+            "PreSize": {
+              "X": 0.0827,
+              "Y": 0.1141
+            },
+            "LeftMargin": 206.9999,
+            "RightMargin": 835.0001,
+            "TopMargin": 17.91,
+            "BottomMargin": 549.09,
+            "Tag": 37,
+            "ActionTag": 422512095,
+            "Size": {
+              "X": 94.0,
+              "Y": 73.0
+            },
+            "Name": "fengXiang_JF",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-guize-3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-guize-2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-guize-1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 42,
+            "Scale9Height": 43,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1038.0,
+              "Y": 585.5898
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9137,
+              "Y": 0.915
+            },
+            "PreSize": {
+              "X": 0.0827,
+              "Y": 0.1141
+            },
+            "LeftMargin": 991.0,
+            "RightMargin": 51.0,
+            "TopMargin": 17.9102,
+            "BottomMargin": 549.0898,
+            "Tag": 38,
+            "ActionTag": 1687320067,
+            "Size": {
+              "X": 94.0,
+              "Y": 73.0
+            },
+            "Name": "guiZe_JF",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-paihangbang-3.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-paihangbang-2.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-paihangbang-1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 64,
+            "Scale9Height": 51,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 887.0502,
+              "Y": 585.5897
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7809,
+              "Y": 0.915
+            },
+            "PreSize": {
+              "X": 0.0827,
+              "Y": 0.1141
+            },
+            "LeftMargin": 840.0502,
+            "RightMargin": 201.9498,
+            "TopMargin": 17.9103,
+            "BottomMargin": 549.0897,
+            "Tag": 39,
+            "ActionTag": 1861596271,
+            "Size": {
+              "X": 94.0,
+              "Y": 73.0
+            },
+            "Name": "paiHangBang_JF",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 984.0,
+              "Y": 68.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.8662,
+              "Y": 0.1063
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 984.0,
+            "RightMargin": 152.0,
+            "TopMargin": 572.0,
+            "BottomMargin": 68.0,
+            "Tag": 42,
+            "ActionTag": 1149539392,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "nengLiangTiao_JF",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 568.0,
+              "Y": 611.4722
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9554
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 568.0,
+            "RightMargin": 568.0,
+            "TopMargin": 28.5278,
+            "BottomMargin": 611.4722,
+            "Tag": 44,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "daojishi-bg.png",
+                  "Plist": "huoDongXiaoYouXi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -57.0,
+                "RightMargin": -57.0,
+                "TopMargin": -30.0,
+                "BottomMargin": -30.0,
+                "Tag": 45,
+                "ActionTag": -333487023,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 60.0
+                },
+                "Name": "daoJiShi_Bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "daojishi-tiao.png",
+                  "Plist": "huoDongXiaoYouXi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 55.0114,
+                  "Y": 28.8653
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewY": -0.004,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -54.9886,
+                "RightMargin": -55.0114,
+                "TopMargin": -28.8653,
+                "BottomMargin": -29.1347,
+                "Tag": 46,
+                "ActionTag": -843432740,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 58.0
+                },
+                "Name": "daoJiShi_LvTiao",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -121846981,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "shiJian_daojishi",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_shiQu1.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_shiQu.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 45,
+            "Scale9Height": 61,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1093.0328,
+              "Y": 170.384
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9622,
+              "Y": 0.2662
+            },
+            "PreSize": {
+              "X": 0.066,
+              "Y": 0.1297
+            },
+            "LeftMargin": 1055.5328,
+            "RightMargin": 5.4672,
+            "TopMargin": 428.116,
+            "BottomMargin": 128.884,
+            "Tag": 26,
+            "ActionTag": 826003873,
+            "Size": {
+              "X": 75.0,
+              "Y": 83.0
+            },
+            "Name": "yiJianShiQu_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "JF_diSe.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 177.8689,
+              "Y": 130.1986
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1566,
+              "Y": 0.2034
+            },
+            "PreSize": {
+              "X": 0.3107,
+              "Y": 0.0594
+            },
+            "LeftMargin": 1.3689,
+            "RightMargin": 781.6311,
+            "TopMargin": 490.8014,
+            "BottomMargin": 111.1986,
+            "Tag": 27,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "JF_shengYu.png",
+                  "Plist": "huoDongXiaoYouXi.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.537,
+                  "Y": 24.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2593,
+                  "Y": 0.6513
+                },
+                "PreSize": {
+                  "X": 0.255,
+                  "Y": 1.0263
+                },
+                "LeftMargin": 46.537,
+                "RightMargin": 216.463,
+                "TopMargin": -6.25,
+                "BottomMargin": 5.25,
+                "Tag": 28,
+                "ActionTag": 792993004,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 39.0
+                },
+                "Name": "JF_tile",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1858778258,
+            "Size": {
+              "X": 353.0,
+              "Y": 38.0
+            },
+            "Name": "JF_jiShuNode",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "huoDongXiaoYouXi.plist",
+        "huoDongXiaoYouXi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

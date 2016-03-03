@@ -1,0 +1,261 @@
+{
+  "ID": "d1dd1432-6882-4e7f-aa3d-165622f51299",
+  "Version": "2.3.1.2",
+  "Name": "jieSuan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 72,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_jiefenBg.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -270.0,
+            "RightMargin": -270.0,
+            "TopMargin": -156.5,
+            "BottomMargin": -156.5,
+            "Tag": 73,
+            "ActionTag": -283545500,
+            "Size": {
+              "X": 540.0,
+              "Y": 313.0
+            },
+            "Name": "tiShiBg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_bibei_3.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_bibei_2.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_bibei_1.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 136,
+            "Scale9Height": 45,
+            "OutlineColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -100.0,
+              "Y": -90.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -168.0,
+            "RightMargin": 32.0,
+            "TopMargin": 67.5,
+            "BottomMargin": -112.5,
+            "Tag": 74,
+            "ActionTag": 1043939990,
+            "Size": {
+              "X": 136.0,
+              "Y": 45.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_shouqu_3.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_shouqu_2.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "xml_shouqu_1.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 136,
+            "Scale9Height": 45,
+            "OutlineColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "A": 0,
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 100.0,
+              "Y": -90.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 32.0,
+            "RightMargin": -168.0,
+            "TopMargin": 67.5,
+            "BottomMargin": -112.5,
+            "Tag": 75,
+            "ActionTag": -2130260126,
+            "Size": {
+              "X": 136.0,
+              "Y": 45.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -25.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 25.0,
+            "BottomMargin": -25.0,
+            "Tag": 76,
+            "ActionTag": -1542618745,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "Node_1",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Third_zujian.plist",
+        "Third_zujian.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

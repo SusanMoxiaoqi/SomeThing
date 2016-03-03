@@ -1,0 +1,20 @@
+info face="FZY4JW--GB1-0" size=30 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=35 base=28 scaleW=256 scaleH=128 pages=1 packed=0
+page id=0 file="BR_zongFen.png"
+chars count=16
+char id=21315 x=2 y=2 width=35 height=35 xoffset=1 yoffset=1 xadvance=33 page=0 chnl=0 letter="千"
+char id=20159 x=39 y=2 width=35 height=35 xoffset=1 yoffset=1 xadvance=33 page=0 chnl=0 letter="亿"
+char id=19975 x=76 y=2 width=34 height=33 xoffset=1 yoffset=3 xadvance=33 page=0 chnl=0 letter="万"
+char id=30334 x=112 y=2 width=34 height=33 xoffset=1 yoffset=2 xadvance=33 page=0 chnl=0 letter="百"
+char id=48 x=148 y=2 width=22 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="0"
+char id=52 x=172 y=2 width=22 height=30 xoffset=0 yoffset=3 xadvance=20 page=0 chnl=0 letter="4"
+char id=54 x=196 y=2 width=21 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="6"
+char id=56 x=219 y=2 width=21 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="8"
+char id=57 x=2 y=39 width=21 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="9"
+char id=51 x=25 y=39 width=21 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="3"
+char id=50 x=48 y=39 width=20 height=30 xoffset=1 yoffset=3 xadvance=20 page=0 chnl=0 letter="2"
+char id=55 x=70 y=39 width=21 height=29 xoffset=0 yoffset=4 xadvance=19 page=0 chnl=0 letter="7"
+char id=53 x=93 y=39 width=21 height=29 xoffset=1 yoffset=4 xadvance=20 page=0 chnl=0 letter="5"
+char id=49 x=116 y=39 width=15 height=29 xoffset=1 yoffset=4 xadvance=14 page=0 chnl=0 letter="1"
+char id=46 x=133 y=39 width=11 height=12 xoffset=2 yoffset=21 xadvance=11 page=0 chnl=0 letter="."
+char id=32 x=146 y=39 width=0 height=0 xoffset=8 yoffset=48 xadvance=11 page=0 chnl=0 letter="space"

@@ -1,0 +1,21 @@
+{
+	"pos" : {
+		"pos_vip" : {"x" : 625,"y" : 64},
+		"pos_touxiang" : {"x" : 134.5,"y" : 64}, 
+		"pos_ID" : {"x" : 537,"y" : 64},
+		"pos_IDbiaoshi" : {"x" : 480,"y" : 64},
+		"pos_niceng" : {"x" : 344,"y" : 64},
+		"pos_nicehngbiaoshi" : {"x" : 244,"y" : 64},
+		"pos_yinhang" : {"x" : 752,"y" : 48.5},
+		"pos_chongzhi" : {"x" : 858,"y" : 48.5},
+		"pos_lipin" : {"x" : 955,"y" : 48.5},
+		"pos_jilu" : {"x" : 1051,"y" : 48.5},
+		"pos_yuanbao" : {"x" : 330.25,"y" : 26.5},
+		"pos_jiangquan" : {"x" : 586.5,"y" : 27.5},
+		"pos_renwu" : [
+		 {"x" : 206,"y" : 320},
+		 {"x" : 568,"y" : 320},
+		 {"x" : 930,"y" : 320}
+		]
+	}
+}

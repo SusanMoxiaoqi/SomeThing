@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/by_firstpagebg" >
+
+     <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:scrollbarThumbVertical="@drawable/by_gundong_bg" >
+        
+    <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="500dp"
+    android:background="@drawable/by_firstpagebg">
+    
+    <TextView
+        android:id="@+id/text_card_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_marginLeft="18dp"
+        android:layout_toRightOf="@+id/textView1"
+        android:text="5元"
+        android:textColor="@color/black" />
+
+    <ToggleButton
+        android:id="@+id/price_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="19dp"
+        android:background="@drawable/style_coin_bg"
+        android:text="5"
+        android:textOff="5元"
+        android:textOn="5元" />
+
+    <ToggleButton
+        android:id="@+id/price_10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/price_5"
+        android:layout_alignBottom="@+id/price_5"
+        android:layout_marginLeft="22dp"
+        android:layout_toRightOf="@+id/price_5"
+        android:background="@drawable/style_coin_bg"
+        android:text="10"
+        android:textOff="10元"
+        android:textOn="10元" />
+
+    <ToggleButton
+        android:id="@+id/price_20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/price_10"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/price_10"
+        android:background="@drawable/style_coin_bg"
+        android:text="20"
+        android:textOff="20元"
+        android:textOn="20元" />
+
+    <ToggleButton
+        android:id="@+id/price_30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/price_20"
+        android:layout_alignBottom="@+id/price_20"
+        android:layout_marginLeft="23dp"
+        android:layout_toRightOf="@+id/price_20"
+        android:background="@drawable/style_coin_bg"
+        android:text="30"
+        android:textOff="30元"
+        android:textOn="30元" />
+
+    <ToggleButton
+        android:id="@+id/price_50"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/price_30"
+        android:layout_alignBottom="@+id/price_30"
+        android:layout_marginLeft="22dp"
+        android:layout_toRightOf="@+id/price_30"
+        android:background="@drawable/style_coin_bg"
+        android:text="50"
+        android:textOff="50元"
+        android:textOn="50元" />
+
+    <ToggleButton
+        android:id="@+id/price_100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/price_5"
+        android:layout_below="@+id/price_5"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/style_coin_bg"
+        android:text="100"
+        android:textOff="100元"
+        android:textOn="100元" />
+    
+    <ToggleButton
+        android:id="@+id/price_300"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/price_10"
+        android:layout_below="@+id/price_10"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/style_coin_bg"
+        android:text="300"
+        android:textOff="300元"
+        android:textOn="300元" />
+    
+    <ToggleButton
+        android:id="@+id/price_500"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/price_20"
+        android:layout_below="@+id/price_20"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/style_coin_bg"
+        android:text="500"
+        android:textOff="500元"
+        android:textOn="500元" />
+    
+    <ToggleButton
+        android:id="@+id/price_1000"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/price_30"
+        android:layout_below="@+id/price_30"
+        android:layout_marginTop="13dp"
+        android:background="@drawable/style_coin_bg"
+        android:text="1000"
+        android:textOff="1000元"
+        android:textOn="1000元" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/price_100"
+        android:layout_below="@+id/price_100"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/by_input_bg"
+        android:ems="30"
+        android:hint="卡号为15位"
+        android:imeOptions="flagNoFullscreen"
+        android:maxLines="1"
+        android:minLines="1"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="16sp" 
+        >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_toRightOf="@+id/price_100"
+        android:text="@string/by_pay_tip_wenxin_tianxiatong"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="17dp"
+        android:layout_marginTop="16dp"
+        android:text="本次支付金额：" 
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_below="@+id/button_pay"
+        android:layout_marginTop="21dp"
+        android:text="温馨提示："
+        android:textColor="@android:color/holo_red_light" />
+
+    <Button
+        android:id="@+id/button_pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText2"
+        android:layout_below="@+id/editText2"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/style_pay_btnbg" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/editText1"
+        android:layout_below="@+id/editText1"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/by_input_bg"
+        android:ems="30"
+        android:hint="卡密为8位"
+        android:imeOptions="flagNoFullscreen"
+        android:inputType="textPassword"
+        android:lines="1"
+        android:maxLines="1"
+        android:minLines="1"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="16sp"/>
+    
+    
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="17dp"
+        android:text="重要提示："
+        android:textColor="@android:color/holo_red_light" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView5"
+        android:layout_alignBottom="@+id/textView5"
+        android:layout_alignLeft="@+id/textView4"
+        android:text="@string/by_pay_tip_zhongyao_message"
+        android:textColor="@android:color/holo_red_light" />
+    
+    
+    
+    </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

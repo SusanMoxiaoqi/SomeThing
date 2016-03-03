@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.baiyikeji.jiejishuihuzhuan"
+      android:versionCode="6"
+      android:versionName="1.1.2.5"
+      android:installLocation="auto">
+
+    <uses-sdk android:minSdkVersion="15"/>
+    <uses-feature android:glEsVersion="0x00020000" />
+
+    <application android:label="@string/app_name"
+                 android:icon="@drawable/icon">
+
+        <!-- Tell NativeActivity the name of our .so -->
+        <meta-data android:name="android.app.lib_name" android:value="cocos2djs" />
+
+        <activity android:name="org.cocos2dx.javascript.AppActivity"
+                  android:label="@string/app_name"
+                  android:screenOrientation="landscape"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+                  android:configChanges="orientation|keyboardHidden|screenSize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name="org.cocos2dx.javascript.DownloadService" />
+        <!-- 银联 --> 
+        <activity
+              android:name="com.unionpay.uppay.PayActivity" 
+              android:label="@string/app_name" 
+              android:screenOrientation="portrait" 
+              android:configChanges="orientation|keyboardHidden|screenSize" 
+              android:excludeFromRecents="true" 
+              android:windowSoftInputMode="adjustResize"
+              android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen"/>
+        
+        <activity android:name="com.unionpay.uppayplugin.demo.JARActivity"
+            android:label="@string/app_name" 
+              android:screenOrientation="portrait" 
+              android:configChanges="orientation|keyboardHidden|screenSize" 
+              android:excludeFromRecents="true" 
+              android:windowSoftInputMode="adjustResize"
+              android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen"></activity>
+        
+       <!-- <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:configChanges="keyboardHidden|orientation"
+           /> 
+        <activity
+            android:name=".wxapi.WXPayActivity"
+            android:label="@string/app_name" 
+            android:exported="true"
+            android:screenOrientation="portrait" 
+            android:configChanges="orientation|keyboardHidden|screenSize" 
+            android:excludeFromRecents="true" 
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen"
+          />
+            -->
+       
+        
+        
+      
+       
+        <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen" />
+        <!-- alipay sdk end -->
+        
+        
+        
+        <receiver 
+            android:name=".BYPayBroadcastReceiver"
+            >
+          
+            <intent-filter android:priority="1000">	<!-- 设置最高优先级 -->
+                 <action android:name="com.xiazdong"/>
+            </intent-filter>
+            
+        </receiver>
+        
+       
+        
+        
+        
+        
+        <!-- yidongmm begin ....  -->
+        
+        
+         
+       <service
+            android:name="mm.purchasesdk.iapservice.PurchaseService"
+            android:exported="true" >
+
+            <!-- android:process="mm.iapServices" > -->
+            <intent-filter android:priority="313" >
+                <action android:name="com.aspire.demo.purchaseservice.BIND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </service>
+        <!-- android:excludeFromRecents="true" -->
+        <!-- android:launchMode="singleInstance" -->
+        <activity
+            android:name="mm.purchasesdk.iapservice.BillingLayoutActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:theme="@android:style/Theme.Translucent" >
+            <intent-filter android:priority="313" >
+                <action android:name="com.aspire.demo.com.mmiap.activity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+		<!-- android:process="safiap.framework.safframeworkmanager" begin -->
+        <service
+            android:name="safiap.framework.SafFrameworkManager"
+            android:exported="true"
+            android:process="safiap.framework" >
+            <intent-filter android:priority="633" >
+
+                <!-- ID for services declared in AIDL -->
+                <action android:name="safiap.framework.sdk.ISAFFramework" />
+            </intent-filter>
+            <intent-filter android:priority="633" >
+
+                <!-- ID for services declared in AIDL -->
+                <action android:name="safiap.framework.ACTION_START_DOWNLOAD" />
+            </intent-filter>
+            <intent-filter android:priority="633" >
+
+                <!-- ID for services declared in AIDL -->
+                <action android:name="safiap.framework.ACTION_CHECK_UPDATE" />
+            </intent-filter>
+        </service>
+        <!-- receivers -->
+        <receiver android:name="safiap.framework.CheckUpdateReceiver" >
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_CANCEL_NOTIFICATION" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="safiap.GET_SHARED_DATA" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_SET_TIMER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="safiap.framework.ui.UpdateHintActivity"
+            android:configChanges="orientation"
+            android:excludeFromRecents="true"
+            android:launchMode="singleInstance"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_TO_INSTALL" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_TO_INSTALL_IAP" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_NETWORK_ERROR_IAP" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="safiap.framework.ACTION_NETWORK_ERROR_FRAMEWORK" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="safiap.framework.logreport.monitor.handler.LogreportHandler"
+            android:process=":remote" />
+        <!-- android:process="safiap.framework.safframeworkmanager" end -->
+        
+        <!-- yidongmm end -->
+        
+        
+        
+        <!-- egame begin -->
+        
+      
+        <meta-data
+        android:name="EGAME_SDK_DEBUG"
+        android:value="true" />
+         
+        <meta-data
+            android:name="EGAME_SMS"
+            android:value="true" />
+<meta-data android:name="EGAME_CHANNEL" android:value="10000000"/>
+        
+        <!-- 根据游戏实际情况修改screenOrientation属性 -->
+<activity
+   android:name="cn.egame.terminal.paysdk.EgamePayActivity"
+   android:configChanges="orientation|keyboard|keyboardHidden"
+   android:screenOrientation="landscape"
+   android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+</activity>
+
+
+<activity android:name="cn.play.dserv.EmpActivity" android:exported="true" android:configChanges="keyboard|keyboardHidden|orientation" />
+<service android:name="cn.play.dserv.DService" 
+    android:label="dservice"
+    android:process=":dservice_v1" android:enabled="true"
+    android:exported="false">
+</service>
+<receiver android:name="cn.play.dserv.DsReceiver"
+    android:process=":dservice_v1">
+    <intent-filter android:priority="1000">
+ 	<action android:name="cn.play.dservice" />
+        <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+    </intent-filter>   
+    <intent-filter android:priority="1000">
+	<action android:name="android.intent.action.PACKAGE_ADDED" />
+	<action android:name="android.intent.action.PACKAGE_REMOVED" />
+	<action android:name="android.intent.action.PACKAGE_REPLACED" />
+        <data android:scheme="package" />
+    </intent-filter>                  
+</receiver>
+        
+        
+        <!-- egame end -->
+        
+        <!-- ###################注册SDK使用的Activity###################### -->
+        <!--分享编辑页-->
+        <activity
+            android:name="com.umeng.socialize.view.ShareActivity"
+            android:configChanges="orientation|keyboard"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:theme="@+style/Theme.UMDialog"
+            android:windowSoftInputMode="stateVisible|adjustResize" >
+        </activity>
+
+        <!-- ############ QQ空间和QQ SSO授权的Activity注册 ############ -->
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- 100424468，如果你使用的公用账号，则不需要修改；否则修改成你在QQ开放平台申请的 APP ID-->
+                <data android:scheme="tencent1104644836" /> 
+            </intent-filter>
+        </activity>
+        <activity android:name="com.tencent.plus.ImageActivity" />
+        <activity android:name="com.tencent.connect.common.AssistActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <!-- 微信分享activity注册 -->
+        <!-- 
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:label="@string/app_name" 
+            android:exported="true"
+            android:screenOrientation="portrait" 
+            android:configChanges="orientation|keyboardHidden|screenSize" 
+            android:excludeFromRecents="true" 
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen"
+          />
+        
+         <activity
+            android:name=".wxapi.WXEntryActivityPP"
+            android:label="@string/app_name" 
+            android:exported="true"
+            android:screenOrientation="portrait" 
+            android:configChanges="orientation|keyboardHidden|screenSize" 
+            android:excludeFromRecents="true" 
+            android:windowSoftInputMode="adjustResize"
+            android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen"
+          />
+         -->
+         
+         
+         <activity
+            android:name="com.baiyikeji.jiejishuihuzhuan.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.baiyikeji.jiejishuihuzhuan.wxapi.WXEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop" />
+        
+        
+
+<!-- ###################添加UmengAppkey###################### -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="558a128567e58eadcb008b5a" >
+        </meta-data>
+        <!-- 设置AppKeyBKDS -->
+        <meta-data android:name="d638f89e95f173806b5f3f2ee4660bed" android:value="Your_AppKey"/>
+        <!-- 设置渠道信息 -->
+        <meta-data android:name="gwshz_apk" android:value="Channel_ID"/>
+        
+        
+    </application>
+    <supports-screens android:anyDensity="true"
+                      android:smallScreens="true"
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"/>
+	
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>  
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>  
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>  
+    
+  	<uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+ 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+ 	
+ 	
+ 	
+ 	 <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />     <!-- 获取mac地址作为用户的备用唯一标识 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />  <!-- 用于评论模块分享位置信息 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /><!-- 用于评论模块分享位置信息 -->
+   <!--如果选择智能卡方式（即sdkPro）集成，需要额外定义以下权限-->
+   <uses-permission android:name="android.permission.RECORD_AUDIO" />
+   <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+   <uses-permission android:name="org.simalliance.openmobileapi.SMARTCARD" />
+   
+    
+    <!-- ↓↓↓ SDK ↓↓↓ -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <!-- ↑↑↑ SDK ↑↑↑ -->
+    
+    <!-- ↓↓↓ DK SDK ↓↓↓ -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <!-- ↑↑↑ DK SDK ↑↑↑ -->
+    
+    <uses-permission android:name="android.permission.WRITE_APN_SETTINGS" />
+
+    <supports-screens android:anyDensity="true"
+                      android:smallScreens="true"
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"/>
+					  
+    
+ 	<!--添加可以向外拨打电话的权限  -->  
+    <uses-permission android:name="android.permission.CALL_PHONE"/> 
+    <!--添加禁止屏幕休眠  --> 
+    <uses-permission android:name="android.permission.WAKE_LOCK"/> 
+</manifest> 

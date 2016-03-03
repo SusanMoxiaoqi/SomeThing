@@ -1,0 +1,170 @@
+{
+  "ID": "d4635b0d-4532-4ad1-82ad-addaa41233d3",
+  "Version": "2.3.3.0",
+  "Name": "shaiZiNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 75,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_QS_shaiKuang.png",
+              "Plist": "baiRenTanChuRes/BR_QS.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -51.5,
+            "RightMargin": -51.5,
+            "TopMargin": -34.0,
+            "BottomMargin": -34.0,
+            "Tag": 77,
+            "ActionTag": -556669827,
+            "Size": {
+              "X": 103.0,
+              "Y": 68.0
+            },
+            "Name": "shaiDiKuang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_qianshai00.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -22.0,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -61.5,
+            "RightMargin": -17.5,
+            "TopMargin": -39.0,
+            "BottomMargin": -23.0,
+            "Tag": 78,
+            "ActionTag": -1172887582,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "shaiZi1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_qianshai00.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 24.0,
+              "Y": 8.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -15.5,
+            "RightMargin": -63.5,
+            "TopMargin": -39.0,
+            "BottomMargin": -23.0,
+            "Tag": 79,
+            "ActionTag": -2007615693,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "shaiZi2",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/BR_QS.plist",
+        "baiRenTanChuRes/BR_QS.png",
+        "BR_xingZiYuan.plist",
+        "BR_xingZiYuan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

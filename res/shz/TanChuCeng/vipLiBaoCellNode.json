@@ -1,0 +1,168 @@
+{
+  "ID": "4f926a03-fd05-4216-8b7a-5f8e13980206",
+  "Version": "2.3.1.2",
+  "Name": "vipLiBaoCellNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 66,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VIP_cellBg.png",
+              "Plist": "tanChuCengRes/VIP_LingQu_Tu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -97.5,
+            "RightMargin": -97.5,
+            "TopMargin": -127.5,
+            "BottomMargin": -127.5,
+            "Tag": 16,
+            "ActionTag": 33245943,
+            "Size": {
+              "X": 195.0,
+              "Y": 255.0
+            },
+            "Name": "cell_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VIP_vip-0.png",
+              "Plist": "tanChuCengRes/VIP_LingQu_Tu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -46.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -82.0,
+            "RightMargin": -82.0,
+            "TopMargin": -24.5,
+            "BottomMargin": -116.5,
+            "Tag": 69,
+            "ActionTag": 624334753,
+            "Size": {
+              "X": 164.0,
+              "Y": 141.0
+            },
+            "Name": "vip_tuBiao",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "VIP_LingQu.png",
+              "Plist": "tanChuCengRes/VIP_LingQu_Tu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -13.0,
+              "Y": 5.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -84.0,
+            "RightMargin": -58.0,
+            "TopMargin": -46.0,
+            "BottomMargin": -36.0,
+            "Tag": 70,
+            "ActionTag": 1115026313,
+            "Size": {
+              "X": 142.0,
+              "Y": 82.0
+            },
+            "Name": "lingQu",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/VIP_LingQu_Tu.plist",
+        "tanChuCengRes/VIP_LingQu_Tu.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

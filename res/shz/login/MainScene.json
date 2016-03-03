@@ -1,0 +1,551 @@
+{
+  "ID": "79df10cb-5d3d-417c-91b2-99ecb76554c9",
+  "Version": "2.2.1.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 26,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "RightMargin": -1136.0,
+        "TopMargin": -640.0,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "DLguang.png"
+            },
+            "Tag": 27,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": -232.0,
+            "ActionTag": 1078333178,
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 1600.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "DLguang_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "DLshan.png"
+            },
+            "Tag": 28,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": -232.0,
+            "BottomMargin": 269.0,
+            "ActionTag": 190663741,
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 1600.0,
+              "Y": 371.0
+            },
+            "FrameEvent": "",
+            "Name": "DLshan_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "DLjing.png"
+            },
+            "Tag": 29,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": -232.0,
+            "ActionTag": -654102917,
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 1600.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "DLjing_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "DLyun.png"
+            },
+            "Tag": 30,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": -232.0,
+            "BottomMargin": 441.0,
+            "ActionTag": 1829586178,
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 1600.0,
+              "Y": 199.0
+            },
+            "FrameEvent": "",
+            "Name": "DLyun_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLrenwu.png",
+              "Plist": "dengLu.plist"
+            },
+            "Tag": 32,
+            "PrePosition": {
+              "X": -0.130281687,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -148.0,
+            "RightMargin": 769.0,
+            "TopMargin": 147.0,
+            "ActionTag": 1692848295,
+            "Position": {
+              "X": -148.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 515.0,
+              "Y": 493.0
+            },
+            "FrameEvent": "",
+            "Name": "DLrenwu_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLchuan2.png",
+              "Plist": "dengLu.plist"
+            },
+            "Tag": 33,
+            "PrePosition": {
+              "X": 1.08802819,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 787.0,
+            "RightMargin": -100.0,
+            "TopMargin": 566.0,
+            "ActionTag": 1126009582,
+            "Position": {
+              "X": 1236.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 449.0,
+              "Y": 74.0
+            },
+            "FrameEvent": "",
+            "Name": "DLchuan2_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "DLzhe.png"
+            },
+            "Tag": 34,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -232.0,
+            "RightMargin": -232.0,
+            "ActionTag": -682257443,
+            "Position": {
+              "X": 568.0,
+              "Y": 640.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "Size": {
+              "X": 1600.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "DLzhe_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLcao.png",
+              "Plist": "dengLu.plist"
+            },
+            "Tag": 35,
+            "PrePosition": {
+              "X": -0.07306338,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -83.0,
+            "RightMargin": 573.0,
+            "TopMargin": 414.0,
+            "ActionTag": -1716010352,
+            "Position": {
+              "X": -83.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 646.0,
+              "Y": 226.0
+            },
+            "FrameEvent": "",
+            "Name": "DLcao_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLgonggao_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLgonggao_2.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLgonggao_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 64,
+            "TouchEnable": true,
+            "Tag": 161,
+            "PrePosition": {
+              "X": 0.0699823946,
+              "Y": 0.889843762
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1016
+            },
+            "LeftMargin": 47.0,
+            "RightMargin": 1024.0,
+            "TopMargin": 38.0,
+            "BottomMargin": 537.0,
+            "ActionTag": 144783088,
+            "Position": {
+              "X": 79.5,
+              "Y": 569.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "FrameEvent": "",
+            "Name": "DLgonggaoBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLbangzhu_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLbangzhu_2.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLbangzhu_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 64,
+            "TouchEnable": true,
+            "Tag": 162,
+            "PrePosition": {
+              "X": 0.8441901,
+              "Y": 0.889843762
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1016
+            },
+            "LeftMargin": 926.5,
+            "RightMargin": 144.5,
+            "TopMargin": 38.0,
+            "BottomMargin": 537.0,
+            "ActionTag": -2027335525,
+            "Position": {
+              "X": 959.0,
+              "Y": 569.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "FrameEvent": "",
+            "Name": "DLbangzhuBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLshezhi_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLshezhi_2.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLshezhi_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 64,
+            "TouchEnable": true,
+            "Tag": 163,
+            "PrePosition": {
+              "X": 0.9322183,
+              "Y": 0.889843762
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1016
+            },
+            "LeftMargin": 1026.5,
+            "RightMargin": 44.5,
+            "TopMargin": 38.0,
+            "BottomMargin": 537.0,
+            "ActionTag": 1576475198,
+            "Position": {
+              "X": 1059.0,
+              "Y": 569.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 65.0,
+              "Y": 65.0
+            },
+            "FrameEvent": "",
+            "Name": "DLshezhiBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "FrameEvent": "",
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Scene"
+}

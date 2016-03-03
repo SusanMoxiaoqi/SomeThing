@@ -1,0 +1,259 @@
+{
+  "ID": "0eb7e2f4-7bf0-4e6a-ab44-b800e5b56356",
+  "Version": "2.3.3.0",
+  "Name": "WuZuoWanJia",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 88,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "wuzuo_mainbg.png",
+              "Plist": "baiRenTanChuRes/WuZuoWanJia.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -399.5,
+            "RightMargin": -399.5,
+            "TopMargin": -282.0,
+            "BottomMargin": -282.0,
+            "Tag": 89,
+            "ActionTag": -689758241,
+            "Size": {
+              "X": 799.0,
+              "Y": 564.0
+            },
+            "Name": "wuzuo_mainbg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_chaHao2.png",
+              "Plist": "baiRenTanChuRes/WuZuoWanJia.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_chaHao.png",
+              "Plist": "baiRenTanChuRes/WuZuoWanJia.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 325.0,
+              "Y": 182.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 293.5,
+            "RightMargin": -356.5,
+            "TopMargin": -213.5,
+            "BottomMargin": 150.5,
+            "Tag": 95,
+            "ActionTag": 922735964,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "wuzuowanjia_quit",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 22,
+            "LabelText": "0",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 83.0,
+              "Y": 125.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 38.0,
+            "RightMargin": -128.0,
+            "TopMargin": -138.0,
+            "BottomMargin": 112.0,
+            "Tag": 96,
+            "ActionTag": 989262338,
+            "Size": {
+              "X": 90.0,
+              "Y": 26.0
+            },
+            "Name": "wuzuo_peopleCount",
+            "ctype": "TextObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 620,
+              "Height": 500
+            },
+            "ScrollDirectionType": "Vertical",
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -310.0,
+              "Y": -209.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -310.0,
+            "RightMargin": -310.0,
+            "TopMargin": -91.0,
+            "BottomMargin": -209.0,
+            "Tag": 98,
+            "ActionTag": -576371937,
+            "Size": {
+              "X": 620.0,
+              "Y": 300.0
+            },
+            "Alpha": 0,
+            "Name": "playerScrollVIewMsg",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/WuZuoWanJia.plist",
+        "baiRenTanChuRes/WuZuoWanJia.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

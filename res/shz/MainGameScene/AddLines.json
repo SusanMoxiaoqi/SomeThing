@@ -1,0 +1,1244 @@
+{
+  "ID": "98df84d2-9651-4e69-8c69-bb87aa169917",
+  "Version": "2.2.8.0",
+  "Name": "AddLines",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 17,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light1.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 309.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.4836
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 308.0,
+            "BottomMargin": 287.0,
+            "Tag": 19,
+            "ActionTag": -1862513206,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light2.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 451.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.7055
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 166.0,
+            "BottomMargin": 429.0,
+            "Tag": 20,
+            "ActionTag": 1878084016,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light3.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 168.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.2633
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 449.0,
+            "BottomMargin": 146.0,
+            "Tag": 21,
+            "ActionTag": 1194542284,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light4.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 34.5,
+              "Y": 493.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0304,
+              "Y": 0.7711
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 8.5,
+            "RightMargin": 1075.5,
+            "TopMargin": 124.0,
+            "BottomMargin": 471.0,
+            "Tag": 22,
+            "ActionTag": 1187420993,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light5.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 125.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.1961
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 492.0,
+            "BottomMargin": 103.0,
+            "Tag": 23,
+            "ActionTag": 1746010325,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light6.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 406.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.6352
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 211.0,
+            "BottomMargin": 384.0,
+            "Tag": 24,
+            "ActionTag": -1084888118,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light7.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 36.5,
+              "Y": 211.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0321,
+              "Y": 0.3305
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 10.5,
+            "RightMargin": 1073.5,
+            "TopMargin": 406.0,
+            "BottomMargin": 189.0,
+            "Tag": 25,
+            "ActionTag": -756595964,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light8.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 34.5,
+              "Y": 352.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0304,
+              "Y": 0.5508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 8.5,
+            "RightMargin": 1075.5,
+            "TopMargin": 265.0,
+            "BottomMargin": 330.0,
+            "Tag": 26,
+            "ActionTag": -491008588,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light9.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 35.5,
+              "Y": 265.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0312,
+              "Y": 0.4148
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 9.5,
+            "RightMargin": 1074.5,
+            "TopMargin": 352.0,
+            "BottomMargin": 243.0,
+            "Tag": 27,
+            "ActionTag": -1644508428,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Llight9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light1.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 310.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.4852
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 307.0,
+            "BottomMargin": 288.0,
+            "Tag": 28,
+            "ActionTag": -1064207868,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light2.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 450.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.7039
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 167.0,
+            "BottomMargin": 428.0,
+            "Tag": 29,
+            "ActionTag": 106849788,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light3.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 168.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.2633
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 449.0,
+            "BottomMargin": 146.0,
+            "Tag": 30,
+            "ActionTag": 663276422,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light4.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 494.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.7727
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 123.0,
+            "BottomMargin": 472.0,
+            "Tag": 31,
+            "ActionTag": -184417257,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light5.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1101.5,
+              "Y": 127.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9696,
+              "Y": 0.1992
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1075.5,
+            "RightMargin": 8.5,
+            "TopMargin": 490.0,
+            "BottomMargin": 105.0,
+            "Tag": 32,
+            "ActionTag": -2026089323,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light6.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1101.5,
+              "Y": 405.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9696,
+              "Y": 0.6336
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1075.5,
+            "RightMargin": 8.5,
+            "TopMargin": 212.0,
+            "BottomMargin": 383.0,
+            "Tag": 33,
+            "ActionTag": 1731804049,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light7.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 212.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.332
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 405.0,
+            "BottomMargin": 190.0,
+            "Tag": 34,
+            "ActionTag": -904548744,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light8.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 352.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.5508
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 265.0,
+            "BottomMargin": 330.0,
+            "Tag": 35,
+            "ActionTag": 270142977,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "light9.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1100.5,
+              "Y": 265.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9688,
+              "Y": 0.4148
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1074.5,
+            "RightMargin": 9.5,
+            "TopMargin": 352.0,
+            "BottomMargin": 243.0,
+            "Tag": 36,
+            "ActionTag": 1529504953,
+            "Size": {
+              "X": 52.0,
+              "Y": 45.0
+            },
+            "Name": "Rlight9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_1.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 648.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5634,
+              "Y": 1.0125
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 72.0,
+            "RightMargin": -72.0,
+            "TopMargin": -348.5,
+            "BottomMargin": 307.5,
+            "Tag": 37,
+            "ActionTag": -972686732,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_2.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.0,
+              "Y": 790.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5643,
+              "Y": 1.2344
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.0,
+            "RightMargin": -73.0,
+            "TopMargin": -490.5,
+            "BottomMargin": 449.5,
+            "Tag": 38,
+            "ActionTag": 1624283006,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_3.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 505.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5634,
+              "Y": 0.7891
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 72.0,
+            "RightMargin": -72.0,
+            "TopMargin": -205.5,
+            "BottomMargin": 164.5,
+            "Tag": 39,
+            "ActionTag": 182284012,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_4.png",
+              "Plist": "SHZ_result.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.0,
+              "Y": 337.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4956,
+              "Y": 0.5273
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 72.0,
+            "RightMargin": 82.0,
+            "TopMargin": 143.0,
+            "BottomMargin": 178.0,
+            "Tag": 40,
+            "ActionTag": -2034711690,
+            "Size": {
+              "X": 982.0,
+              "Y": 319.0
+            },
+            "Name": "line4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_5.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.0,
+              "Y": 464.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5643,
+              "Y": 0.725
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 73.0,
+            "RightMargin": -73.0,
+            "TopMargin": -164.5,
+            "BottomMargin": 123.5,
+            "Tag": 41,
+            "ActionTag": 672634563,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_6.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.0,
+              "Y": 655.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.566,
+              "Y": 1.0234
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 75.0,
+            "RightMargin": -75.0,
+            "TopMargin": -355.5,
+            "BottomMargin": 314.5,
+            "Tag": 42,
+            "ActionTag": 1605982416,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_7.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0,
+              "Y": 549.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5651,
+              "Y": 0.8578
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.0,
+            "RightMargin": -74.0,
+            "TopMargin": -249.5,
+            "BottomMargin": 208.5,
+            "Tag": 44,
+            "ActionTag": 1622246937,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_8.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 642.0,
+              "Y": 529.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5651,
+              "Y": 0.8273
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 74.0,
+            "RightMargin": -74.0,
+            "TopMargin": -230.0,
+            "BottomMargin": 189.0,
+            "Tag": 45,
+            "ActionTag": 456754845,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "line_9.png",
+              "Plist": "SHZ_line.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 602.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5634,
+              "Y": 0.9406
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 72.0,
+            "RightMargin": -72.0,
+            "TopMargin": -302.5,
+            "BottomMargin": 261.5,
+            "Tag": 46,
+            "ActionTag": -779610344,
+            "Size": {
+              "X": 1136.0,
+              "Y": 681.0
+            },
+            "Name": "line9",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

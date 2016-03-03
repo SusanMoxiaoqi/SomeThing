@@ -1,0 +1,289 @@
+{
+  "ID": "65186708-a457-4892-bdcf-39711d1ce0f4",
+  "Version": "2.3.3.0",
+  "Name": "zhuang_Cell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Z_geRen.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -311.5,
+            "RightMargin": -311.5,
+            "TopMargin": -25.5,
+            "BottomMargin": -25.5,
+            "Tag": 53,
+            "ActionTag": 251242515,
+            "Size": {
+              "X": 623.0,
+              "Y": 51.0
+            },
+            "Name": "BR_Z_cellBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Z_yuanBao.png",
+              "Plist": "BR_ZhuangLiBie.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 269.243,
+              "Y": 1.2584
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 243.243,
+            "RightMargin": -295.243,
+            "TopMargin": -27.2584,
+            "BottomMargin": -24.7416,
+            "Tag": 54,
+            "ActionTag": 319088710,
+            "Size": {
+              "X": 52.0,
+              "Y": 52.0
+            },
+            "Name": "BR_Z_yingLiang",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "小麦地",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -37.8334,
+              "Y": -2.2338
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 68,
+              "G": 42,
+              "B": 17
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -137.8334,
+            "RightMargin": -62.1666,
+            "TopMargin": -17.7662,
+            "BottomMargin": -22.2338,
+            "Tag": 55,
+            "ActionTag": 1509014801,
+            "Size": {
+              "X": 200.0,
+              "Y": 40.0
+            },
+            "Name": "BR_Z_niCheng",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "等待",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -249.2332,
+              "Y": -2.2338
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 68,
+              "G": 42,
+              "B": 17
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -299.2332,
+            "RightMargin": 199.2332,
+            "TopMargin": -17.7662,
+            "BottomMargin": -22.2338,
+            "Tag": 50,
+            "ActionTag": 980786553,
+            "Size": {
+              "X": 100.0,
+              "Y": 40.0
+            },
+            "Name": "BR_Z_paiDuiShu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "小麦地",
+            "HorizontalAlignmentType": "HT_Right",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 145.9407,
+              "Y": -2.2338
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 68,
+              "G": 42,
+              "B": 17
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 45.9407,
+            "RightMargin": -245.9407,
+            "TopMargin": -17.7662,
+            "BottomMargin": -22.2338,
+            "Tag": 51,
+            "ActionTag": 73920950,
+            "Size": {
+              "X": 200.0,
+              "Y": 40.0
+            },
+            "Name": "BR_Z_qianShu",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "BR_ZhuangLiBie.plist",
+        "BR_ZhuangLiBie.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

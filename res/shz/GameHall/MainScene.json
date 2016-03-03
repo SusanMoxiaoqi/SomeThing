@@ -1,0 +1,1250 @@
+{
+  "ID": "a9f4628a-0d1b-40d3-863a-f23008b95c6d",
+  "Version": "2.3.3.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 51,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameHallBg.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 52,
+            "ActionTag": 1216193036,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "GameHall_Bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "gameHallBg2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 299.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4672
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.675
+            },
+            "TopMargin": 125.0,
+            "BottomMargin": 83.0,
+            "Tag": 21,
+            "ActionTag": 699498395,
+            "Size": {
+              "X": 1136.0,
+              "Y": 432.0
+            },
+            "Name": "GameHall_Bg_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_yinhang_3.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_yinhang_2.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_yinhang_1.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 84,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 782.25,
+              "Y": 55.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6886,
+              "Y": 0.0859
+            },
+            "PreSize": {
+              "X": 0.0739,
+              "Y": 0.1344
+            },
+            "LeftMargin": 740.25,
+            "RightMargin": 311.75,
+            "TopMargin": 542.0,
+            "BottomMargin": 12.0,
+            "Tag": 56,
+            "ActionTag": -1884394023,
+            "Size": {
+              "X": 84.0,
+              "Y": 86.0
+            },
+            "Name": "GameHall_yinhang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_chongzhi_3.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_chongzhi_2.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_chongzhi_1.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 74,
+            "Scale9Height": 80,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 681.5,
+              "Y": 50.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5999,
+              "Y": 0.0781
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.125
+            },
+            "LeftMargin": 644.5,
+            "RightMargin": 417.5,
+            "TopMargin": 550.0,
+            "BottomMargin": 10.0,
+            "Tag": 57,
+            "ActionTag": 964939946,
+            "Size": {
+              "X": 74.0,
+              "Y": 80.0
+            },
+            "Name": "GameHall_chongzhi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-duijiu-3.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-duijiu-2.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-duijiu-1.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 72,
+            "Scale9Height": 82,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 981.75,
+              "Y": 52.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8642,
+              "Y": 0.0812
+            },
+            "PreSize": {
+              "X": 0.0634,
+              "Y": 0.1281
+            },
+            "LeftMargin": 945.75,
+            "RightMargin": 118.25,
+            "TopMargin": 547.0,
+            "BottomMargin": 11.0,
+            "Tag": 59,
+            "ActionTag": 787103715,
+            "Size": {
+              "X": 72.0,
+              "Y": 82.0
+            },
+            "Name": "GameHall_duijiu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "yhc.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 1
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 566.0,
+              "Y": 591.9998
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4982,
+              "Y": 0.925
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 566.0,
+            "RightMargin": 570.0,
+            "TopMargin": 48.0002,
+            "BottomMargin": 591.9998,
+            "Tag": 21,
+            "ActionTag": 724623009,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "yhc_lizi",
+            "ctype": "ParticleObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "guang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 597.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9328
+            },
+            "PreSize": {
+              "X": 0.5933,
+              "Y": 0.1328
+            },
+            "LeftMargin": 231.0,
+            "RightMargin": 231.0,
+            "TopMargin": 0.5,
+            "BottomMargin": 554.5,
+            "Tag": 29,
+            "ActionTag": 1068523278,
+            "Size": {
+              "X": 674.0,
+              "Y": 85.0
+            },
+            "Name": "faGuang_tu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "biaoti.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 596.2843
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9317
+            },
+            "PreSize": {
+              "X": 0.4498,
+              "Y": 0.1328
+            },
+            "LeftMargin": 312.5,
+            "RightMargin": 312.5,
+            "TopMargin": 1.2157,
+            "BottomMargin": 553.7843,
+            "Tag": 30,
+            "ActionTag": -1116275529,
+            "Size": {
+              "X": 511.0,
+              "Y": 85.0
+            },
+            "Name": "loGo",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_message_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_message_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_message_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 75,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 94.25,
+              "Y": 595.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.083,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.066,
+              "Y": 0.1156
+            },
+            "LeftMargin": 94.25,
+            "RightMargin": 966.75,
+            "TopMargin": 7.01,
+            "BottomMargin": 558.99,
+            "Tag": 62,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hongdian.png",
+                  "Plist": "GameHallScene.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.5,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7667,
+                  "Y": 0.8784
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.3378
+                },
+                "LeftMargin": 45.0,
+                "RightMargin": 5.0,
+                "TopMargin": -3.5,
+                "BottomMargin": 52.5,
+                "Tag": 20,
+                "ActionTag": 1878591100,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "VisibleForFrame": false,
+                "Name": "hongdian_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1872544488,
+            "Size": {
+              "X": 75.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_xiaoxi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_screenshot_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_screenshot_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_screenshot_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 75,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 217.5,
+              "Y": 595.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1915,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.066,
+              "Y": 0.1156
+            },
+            "LeftMargin": 180.0,
+            "RightMargin": 881.0,
+            "TopMargin": 7.01,
+            "BottomMargin": 558.99,
+            "Tag": 63,
+            "ActionTag": 2048468831,
+            "Size": {
+              "X": 75.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_jietu",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_gift_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_gift_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_gift_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 74,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 914.5,
+              "Y": 595.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.805,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.0651,
+              "Y": 0.1156
+            },
+            "LeftMargin": 877.5,
+            "RightMargin": 184.5,
+            "TopMargin": 7.01,
+            "BottomMargin": 558.99,
+            "Tag": 64,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hongdian.png",
+                  "Plist": "GameHallScene.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.5,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.777,
+                  "Y": 0.8784
+                },
+                "PreSize": {
+                  "X": 0.3378,
+                  "Y": 0.3378
+                },
+                "LeftMargin": 45.0,
+                "RightMargin": 4.0,
+                "TopMargin": -3.5,
+                "BottomMargin": 52.5,
+                "Tag": 20,
+                "ActionTag": 1573306734,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "VisibleForFrame": false,
+                "Name": "hongdian_3",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1131893961,
+            "Size": {
+              "X": 74.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_libao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_check_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_check_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_check_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 75,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1005.75,
+              "Y": 596.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8853,
+              "Y": 0.9316
+            },
+            "PreSize": {
+              "X": 0.066,
+              "Y": 0.1156
+            },
+            "LeftMargin": 968.25,
+            "RightMargin": 92.75,
+            "TopMargin": 6.75,
+            "BottomMargin": 559.25,
+            "Tag": 65,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hongdian.png",
+                  "Plist": "GameHallScene.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 57.5,
+                  "Y": 64.74
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7667,
+                  "Y": 0.8749
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.3378
+                },
+                "LeftMargin": 45.0,
+                "RightMargin": 5.0,
+                "TopMargin": -3.24,
+                "BottomMargin": 52.24,
+                "Tag": 20,
+                "ActionTag": -1197582552,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "VisibleForFrame": false,
+                "Name": "hongdian_4",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 297073851,
+            "Size": {
+              "X": 75.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_qiandao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_shangcheng_3.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_shangcheng_2.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_shangcheng_1.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 68,
+            "Scale9Height": 86,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 882.0,
+              "Y": 52.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7764,
+              "Y": 0.0812
+            },
+            "PreSize": {
+              "X": 0.0599,
+              "Y": 0.1344
+            },
+            "LeftMargin": 848.0,
+            "RightMargin": 220.0,
+            "TopMargin": 545.0,
+            "BottomMargin": 9.0,
+            "Tag": 76,
+            "ActionTag": 1088381590,
+            "Size": {
+              "X": 68.0,
+              "Y": 86.0
+            },
+            "Name": "GameHall_shangcheng",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-caidan-3.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-caidan-2.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn-caidan-1.png",
+              "Plist": "DT_caidan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 64,
+            "Scale9Height": 82,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1081.5,
+              "Y": 53.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.952,
+              "Y": 0.0828
+            },
+            "PreSize": {
+              "X": 0.0563,
+              "Y": 0.1281
+            },
+            "LeftMargin": 1049.5,
+            "RightMargin": 22.5,
+            "TopMargin": 546.0,
+            "BottomMargin": 12.0,
+            "Tag": 58,
+            "ActionTag": -1196045872,
+            "Size": {
+              "X": 64.0,
+              "Y": 82.0
+            },
+            "Name": "GameHall_caidan",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_list_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_list_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_list_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1092.0,
+              "Y": 595.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9613,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1156
+            },
+            "LeftMargin": 1059.5,
+            "RightMargin": 11.5,
+            "TopMargin": 7.01,
+            "BottomMargin": 558.99,
+            "Tag": 66,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hongdian.png",
+                  "Plist": "GameHallScene.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 56.5,
+                  "Y": 65.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8692,
+                  "Y": 0.8784
+                },
+                "PreSize": {
+                  "X": 0.3846,
+                  "Y": 0.3378
+                },
+                "LeftMargin": 44.0,
+                "RightMargin": -4.0,
+                "TopMargin": -3.5,
+                "BottomMargin": 52.5,
+                "Tag": 20,
+                "ActionTag": 166438565,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 25.0
+                },
+                "VisibleForFrame": false,
+                "Name": "hongdian_2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -331251336,
+            "Size": {
+              "X": 65.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_paihangbang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_back_dis.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_back_down.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_back_up.png",
+              "Plist": "GameHallScene.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 74,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 46.0,
+              "Y": 595.99
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0405,
+              "Y": 0.9312
+            },
+            "PreSize": {
+              "X": 0.0572,
+              "Y": 0.1156
+            },
+            "LeftMargin": 13.5,
+            "RightMargin": 1057.5,
+            "TopMargin": 7.01,
+            "BottomMargin": 558.99,
+            "Tag": 61,
+            "ActionTag": 2057919285,
+            "Size": {
+              "X": 65.0,
+              "Y": 74.0
+            },
+            "Name": "GameHall_fanhui",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "biaoti.png",
+        "DT_caidan.plist",
+        "DT_caidan.png",
+        "gameHallBg.png",
+        "gameHallBg2.png",
+        "GameHallScene.plist",
+        "GameHallScene.png",
+        "guang.png",
+        "yhc.plist"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

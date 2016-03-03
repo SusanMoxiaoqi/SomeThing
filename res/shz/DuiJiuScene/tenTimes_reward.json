@@ -1,0 +1,1460 @@
+{
+  "ID": "cfa09604-7aa7-4a3f-8919-473986ba2083",
+  "Version": "2.3.1.2",
+  "Name": "tenTimes_reward",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 24,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 192.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": -192.0,
+            "BottomMargin": 192.0,
+            "Tag": 39,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao03.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -219.0,
+                "RightMargin": -219.0,
+                "TopMargin": -179.0,
+                "BottomMargin": -20.0,
+                "Tag": 55,
+                "ActionTag": -799022653,
+                "Size": {
+                  "X": 438.0,
+                  "Y": 199.0
+                },
+                "Name": "dj_guangxiao03_17",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": -9.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.5,
+                "RightMargin": -37.5,
+                "TopMargin": -229.0,
+                "BottomMargin": -9.0,
+                "Tag": 38,
+                "ActionTag": 1311007111,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": -10.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -72.0,
+                "RotationSkewX": -72.0,
+                "RotationSkewY": -72.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -47.5,
+                "RightMargin": -27.5,
+                "TopMargin": -238.0,
+                "Tag": 40,
+                "ActionTag": 2073466965,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.3,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -48.0,
+                "RotationSkewX": -48.0,
+                "RotationSkewY": -48.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.5,
+                "RightMargin": -37.5,
+                "TopMargin": -238.0,
+                "Tag": 41,
+                "ActionTag": -629765268,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 10.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.1,
+                  "ScaleY": 1.0
+                },
+                "Rotation": 70.0,
+                "RotationSkewX": 70.0,
+                "RotationSkewY": 70.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -27.5,
+                "RightMargin": -47.5,
+                "TopMargin": -238.0,
+                "Tag": 42,
+                "ActionTag": 1908017760,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 1.0
+                },
+                "Rotation": 48.0,
+                "RotationSkewX": 48.0,
+                "RotationSkewY": 48.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.5,
+                "RightMargin": -37.5,
+                "TopMargin": -238.0,
+                "Tag": 43,
+                "ActionTag": -2067729624,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Rotation": 24.0,
+                "RotationSkewX": 24.0,
+                "RotationSkewY": 24.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.5,
+                "RightMargin": -37.5,
+                "TopMargin": -238.0,
+                "Tag": 44,
+                "ActionTag": 1554418839,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_guangxiao04.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Rotation": -24.0,
+                "RotationSkewX": -24.0,
+                "RotationSkewY": -24.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -37.5,
+                "RightMargin": -37.5,
+                "TopMargin": -238.0,
+                "Tag": 45,
+                "ActionTag": 363618688,
+                "Size": {
+                  "X": 75.0,
+                  "Y": 238.0
+                },
+                "Name": "dj_guangxiao04_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_tittleXing.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -100.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "Rotation": -20.0,
+                "RotationSkewX": -20.0,
+                "RotationSkewY": -20.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -133.5,
+                "RightMargin": 66.5,
+                "TopMargin": -113.0,
+                "BottomMargin": 47.0,
+                "Tag": 52,
+                "ActionTag": 383116007,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 66.0
+                },
+                "Name": "dj_tittleXing_14",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_tittleXing.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 100.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -33.5,
+                "RightMargin": -33.5,
+                "TopMargin": -133.0,
+                "BottomMargin": 67.0,
+                "Tag": 53,
+                "ActionTag": 849645147,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 66.0
+                },
+                "Name": "dj_tittleXing_15",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_tittleXing.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.0,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "Rotation": 20.0,
+                "RotationSkewX": 20.0,
+                "RotationSkewY": 20.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 66.5,
+                "RightMargin": -133.5,
+                "TopMargin": -113.0,
+                "BottomMargin": 47.0,
+                "Tag": 54,
+                "ActionTag": -792048440,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 66.0
+                },
+                "Name": "dj_tittleXing_16",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_gxhdTen.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -220.0,
+                "RightMargin": -220.0,
+                "TopMargin": -49.0,
+                "BottomMargin": -49.0,
+                "Tag": 39,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 107.5,
+                      "Y": 12.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2443,
+                      "Y": 0.1276
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 99.5,
+                    "RightMargin": 324.5,
+                    "TopMargin": 78.0,
+                    "BottomMargin": 5.0,
+                    "Tag": 46,
+                    "ActionTag": -2018370870,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 124.6831,
+                      "Y": 12.8901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2834,
+                      "Y": 0.1315
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 116.6831,
+                    "RightMargin": 307.3169,
+                    "TopMargin": 77.6099,
+                    "BottomMargin": 5.3901,
+                    "Tag": 47,
+                    "ActionTag": 719775928,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 141.8747,
+                      "Y": 12.8901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3224,
+                      "Y": 0.1315
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 133.8747,
+                    "RightMargin": 290.1253,
+                    "TopMargin": 77.6099,
+                    "BottomMargin": 5.3901,
+                    "Tag": 48,
+                    "ActionTag": -2009759607,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.1785,
+                      "Y": 13.3341
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7231,
+                      "Y": 0.1361
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 310.1785,
+                    "RightMargin": 113.8215,
+                    "TopMargin": 77.1659,
+                    "BottomMargin": 5.8341,
+                    "Tag": 49,
+                    "ActionTag": 308811515,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 335.3417,
+                      "Y": 13.501
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7621,
+                      "Y": 0.1378
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 327.3417,
+                    "RightMargin": 96.6583,
+                    "TopMargin": 76.999,
+                    "BottomMargin": 6.001,
+                    "Tag": 50,
+                    "ActionTag": 2135407414,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_12",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dj_baidian.png",
+                      "Plist": "dj_huojiang.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 352.8939,
+                      "Y": 13.6396
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.802,
+                      "Y": 0.1392
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 344.8939,
+                    "RightMargin": 79.1061,
+                    "TopMargin": 76.8604,
+                    "BottomMargin": 6.1396,
+                    "Tag": 51,
+                    "ActionTag": 744285836,
+                    "Size": {
+                      "X": 16.0,
+                      "Y": 15.0
+                    },
+                    "Name": "dj_baidian_13",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1434339869,
+                "Size": {
+                  "X": 440.0,
+                  "Y": 98.0
+                },
+                "Name": "dj_gxhd",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -392931557,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "dj_titleTen",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_anniu4.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_anniu3_.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_anniu1_.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 178,
+            "Scale9Height": 36,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -250.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -104.0,
+            "RightMargin": -104.0,
+            "TopMargin": 221.0,
+            "BottomMargin": -279.0,
+            "Tag": 32,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "dj_qdlq.png",
+                  "Plist": "dj_huojiang.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 104.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 50.5,
+                "RightMargin": 50.5,
+                "TopMargin": 14.0,
+                "BottomMargin": 14.0,
+                "Tag": 33,
+                "ActionTag": -1296284652,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 30.0
+                },
+                "Name": "dj_qdlq",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 129683432,
+            "Size": {
+              "X": 208.0,
+              "Y": 58.0
+            },
+            "Name": "btn_qdlq",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -416.0,
+              "Y": 62.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -483.5,
+            "RightMargin": 348.5,
+            "TopMargin": -109.75,
+            "BottomMargin": 14.75,
+            "Tag": 40,
+            "ActionTag": 1319132027,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -208.0,
+              "Y": 62.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -275.5,
+            "RightMargin": 140.5,
+            "TopMargin": -109.75,
+            "BottomMargin": 14.75,
+            "Tag": 41,
+            "ActionTag": 952060900,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 62.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -67.5,
+            "RightMargin": -67.5,
+            "TopMargin": -109.75,
+            "BottomMargin": 14.75,
+            "Tag": 42,
+            "ActionTag": 942580278,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 208.0,
+              "Y": 62.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 140.5,
+            "RightMargin": -275.5,
+            "TopMargin": -109.75,
+            "BottomMargin": 14.75,
+            "Tag": 43,
+            "ActionTag": 72091415,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 416.0,
+              "Y": 62.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 348.5,
+            "RightMargin": -483.5,
+            "TopMargin": -109.75,
+            "BottomMargin": 14.75,
+            "Tag": 44,
+            "ActionTag": 470513364,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -416.0,
+              "Y": -122.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -483.5,
+            "RightMargin": 348.5,
+            "TopMargin": 74.5,
+            "BottomMargin": -169.5,
+            "Tag": 45,
+            "ActionTag": -1860517158,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -208.0,
+              "Y": -122.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -275.5,
+            "RightMargin": 140.5,
+            "TopMargin": 74.5,
+            "BottomMargin": -169.5,
+            "Tag": 46,
+            "ActionTag": -1833107287,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -122.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -67.5,
+            "RightMargin": -67.5,
+            "TopMargin": 74.5,
+            "BottomMargin": -169.5,
+            "Tag": 47,
+            "ActionTag": -1954611199,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_8",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 208.0,
+              "Y": -122.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 140.5,
+            "RightMargin": -275.5,
+            "TopMargin": 74.5,
+            "BottomMargin": -169.5,
+            "Tag": 48,
+            "ActionTag": 1271834584,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_yuanbao-1.png",
+              "Plist": "dj_huojiang.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 416.0,
+              "Y": -122.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 348.5,
+            "RightMargin": -483.5,
+            "TopMargin": 74.5,
+            "BottomMargin": -169.5,
+            "Tag": 49,
+            "ActionTag": -96737086,
+            "Size": {
+              "X": 135.0,
+              "Y": 95.0
+            },
+            "Name": "Sprite_10",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "dj_huojiang.plist",
+        "dj_huojiang.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

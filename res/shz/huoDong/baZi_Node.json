@@ -1,0 +1,122 @@
+{
+  "ID": "a4fb6cb1-dbcc-49ec-9265-89811f46b08b",
+  "Version": "2.3.1.2",
+  "Name": "baZi_Node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bazi-b-01.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -130.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -91.0,
+            "RightMargin": -91.0,
+            "TopMargin": -130.5,
+            "BottomMargin": -130.5,
+            "Tag": 49,
+            "ActionTag": 2000635617,
+            "Size": {
+              "X": 182.0,
+              "Y": 261.0
+            },
+            "Name": "baZi_tu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xueTiao10_10.png",
+              "Plist": "huoDongXiaoYouXi.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 139.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -73.5,
+            "RightMargin": -73.5,
+            "TopMargin": -146.0,
+            "BottomMargin": 132.0,
+            "Tag": 50,
+            "ActionTag": 1566338837,
+            "Size": {
+              "X": 147.0,
+              "Y": 14.0
+            },
+            "Name": "xueCao_tu",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "huoDongXiaoYouXi.plist",
+        "huoDongXiaoYouXi.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

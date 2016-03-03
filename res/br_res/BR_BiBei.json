@@ -1,0 +1,3395 @@
+{
+  "ID": "8de1d749-4178-49be-b457-ff16e3867317",
+  "Version": "2.3.3.0",
+  "Name": "BR_BiBei",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 25,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "baiRenTanChuRes/BR_youXiDi.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -1.0,
+            "RightMargin": 1.0,
+            "Tag": 36,
+            "ActionTag": 179882504,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "BR_biBeiBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_diezi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 555.0,
+              "Y": 471.0
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4886,
+              "Y": 0.7359
+            },
+            "PreSize": {
+              "X": 0.1136,
+              "Y": 0.0625
+            },
+            "LeftMargin": 490.5,
+            "RightMargin": 516.5,
+            "TopMargin": 149.0,
+            "BottomMargin": 451.0,
+            "Tag": 42,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BR_shangshai00.png",
+                  "Plist": "BR_xingZiYuan.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.1185,
+                  "Y": 30.9421
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3885,
+                  "Y": 0.7736
+                },
+                "PreSize": {
+                  "X": 0.3953,
+                  "Y": 1.025
+                },
+                "LeftMargin": 24.6185,
+                "RightMargin": 53.3815,
+                "TopMargin": -11.4421,
+                "BottomMargin": 10.4421,
+                "Tag": 43,
+                "ActionTag": 361265202,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 41.0
+                },
+                "Name": "BR_leftShazi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "BR_shangshai00.png",
+                  "Plist": "BR_xingZiYuan.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 85.5046,
+                  "Y": 26.1139
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6628,
+                  "Y": 0.6528
+                },
+                "PreSize": {
+                  "X": 0.3953,
+                  "Y": 1.025
+                },
+                "LeftMargin": 60.0046,
+                "RightMargin": 17.9954,
+                "TopMargin": -6.6139,
+                "BottomMargin": 5.6139,
+                "Tag": 44,
+                "ActionTag": -1723799735,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 41.0
+                },
+                "Name": "BR_RightShazi",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1504207112,
+            "Size": {
+              "X": 129.0,
+              "Y": 40.0
+            },
+            "Name": "BR_dieZi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_Second_heguan_mo00.png",
+              "Plist": "BR_heGuanDengDai.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 550.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8594
+            },
+            "PreSize": {
+              "X": 0.1664,
+              "Y": 0.2937
+            },
+            "LeftMargin": 473.5,
+            "RightMargin": 473.5,
+            "TopMargin": -4.0,
+            "BottomMargin": 456.0,
+            "Tag": 46,
+            "ActionTag": 502022294,
+            "Size": {
+              "X": 189.0,
+              "Y": 188.0
+            },
+            "Name": "BR_heguan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 46,
+            "Scale9Height": 36,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 564.5,
+              "Y": 343.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4969,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.2201,
+              "Y": 0.2812
+            },
+            "LeftMargin": 439.5,
+            "RightMargin": 446.5,
+            "TopMargin": 207.0,
+            "BottomMargin": 253.0,
+            "Tag": 53,
+            "ActionTag": 1944772664,
+            "Size": {
+              "X": 250.0,
+              "Y": 180.0
+            },
+            "Alpha": 0,
+            "Name": "BR_yaHeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 46,
+            "Scale9Height": 36,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 837.5,
+              "Y": 343.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7372,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.2201,
+              "Y": 0.2812
+            },
+            "LeftMargin": 712.5,
+            "RightMargin": 173.5,
+            "TopMargin": 207.0,
+            "BottomMargin": 253.0,
+            "Tag": 51,
+            "ActionTag": 1104831490,
+            "Size": {
+              "X": 250.0,
+              "Y": 180.0
+            },
+            "Alpha": 0,
+            "Name": "BR_yadaBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 46,
+            "Scale9Height": 36,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 292.5,
+              "Y": 343.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2575,
+              "Y": 0.5359
+            },
+            "PreSize": {
+              "X": 0.2201,
+              "Y": 0.2812
+            },
+            "LeftMargin": 167.5,
+            "RightMargin": 718.5,
+            "TopMargin": 207.0,
+            "BottomMargin": 253.0,
+            "Tag": 52,
+            "ActionTag": -1145225648,
+            "Size": {
+              "X": 250.0,
+              "Y": 180.0
+            },
+            "Alpha": 0,
+            "Name": "BR_yaXiaoBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_daShan.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 836.5215,
+              "Y": 342.1731
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7364,
+              "Y": 0.5346
+            },
+            "PreSize": {
+              "X": 0.2729,
+              "Y": 0.3469
+            },
+            "LeftMargin": 681.5215,
+            "RightMargin": 144.4785,
+            "TopMargin": 186.8269,
+            "BottomMargin": 231.1731,
+            "Tag": 48,
+            "ActionTag": 2072032716,
+            "Size": {
+              "X": 310.0,
+              "Y": 222.0
+            },
+            "Name": "BR_daShan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_heShan.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 564.0433,
+              "Y": 342.9113
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4965,
+              "Y": 0.5358
+            },
+            "PreSize": {
+              "X": 0.2729,
+              "Y": 0.3469
+            },
+            "LeftMargin": 409.0433,
+            "RightMargin": 416.9567,
+            "TopMargin": 186.0887,
+            "BottomMargin": 231.9113,
+            "Tag": 47,
+            "ActionTag": 1496112550,
+            "Size": {
+              "X": 310.0,
+              "Y": 222.0
+            },
+            "Name": "BR_heShan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoShan.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 294.521,
+              "Y": 342.1731
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2593,
+              "Y": 0.5346
+            },
+            "PreSize": {
+              "X": 0.2729,
+              "Y": 0.3469
+            },
+            "LeftMargin": 139.521,
+            "RightMargin": 686.479,
+            "TopMargin": 186.8269,
+            "BottomMargin": 231.1731,
+            "Tag": 45,
+            "ActionTag": 925144590,
+            "Size": {
+              "X": 310.0,
+              "Y": 222.0
+            },
+            "Name": "BR_xiaoShan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_qianshai00.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 885.5155,
+              "Y": 387.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7795,
+              "Y": 0.6047
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.0969
+            },
+            "LeftMargin": 846.0155,
+            "RightMargin": 210.9845,
+            "TopMargin": 222.0,
+            "BottomMargin": 356.0,
+            "Tag": 58,
+            "ActionTag": -1814379734,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "BR_qianshai2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_qianshai00.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 785.826,
+              "Y": 387.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6917,
+              "Y": 0.6047
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.0969
+            },
+            "LeftMargin": 746.326,
+            "RightMargin": 310.674,
+            "TopMargin": 222.0,
+            "BottomMargin": 356.0,
+            "Tag": 57,
+            "ActionTag": -1845895641,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "BR_qianshai1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 460.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4049,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0891
+            },
+            "LeftMargin": 405.0,
+            "RightMargin": 621.0,
+            "TopMargin": 571.5,
+            "BottomMargin": 11.5,
+            "Tag": 59,
+            "ActionTag": -1584840538,
+            "Size": {
+              "X": 110.0,
+              "Y": 57.0
+            },
+            "Name": "BR_xuanZhong_0",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 586.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5158,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0891
+            },
+            "LeftMargin": 531.0,
+            "RightMargin": 495.0,
+            "TopMargin": 571.5,
+            "BottomMargin": 11.5,
+            "Tag": 60,
+            "ActionTag": -388683512,
+            "Size": {
+              "X": 110.0,
+              "Y": 57.0
+            },
+            "Name": "BR_xuanZhong_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 712.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6268,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0891
+            },
+            "LeftMargin": 657.0,
+            "RightMargin": 369.0,
+            "TopMargin": 571.5,
+            "BottomMargin": 11.5,
+            "Tag": 61,
+            "ActionTag": -1197145618,
+            "Size": {
+              "X": 110.0,
+              "Y": 57.0
+            },
+            "Name": "BR_xuanZhong_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 838.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7377,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0891
+            },
+            "LeftMargin": 783.0,
+            "RightMargin": 243.0,
+            "TopMargin": 571.5,
+            "BottomMargin": 11.5,
+            "Tag": 62,
+            "ActionTag": 81514565,
+            "Size": {
+              "X": 110.0,
+              "Y": 57.0
+            },
+            "Name": "BR_xuanZhong_3",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_anNiu1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 80,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 964.0,
+              "Y": 40.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8486,
+              "Y": 0.0625
+            },
+            "PreSize": {
+              "X": 0.0968,
+              "Y": 0.0891
+            },
+            "LeftMargin": 909.0,
+            "RightMargin": 117.0,
+            "TopMargin": 571.5,
+            "BottomMargin": 11.5,
+            "Tag": 63,
+            "ActionTag": 909299203,
+            "Size": {
+              "X": 110.0,
+              "Y": 57.0
+            },
+            "Name": "BR_xuanZhong_4",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_wuZuo2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_wuZuo2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1096.0,
+              "Y": 594.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9648,
+              "Y": 0.9281
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0984
+            },
+            "LeftMargin": 1064.5,
+            "RightMargin": 8.5,
+            "TopMargin": 14.5,
+            "BottomMargin": 562.5,
+            "Tag": 64,
+            "ActionTag": -1322675878,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "BR_paiDui",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_fanHui.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_fanHui2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 43.0,
+              "Y": 594.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0379,
+              "Y": 0.9281
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0984
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": 1061.5,
+            "TopMargin": 14.5,
+            "BottomMargin": 562.5,
+            "Tag": 66,
+            "ActionTag": 279143730,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "BR_back",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_zongYaZhuDi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 293.3596,
+              "Y": 474.9328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2582,
+              "Y": 0.7421
+            },
+            "PreSize": {
+              "X": 0.1717,
+              "Y": 0.0594
+            },
+            "LeftMargin": 195.8596,
+            "RightMargin": 745.1404,
+            "TopMargin": 146.0672,
+            "BottomMargin": 455.9328,
+            "Tag": 55,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 100.708,
+                  "Y": 20.2065
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 230,
+                  "G": 230,
+                  "B": 250
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5165,
+                  "Y": 0.5317
+                },
+                "PreSize": {
+                  "X": 0.7692,
+                  "Y": 0.7895
+                },
+                "LeftMargin": 25.708,
+                "RightMargin": 19.292,
+                "TopMargin": 2.7935,
+                "BottomMargin": 5.2065,
+                "Tag": 63,
+                "ActionTag": -308245606,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 30.0
+                },
+                "Name": "yaFengXiao",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1366665817,
+            "Size": {
+              "X": 195.0,
+              "Y": 38.0
+            },
+            "Name": "BR_yaZhuQian_L",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_zongYaZhuDi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 566.4818,
+              "Y": 474.9328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4987,
+              "Y": 0.7421
+            },
+            "PreSize": {
+              "X": 0.1717,
+              "Y": 0.0594
+            },
+            "LeftMargin": 468.9818,
+            "RightMargin": 472.0182,
+            "TopMargin": 146.0672,
+            "BottomMargin": 455.9328,
+            "Tag": 56,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.9793,
+                  "Y": 20.2066
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5025,
+                  "Y": 0.5318
+                },
+                "PreSize": {
+                  "X": 0.7692,
+                  "Y": 0.7895
+                },
+                "LeftMargin": 22.9793,
+                "RightMargin": 22.0207,
+                "TopMargin": 2.7934,
+                "BottomMargin": 5.2066,
+                "Tag": 64,
+                "ActionTag": -2147253892,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 30.0
+                },
+                "Name": "yaFengHe",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -358354561,
+            "Size": {
+              "X": 195.0,
+              "Y": 38.0
+            },
+            "Name": "BR_yaZhuQian_M",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_zongYaZhuDi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 836.604,
+              "Y": 474.9328
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7364,
+              "Y": 0.7421
+            },
+            "PreSize": {
+              "X": 0.1717,
+              "Y": 0.0594
+            },
+            "LeftMargin": 739.104,
+            "RightMargin": 201.896,
+            "TopMargin": 146.0672,
+            "BottomMargin": 455.9328,
+            "Tag": 57,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.2505,
+                  "Y": 20.2066
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.5318
+                },
+                "PreSize": {
+                  "X": 0.7692,
+                  "Y": 0.7895
+                },
+                "LeftMargin": 22.2505,
+                "RightMargin": 22.7495,
+                "TopMargin": 2.7934,
+                "BottomMargin": 5.2066,
+                "Tag": 65,
+                "ActionTag": -1813740853,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 30.0
+                },
+                "Name": "yaFengDa",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1548000742,
+            "Size": {
+              "X": 195.0,
+              "Y": 38.0
+            },
+            "Name": "BR_yaZhuQian_R",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_yaoShangZhuang.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_yaoShangZhuang2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 90,
+            "Scale9Height": 43,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 941.6094,
+              "Y": 597.9304
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8289,
+              "Y": 0.9343
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.1016
+            },
+            "LeftMargin": 881.6094,
+            "RightMargin": 134.3906,
+            "TopMargin": 9.5696,
+            "BottomMargin": 565.4304,
+            "Tag": 61,
+            "ActionTag": 1600449728,
+            "Size": {
+              "X": 120.0,
+              "Y": 65.0
+            },
+            "Name": "BR_shangZhuang_Btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiuXi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 524.0955,
+              "Y": 127.0536
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4614,
+              "Y": 0.1985
+            },
+            "PreSize": {
+              "X": 0.1188,
+              "Y": 0.0578
+            },
+            "LeftMargin": 456.5955,
+            "RightMargin": 544.4045,
+            "TopMargin": 494.4464,
+            "BottomMargin": 108.5536,
+            "Tag": 57,
+            "ActionTag": -1769409656,
+            "Size": {
+              "X": 135.0,
+              "Y": 37.0
+            },
+            "Name": "youXiShiJianTu",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 829.0,
+              "Y": 587.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7298,
+              "Y": 0.9172
+            },
+            "PreSize": {
+              "X": 0.088,
+              "Y": 0.0312
+            },
+            "LeftMargin": 779.0,
+            "RightMargin": 257.0,
+            "TopMargin": 43.0,
+            "BottomMargin": 577.0,
+            "Tag": 78,
+            "ActionTag": 2038421667,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "zhuangFen",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 16,
+            "LabelText": "萌萌嗒系统",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 832.0,
+              "Y": 612.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7324,
+              "Y": 0.9563
+            },
+            "PreSize": {
+              "X": 0.088,
+              "Y": 0.0312
+            },
+            "LeftMargin": 782.0,
+            "RightMargin": 254.0,
+            "TopMargin": 18.0,
+            "BottomMargin": 602.0,
+            "Tag": 80,
+            "ActionTag": 519539781,
+            "Size": {
+              "X": 100.0,
+              "Y": 20.0
+            },
+            "Name": "zhuang_NC",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 746.0,
+              "Y": 597.9897
+            },
+            "Scale": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6567,
+              "Y": 0.9344
+            },
+            "PreSize": {
+              "X": 0.0863,
+              "Y": 0.1531
+            },
+            "LeftMargin": 697.0,
+            "RightMargin": 341.0,
+            "TopMargin": -6.9897,
+            "BottomMargin": 548.9897,
+            "Tag": 79,
+            "ActionTag": -1634703488,
+            "Size": {
+              "X": 98.0,
+              "Y": 98.0
+            },
+            "Name": "zhuangTouXiang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_yaoyao2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_yaoyao.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 155,
+            "Scale9Height": 131,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 574.9998,
+              "Y": 277.2611
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5062,
+              "Y": 0.4332
+            },
+            "PreSize": {
+              "X": 0.1629,
+              "Y": 0.2391
+            },
+            "LeftMargin": 482.4998,
+            "RightMargin": 468.5002,
+            "TopMargin": 286.2389,
+            "BottomMargin": 200.7611,
+            "Tag": 47,
+            "ActionTag": -139943467,
+            "Size": {
+              "X": 185.0,
+              "Y": 153.0
+            },
+            "VisibleForFrame": false,
+            "Name": "BR_YaoYao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_quShi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_quShi2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 43.0,
+              "Y": 44.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0379,
+              "Y": 0.0688
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0984
+            },
+            "LeftMargin": 11.5,
+            "RightMargin": 1061.5,
+            "TopMargin": 564.5,
+            "BottomMargin": 12.5,
+            "Tag": 44,
+            "ActionTag": 932846736,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "BR_qushi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 166.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1461,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 150.0,
+            "RightMargin": 954.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 50,
+            "ActionTag": -896353461,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 207.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1822,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 191.0,
+            "RightMargin": 913.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 51,
+            "ActionTag": 1110275305,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 248.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2183,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 232.0,
+            "RightMargin": 872.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 52,
+            "ActionTag": 800665384,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 289.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2544,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 273.0,
+            "RightMargin": 831.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 53,
+            "ActionTag": 1197960040,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 330.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2905,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 314.0,
+            "RightMargin": 790.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 54,
+            "ActionTag": -989784612,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_xiaoDa.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 371.0,
+              "Y": 584.822
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3266,
+              "Y": 0.9138
+            },
+            "PreSize": {
+              "X": 0.0282,
+              "Y": 0.0484
+            },
+            "LeftMargin": 355.0,
+            "RightMargin": 749.0,
+            "TopMargin": 39.678,
+            "BottomMargin": 569.322,
+            "Tag": 55,
+            "ActionTag": -1921700130,
+            "Size": {
+              "X": 32.0,
+              "Y": 31.0
+            },
+            "Name": "BR_quShiTu_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_yingYin.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 532.4021
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8319
+            },
+            "PreSize": {
+              "X": 0.6752,
+              "Y": 0.0594
+            },
+            "LeftMargin": 184.5,
+            "RightMargin": 184.5,
+            "TopMargin": 88.5979,
+            "BottomMargin": 513.4021,
+            "Tag": 46,
+            "ActionTag": -1208693818,
+            "Size": {
+              "X": 767.0,
+              "Y": 38.0
+            },
+            "Name": "BR_laBaTiao",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_1.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 226.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1989,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 138.5,
+            "RightMargin": 822.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 50,
+            "ActionTag": 512091619,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui1_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 363.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3195,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 275.5,
+            "RightMargin": 685.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 55,
+            "ActionTag": -567284842,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui2_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_3.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 498.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4384,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 410.5,
+            "RightMargin": 550.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 56,
+            "ActionTag": 875309434,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui3_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_4.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 636.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5599,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 548.5,
+            "RightMargin": 412.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 57,
+            "ActionTag": -1206696639,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui4_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_5.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 768.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6761,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 680.5,
+            "RightMargin": 280.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 58,
+            "ActionTag": -2036025538,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui5_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_dui_6.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 905.0,
+              "Y": 199.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7967,
+              "Y": 0.3124
+            },
+            "PreSize": {
+              "X": 0.154,
+              "Y": 0.2062
+            },
+            "LeftMargin": 817.5,
+            "RightMargin": 143.5,
+            "TopMargin": 374.0334,
+            "BottomMargin": 133.9666,
+            "Tag": 59,
+            "ActionTag": -97150913,
+            "Size": {
+              "X": 175.0,
+              "Y": 132.0
+            },
+            "Name": "BR_dui6_shan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 907.0001,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7984,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 839.0001,
+            "RightMargin": 160.9999,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 49,
+            "ActionTag": 978924924,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui6_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 770.6,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6783,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 702.6,
+            "RightMargin": 297.4,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 48,
+            "ActionTag": 221332507,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui5_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 634.2,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5583,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 566.2,
+            "RightMargin": 433.8,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 47,
+            "ActionTag": 507733861,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui4_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 497.8,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4382,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 429.8,
+            "RightMargin": 570.2,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 46,
+            "ActionTag": 642235620,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui3_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 361.4,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3181,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 293.4,
+            "RightMargin": 706.6,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 45,
+            "ActionTag": 1273675151,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui2_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 225.0,
+              "Y": 194.9666
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1981,
+              "Y": 0.3046
+            },
+            "PreSize": {
+              "X": 0.1197,
+              "Y": 0.1562
+            },
+            "LeftMargin": 157.0,
+            "RightMargin": 843.0,
+            "TopMargin": 395.0334,
+            "BottomMargin": 144.9666,
+            "Tag": 44,
+            "ActionTag": 758850518,
+            "Size": {
+              "X": 136.0,
+              "Y": 100.0
+            },
+            "Alpha": 0,
+            "Name": "BR_dui1_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_sheZhi2.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_sheZhi.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 33,
+            "Scale9Height": 41,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1095.0,
+              "Y": 47.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9639,
+              "Y": 0.0734
+            },
+            "PreSize": {
+              "X": 0.0555,
+              "Y": 0.0984
+            },
+            "LeftMargin": 1063.5,
+            "RightMargin": 9.5,
+            "TopMargin": 561.5,
+            "BottomMargin": 15.5,
+            "Tag": 60,
+            "ActionTag": 10810825,
+            "Size": {
+              "X": 63.0,
+              "Y": 63.0
+            },
+            "Name": "BR_sheZhi",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 228.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.2007,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 228.0,
+            "RightMargin": 908.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 67,
+            "ActionTag": 735692086,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_1",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 364.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.3204,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 364.0,
+            "RightMargin": 772.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 68,
+            "ActionTag": -1184094514,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_2",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 500.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.4401,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 500.0,
+            "RightMargin": 636.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 69,
+            "ActionTag": -1276451592,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_3",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 636.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.5599,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 636.0,
+            "RightMargin": 500.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 70,
+            "ActionTag": 1386179300,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_4",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 772.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.6796,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 772.0,
+            "RightMargin": 364.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 71,
+            "ActionTag": 1556446594,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_5",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 908.0,
+              "Y": 232.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.7993,
+              "Y": 0.3625
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 908.0,
+            "RightMargin": 228.0,
+            "TopMargin": 408.0,
+            "BottomMargin": 232.0,
+            "Tag": 72,
+            "ActionTag": -406156463,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "BR_duiYiText_6",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "BR_wuZuoKuang.png",
+              "Plist": "BR_xingZiYuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1097.2552,
+              "Y": 544.3348
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9659,
+              "Y": 0.8505
+            },
+            "PreSize": {
+              "X": 0.0563,
+              "Y": 0.0344
+            },
+            "LeftMargin": 1065.2552,
+            "RightMargin": 6.7448,
+            "TopMargin": 84.6652,
+            "BottomMargin": 533.3348,
+            "Tag": 61,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 32.05,
+                  "Y": 10.841
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5008,
+                  "Y": 0.4928
+                },
+                "PreSize": {
+                  "X": 1.125,
+                  "Y": 0.8182
+                },
+                "LeftMargin": -3.95,
+                "RightMargin": -4.05,
+                "TopMargin": 2.159,
+                "BottomMargin": 1.841,
+                "Tag": 62,
+                "ActionTag": -119140823,
+                "Size": {
+                  "X": 72.0,
+                  "Y": 18.0
+                },
+                "Name": "wuZuoRenShu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1819711106,
+            "Size": {
+              "X": 64.0,
+              "Y": 22.0
+            },
+            "Name": "BR_wuZuoRenDi",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "baiRenTanChuRes/BR_youXiDi.png",
+        "BR_heGuanDengDai.plist",
+        "BR_heGuanDengDai.png",
+        "BR_xingZiYuan.plist",
+        "BR_xingZiYuan.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

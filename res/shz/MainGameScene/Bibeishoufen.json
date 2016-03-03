@@ -1,0 +1,385 @@
+{
+  "ID": "c0f44b52-dd8f-48e9-b88a-d44773707761",
+  "Version": "2.3.1.1",
+  "Name": "Bibeishoufen",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_shoufen_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_shoufen_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_shoufen_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 216,
+            "Scale9Height": 246,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -148.0,
+              "Y": 73.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -256.0,
+            "RightMargin": 40.0,
+            "TopMargin": -196.5,
+            "BottomMargin": -49.5,
+            "Tag": 54,
+            "ActionTag": -1158096050,
+            "Size": {
+              "X": 216.0,
+              "Y": 246.0
+            },
+            "Name": "First_shoufenBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_bibei_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_bibei_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_bibei_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 226,
+            "Scale9Height": 242,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 145.0,
+              "Y": 74.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 32.0,
+            "RightMargin": -258.0,
+            "TopMargin": -195.5,
+            "BottomMargin": -46.5,
+            "Tag": 55,
+            "ActionTag": 1237338814,
+            "Size": {
+              "X": 226.0,
+              "Y": 242.0
+            },
+            "Name": "First_bibeiBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_defen.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -101.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -217.0,
+            "RightMargin": -217.0,
+            "TopMargin": 33.5,
+            "BottomMargin": -169.5,
+            "Tag": 41,
+            "Children": [
+              {
+                "LabelText": "",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "01.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 280.0,
+                  "Y": 63.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6452,
+                  "Y": 0.4669
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 280.0,
+                "RightMargin": 154.0,
+                "TopMargin": 72.5,
+                "BottomMargin": 63.5,
+                "Tag": 64,
+                "ActionTag": 1306040330,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "First_winScore",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1851123817,
+            "Size": {
+              "X": 434.0,
+              "Y": 136.0
+            },
+            "Name": "First_defen",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_jiangquan.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -101.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -217.0,
+            "RightMargin": -217.0,
+            "TopMargin": 34.5,
+            "BottomMargin": -168.5,
+            "Tag": 64,
+            "Children": [
+              {
+                "VisibleForFrame": false,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 280.0,
+                  "Y": 42.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.6452,
+                  "Y": 0.3134
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 280.0,
+                "RightMargin": 154.0,
+                "TopMargin": 92.0,
+                "BottomMargin": 42.0,
+                "Tag": 65,
+                "ActionTag": 1946062757,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Node_2",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "VisibleForFrame": false,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 280.0,
+                  "Y": 83.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.6452,
+                  "Y": 0.6231
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 280.0,
+                "RightMargin": 154.0,
+                "TopMargin": 50.5,
+                "BottomMargin": 83.5,
+                "Tag": 66,
+                "ActionTag": -1168080356,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "Node_3",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -1510104331,
+            "Size": {
+              "X": 434.0,
+              "Y": 134.0
+            },
+            "Name": "First_jiangquan",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "01.fnt",
+        "01.png",
+        "ButtonLightsBorders.plist",
+        "ButtonLightsBorders.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

@@ -1,0 +1,314 @@
+{
+  "ID": "49b5cc51-546e-4f51-a861-56d7ac944f81",
+  "Version": "2.1.5.0",
+  "Name": "Login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 46,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "Tag": 48,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0015625
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -1.0,
+            "BottomMargin": 1.0,
+            "Children": [
+              {
+                "LabelText": "水浒传",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "shuihu.fnt"
+                },
+                "Tag": 49,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.790625
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 333.0,
+                "RightMargin": 333.0,
+                "TopMargin": 49.0,
+                "BottomMargin": 421.0,
+                "ActionTag": -1282129647,
+                "Position": {
+                  "X": 568.0,
+                  "Y": 506.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 470.0,
+                  "Y": 170.0
+                },
+                "FrameEvent": "",
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 48,
+                "ButtonText": "游客登录",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png"
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png"
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "Tag": 50,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.515625
+                },
+                "PreSize": {
+                  "X": 0.352112681,
+                  "Y": 0.109375
+                },
+                "LeftMargin": 368.0,
+                "RightMargin": 368.0,
+                "TopMargin": 275.0,
+                "BottomMargin": 295.0,
+                "ActionTag": -757380290,
+                "Position": {
+                  "X": 568.0,
+                  "Y": 330.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 400.0,
+                  "Y": 70.0
+                },
+                "FrameEvent": "",
+                "Name": "Youkedenglu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "登录",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png"
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png"
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "Tag": 51,
+                "PrePosition": {
+                  "X": 0.380722165,
+                  "Y": 0.321876
+                },
+                "PreSize": {
+                  "X": 0.08802817,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 382.500366,
+                "RightMargin": 653.499634,
+                "TopMargin": 413.999359,
+                "BottomMargin": 186.000641,
+                "ActionTag": 370021225,
+                "Position": {
+                  "X": 432.500366,
+                  "Y": 206.000641
+                },
+                "Scale": {
+                  "ScaleX": 1.21739209,
+                  "ScaleY": 0.9999997
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 100.0,
+                  "Y": 40.0
+                },
+                "FrameEvent": "",
+                "Name": "denglu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "注册",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png"
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png"
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "Tag": 52,
+                "PrePosition": {
+                  "X": 0.627640843,
+                  "Y": 0.3203125
+                },
+                "PreSize": {
+                  "X": 0.08802817,
+                  "Y": 0.06875
+                },
+                "LeftMargin": 663.0,
+                "RightMargin": 373.0,
+                "TopMargin": 413.0,
+                "BottomMargin": 183.0,
+                "ActionTag": 1400263429,
+                "Position": {
+                  "X": 713.0,
+                  "Y": 205.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 100.0,
+                  "Y": 44.0
+                },
+                "FrameEvent": "",
+                "Name": "zhuce",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -910487429,
+            "Position": {
+              "X": 0.0,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "FrameEvent": "",
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

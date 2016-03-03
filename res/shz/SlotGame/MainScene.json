@@ -1,0 +1,2241 @@
+{
+  "ID": "d51fd107-6ad1-4774-b912-e2e5814b9007",
+  "Version": "2.3.1.2",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 35,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 196.5,
+              "Y": 154.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.173,
+              "Y": 0.2406
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 196.5,
+            "RightMargin": 893.5,
+            "TopMargin": 440.0,
+            "BottomMargin": 154.0,
+            "Tag": 21,
+            "ActionTag": -772506461,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "Sprite_14",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 386.1667,
+              "Y": 154.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3399,
+              "Y": 0.2406
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 386.1667,
+            "RightMargin": 703.8333,
+            "TopMargin": 440.0,
+            "BottomMargin": 154.0,
+            "Tag": 22,
+            "ActionTag": -875251176,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "Sprite_15",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 575.8334,
+              "Y": 154.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5069,
+              "Y": 0.2406
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 575.8334,
+            "RightMargin": 514.1666,
+            "TopMargin": 440.0,
+            "BottomMargin": 154.0,
+            "Tag": 23,
+            "ActionTag": 1694994033,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "Sprite_16",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 765.5001,
+              "Y": 154.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6739,
+              "Y": 0.2406
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 765.5001,
+            "RightMargin": 324.4999,
+            "TopMargin": 440.0,
+            "BottomMargin": 154.0,
+            "Tag": 24,
+            "ActionTag": 666257192,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "Sprite_17",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "ThirdBg.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 5,
+            "ActionTag": 1640475300,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "ThirdBg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_10.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 712.4285,
+              "Y": 439.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6271,
+              "Y": 0.6863
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 682.4285,
+            "RightMargin": 393.5715,
+            "TopMargin": 188.75,
+            "BottomMargin": 427.25,
+            "Tag": 12,
+            "ActionTag": 338646435,
+            "Size": {
+              "X": 60.0,
+              "Y": 24.0
+            },
+            "Name": "read_10_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_100.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 323.2857,
+              "Y": 439.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2846,
+              "Y": 0.6863
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 284.2857,
+            "RightMargin": 773.7143,
+            "TopMargin": 188.75,
+            "BottomMargin": 427.25,
+            "Tag": 16,
+            "ActionTag": -1338298376,
+            "Size": {
+              "X": 78.0,
+              "Y": 24.0
+            },
+            "Name": "read_100_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_2.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 906.4999,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.798,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 881.9999,
+            "RightMargin": 205.0001,
+            "TopMargin": 186.75,
+            "BottomMargin": 427.25,
+            "Tag": 10,
+            "ActionTag": 1130818913,
+            "Size": {
+              "X": 49.0,
+              "Y": 26.0
+            },
+            "Name": "read_2_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_5.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 811.7142,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7145,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 788.2142,
+            "RightMargin": 300.7858,
+            "TopMargin": 186.75,
+            "BottomMargin": 427.25,
+            "Tag": 11,
+            "ActionTag": -2082266127,
+            "Size": {
+              "X": 47.0,
+              "Y": 26.0
+            },
+            "Name": "read_5_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_50.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 518.3571,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4563,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 486.8571,
+            "RightMargin": 586.1429,
+            "TopMargin": 187.75,
+            "BottomMargin": 428.25,
+            "Tag": 14,
+            "ActionTag": 1171476782,
+            "Size": {
+              "X": 63.0,
+              "Y": 24.0
+            },
+            "Name": "read_50_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_70.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 419.5714,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3693,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 387.0714,
+            "RightMargin": 683.9286,
+            "TopMargin": 186.75,
+            "BottomMargin": 427.25,
+            "Tag": 15,
+            "ActionTag": -758398827,
+            "Size": {
+              "X": 65.0,
+              "Y": 26.0
+            },
+            "Name": "read_70_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_20.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 615.1428,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5415,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 582.6428,
+            "RightMargin": 488.3572,
+            "TopMargin": 186.75,
+            "BottomMargin": 427.25,
+            "Tag": 13,
+            "ActionTag": 1425506210,
+            "Size": {
+              "X": 65.0,
+              "Y": 26.0
+            },
+            "Name": "read_20_9",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "read_200.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 222.0,
+              "Y": 440.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1954,
+              "Y": 0.6879
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 181.5,
+            "RightMargin": 873.5,
+            "TopMargin": 186.75,
+            "BottomMargin": 427.25,
+            "Tag": 17,
+            "ActionTag": -1149359403,
+            "Size": {
+              "X": 81.0,
+              "Y": 26.0
+            },
+            "Name": "read_200_10",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "right_20.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 822.5,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.724,
+              "Y": 0.4641
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 705.5,
+            "RightMargin": 196.5,
+            "TopMargin": 325.5,
+            "BottomMargin": 279.5,
+            "Tag": 20,
+            "ActionTag": 900102339,
+            "Size": {
+              "X": 234.0,
+              "Y": 35.0
+            },
+            "Name": "right_20_11",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "right_20.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 314.5,
+              "Y": 297.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2768,
+              "Y": 0.4641
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 197.5,
+            "RightMargin": 704.5,
+            "TopMargin": 325.5,
+            "BottomMargin": 279.5,
+            "Tag": 18,
+            "ActionTag": -1281203141,
+            "Size": {
+              "X": 234.0,
+              "Y": 35.0
+            },
+            "Name": "left_20_12",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "center_500.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.5,
+              "Y": 298.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5004,
+              "Y": 0.4656
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 451.5,
+            "RightMargin": 450.5,
+            "TopMargin": 327.0,
+            "BottomMargin": 283.0,
+            "Tag": 19,
+            "ActionTag": -1022127819,
+            "Size": {
+              "X": 234.0,
+              "Y": 30.0
+            },
+            "Name": "center_500_13",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 378.0,
+              "Y": 122.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3327,
+              "Y": 0.1914
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0359
+            },
+            "LeftMargin": 303.0,
+            "RightMargin": 683.0,
+            "TopMargin": 506.0,
+            "BottomMargin": 111.0,
+            "Tag": 24,
+            "ActionTag": -2132797817,
+            "Size": {
+              "X": 150.0,
+              "Y": 23.0
+            },
+            "Name": "credit_Text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 658.0,
+              "Y": 122.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5792,
+              "Y": 0.1914
+            },
+            "PreSize": {
+              "X": 0.132,
+              "Y": 0.0359
+            },
+            "LeftMargin": 583.0,
+            "RightMargin": 403.0,
+            "TopMargin": 506.0,
+            "BottomMargin": 111.0,
+            "Tag": 25,
+            "ActionTag": 418302865,
+            "Size": {
+              "X": 150.0,
+              "Y": 23.0
+            },
+            "Name": "totalwin_text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "Text Label",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 884.0,
+              "Y": 122.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7782,
+              "Y": 0.1914
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 838.5,
+            "RightMargin": 206.5,
+            "TopMargin": 506.0,
+            "BottomMargin": 111.0,
+            "Tag": 26,
+            "ActionTag": 1638205706,
+            "Size": {
+              "X": 91.0,
+              "Y": 23.0
+            },
+            "Name": "totalbrt_Text",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Third_border_00.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 280.0,
+              "Y": 212.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2465,
+              "Y": 0.3316
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 185.0,
+            "RightMargin": 761.0,
+            "TopMargin": 358.75,
+            "BottomMargin": 143.25,
+            "Tag": 27,
+            "ActionTag": -1488648204,
+            "Size": {
+              "X": 190.0,
+              "Y": 138.0
+            },
+            "Name": "border_00_22",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Third_border_00.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 471.6667,
+              "Y": 212.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4152,
+              "Y": 0.3316
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 376.6667,
+            "RightMargin": 569.3333,
+            "TopMargin": 358.75,
+            "BottomMargin": 143.25,
+            "Tag": 28,
+            "ActionTag": 1484052380,
+            "Size": {
+              "X": 190.0,
+              "Y": 138.0
+            },
+            "Name": "border_00_23",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Third_border_00.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 663.3334,
+              "Y": 212.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5839,
+              "Y": 0.3316
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 568.3334,
+            "RightMargin": 377.6666,
+            "TopMargin": 358.75,
+            "BottomMargin": 143.25,
+            "Tag": 29,
+            "ActionTag": -1814673461,
+            "Size": {
+              "X": 190.0,
+              "Y": 138.0
+            },
+            "Name": "border_00_24",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Third_border_00.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 855.0001,
+              "Y": 212.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7526,
+              "Y": 0.3316
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 760.0001,
+            "RightMargin": 185.9999,
+            "TopMargin": 358.75,
+            "BottomMargin": 143.25,
+            "Tag": 30,
+            "ActionTag": -1014734033,
+            "Size": {
+              "X": 190.0,
+              "Y": 138.0
+            },
+            "Name": "border_00_25",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "exit.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 22.25,
+            "BottomMargin": 537.75,
+            "Tag": 50,
+            "ActionTag": -451925140,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "exit_26",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "linchong.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 131.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.2055
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 468.5,
+            "BottomMargin": 91.5,
+            "Tag": 69,
+            "ActionTag": -112236364,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "linchong_27",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "luzhishen.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 247.0,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2174,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 175.5,
+            "RightMargin": 817.5,
+            "TopMargin": 22.25,
+            "BottomMargin": 537.75,
+            "Tag": 51,
+            "ActionTag": 1548338569,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "luzhishen_28",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 407.0,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3583,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 335.5,
+            "RightMargin": 657.5,
+            "TopMargin": 22.25,
+            "BottomMargin": 537.75,
+            "Tag": 52,
+            "ActionTag": -749198116,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "qiang_29",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "zhongyitang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.5,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4996,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 495.5,
+            "RightMargin": 496.5,
+            "TopMargin": 7.75,
+            "BottomMargin": 523.25,
+            "Tag": 53,
+            "ActionTag": 393248733,
+            "Size": {
+              "X": 144.0,
+              "Y": 109.0
+            },
+            "Name": "zhongyitang_30",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "fuzi.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 728.0,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6408,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 656.5,
+            "RightMargin": 336.5,
+            "TopMargin": 22.25,
+            "BottomMargin": 537.75,
+            "Tag": 54,
+            "ActionTag": -601253764,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "fuzi_31",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dadao.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 888.0,
+              "Y": 577.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7817,
+              "Y": 0.9027
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 816.5,
+            "RightMargin": 176.5,
+            "TopMargin": 22.25,
+            "BottomMargin": 537.75,
+            "Tag": 55,
+            "ActionTag": -1833853404,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "dadao_32",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "exit.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 576.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.9012
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 23.25,
+            "BottomMargin": 536.75,
+            "Tag": 56,
+            "ActionTag": -1928463584,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "exit_33",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "songjiang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 487.875
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.7623
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 112.125,
+            "BottomMargin": 447.875,
+            "Tag": 57,
+            "ActionTag": 578527134,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "songjiang_35",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "luzhishen.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 399.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.6234
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 201.0,
+            "BottomMargin": 359.0,
+            "Tag": 58,
+            "ActionTag": -1140239015,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "luzhishen_36",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 310.125
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.4846
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 289.875,
+            "BottomMargin": 270.125,
+            "Tag": 59,
+            "ActionTag": 1425049806,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "qiang_37",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "fuzi.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 221.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.3457
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 378.75,
+            "BottomMargin": 181.25,
+            "Tag": 60,
+            "ActionTag": -2038352311,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "fuzi_38",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "titianxingdao.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 132.375
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.2068
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 467.625,
+            "BottomMargin": 92.375,
+            "Tag": 61,
+            "ActionTag": -1341237277,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "titianxingdao_39",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "exit.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1046.5,
+              "Y": 43.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9212,
+              "Y": 0.068
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 975.0,
+            "RightMargin": 18.0,
+            "TopMargin": 556.5,
+            "BottomMargin": 3.5,
+            "Tag": 62,
+            "ActionTag": -1651541295,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "exit_40",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "linchong.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 888.0834,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7818,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 816.5834,
+            "RightMargin": 176.4166,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 63,
+            "ActionTag": -2006203660,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "linchong_41",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dadao.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 727.6667,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6406,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 656.1667,
+            "RightMargin": 336.8333,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 64,
+            "ActionTag": -1167707618,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "dadao_42",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "fuzi.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.25,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4993,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 495.75,
+            "RightMargin": 497.25,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 65,
+            "ActionTag": 827953191,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "fuzi_43",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "luzhishen.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 406.8333,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3581,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 335.3333,
+            "RightMargin": 657.6667,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 66,
+            "ActionTag": 1326888627,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "luzhishen_44",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "songjiang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 246.4167,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2169,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 174.9167,
+            "RightMargin": 818.0833,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 67,
+            "ActionTag": 1931883884,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "songjiang_45",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "exit.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 86.0,
+              "Y": 44.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0757,
+              "Y": 0.0695
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 14.5,
+            "RightMargin": 978.5,
+            "TopMargin": 555.5,
+            "BottomMargin": 4.5,
+            "Tag": 68,
+            "ActionTag": 302971582,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "exit_46",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "qiang.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 220.75
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.3449
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 379.25,
+            "BottomMargin": 180.75,
+            "Tag": 70,
+            "ActionTag": 277285444,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "qiang_47",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "fuzi.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 310.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.4844
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 290.0,
+            "BottomMargin": 270.0,
+            "Tag": 71,
+            "ActionTag": -1988533085,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "fuzi_48",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dadao.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 399.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.6238
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 200.75,
+            "BottomMargin": 359.25,
+            "Tag": 72,
+            "ActionTag": -514012481,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "dadao_49",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "titianxingdao.png",
+              "Plist": "Third_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 87.0,
+              "Y": 488.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0766,
+              "Y": 0.7633
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 15.5,
+            "RightMargin": 977.5,
+            "TopMargin": 111.5,
+            "BottomMargin": 448.5,
+            "Tag": 73,
+            "ActionTag": -957547575,
+            "Size": {
+              "X": 143.0,
+              "Y": 80.0
+            },
+            "Name": "titianxingdao_50",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "1",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 622.5,
+              "Y": 343.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 235,
+              "G": 163,
+              "B": 36
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.548,
+              "Y": 0.5367
+            },
+            "PreSize": {
+              "X": 0.0264,
+              "Y": 0.0437
+            },
+            "LeftMargin": 607.5,
+            "RightMargin": 498.5,
+            "TopMargin": 282.5,
+            "BottomMargin": 329.5,
+            "Tag": 56,
+            "ActionTag": 186892250,
+            "Size": {
+              "X": 30.0,
+              "Y": 28.0
+            },
+            "Name": "Times_Text",
+            "ctype": "TextObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/Sprite.png",
+        "Third_zujian.plist",
+        "Third_zujian.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

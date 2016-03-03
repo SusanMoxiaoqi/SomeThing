@@ -1,0 +1,29 @@
+info face="Impact" size=34 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=42 base=34 scaleW=128 scaleH=128 pages=1 packed=0
+page id=0 file="zuoWeiPiao.png"
+chars count=14
+char id=53 x=0 y=0 width=23 height=35 xoffset=1 yoffset=4 xadvance=22 page=0 chnl=0 letter="5"
+char id=50 x=23 y=0 width=22 height=35 xoffset=1 yoffset=3 xadvance=21 page=0 chnl=0 letter="2"
+char id=54 x=45 y=0 width=23 height=34 xoffset=1 yoffset=5 xadvance=22 page=0 chnl=0 letter="6"
+char id=57 x=68 y=0 width=23 height=34 xoffset=1 yoffset=5 xadvance=22 page=0 chnl=0 letter="9"
+char id=51 x=91 y=0 width=23 height=34 xoffset=1 yoffset=5 xadvance=22 page=0 chnl=0 letter="3"
+char id=48 x=0 y=35 width=23 height=34 xoffset=1 yoffset=5 xadvance=22 page=0 chnl=0 letter="0"
+char id=56 x=23 y=35 width=23 height=34 xoffset=1 yoffset=5 xadvance=22 page=0 chnl=0 letter="8"
+char id=87 x=46 y=35 width=34 height=33 xoffset=0 yoffset=5 xadvance=32 page=0 chnl=0 letter="W"
+char id=52 x=80 y=35 width=23 height=33 xoffset=0 yoffset=5 xadvance=21 page=0 chnl=0 letter="4"
+char id=55 x=103 y=35 width=19 height=33 xoffset=0 yoffset=5 xadvance=17 page=0 chnl=0 letter="7"
+char id=49 x=0 y=69 width=18 height=33 xoffset=0 yoffset=5 xadvance=17 page=0 chnl=0 letter="1"
+char id=43 x=18 y=69 width=23 height=22 xoffset=1 yoffset=11 xadvance=22 page=0 chnl=0 letter="+"
+char id=46 x=41 y=69 width=12 height=13 xoffset=1 yoffset=25 xadvance=10 page=0 chnl=0 letter="."
+char id=32 x=53 y=69 width=0 height=0 xoffset=6 yoffset=54 xadvance=10 page=0 chnl=0 letter="space"
+kernings count=10
+kerning first=53 second=50 amount=-1
+kerning first=53 second=55 amount=-1
+kerning first=53 second=49 amount=-1
+kerning first=50 second=52 amount=-1
+kerning first=87 second=46 amount=-1
+kerning first=52 second=55 amount=-1
+kerning first=52 second=49 amount=-1
+kerning first=55 second=52 amount=-1
+kerning first=55 second=55 amount=1
+kerning first=55 second=49 amount=1

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/by_firstpagebg"
+    android:orientation="vertical" >
+    
+    <include layout="@layout/by_pay_tile"/>
+    <FrameLayout
+        android:id="@+id/id_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+        
+        
+        
+     <!--  <fragment android:name="com.example.ppppaynow.fragment.ByPaySelectFragment"
+          android:id="@+id/by_payselectfragment"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"/>  -->
+        
+        
+    </FrameLayout>
+
+   
+
+</LinearLayout>

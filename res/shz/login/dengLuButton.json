@@ -1,0 +1,312 @@
+{
+  "ID": "76d80bb3-e06f-4b5a-b1a8-201c34d5c2cc",
+  "Version": "2.2.8.0",
+  "Name": "dengLuButton",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 64,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "denglu_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "denglu_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "denglu_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 203,
+            "Scale9Height": 67,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 716.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6303,
+              "Y": 0.2656
+            },
+            "PreSize": {
+              "X": 0.1787,
+              "Y": 0.1047
+            },
+            "LeftMargin": 614.5,
+            "RightMargin": 318.5,
+            "TopMargin": 436.5,
+            "BottomMargin": 136.5,
+            "Tag": 67,
+            "ActionTag": 1779920245,
+            "Size": {
+              "X": 203.0,
+              "Y": 67.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kuaisukaishi_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kuaisukaishi_3.png",
+              "Plist": "dengLu.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "kuaisukaishi_1.png",
+              "Plist": "dengLu.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 203,
+            "Scale9Height": 67,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 420.0,
+              "Y": 170.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3697,
+              "Y": 0.2656
+            },
+            "PreSize": {
+              "X": 0.1787,
+              "Y": 0.1047
+            },
+            "LeftMargin": 318.5,
+            "RightMargin": 614.5,
+            "TopMargin": 436.5,
+            "BottomMargin": 136.5,
+            "Tag": 68,
+            "ActionTag": 1205059244,
+            "Size": {
+              "X": 203.0,
+              "Y": 67.0
+            },
+            "Name": "Button_2",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLlogo.png",
+              "Plist": "dengLu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 496.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.775
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 338.0,
+            "RightMargin": 338.0,
+            "TopMargin": 25.0,
+            "BottomMargin": 377.0,
+            "Tag": 69,
+            "ActionTag": 526317240,
+            "Size": {
+              "X": 460.0,
+              "Y": 238.0
+            },
+            "Name": "DLlogo_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLzhanghao.png",
+              "Plist": "dengLu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 390.0,
+              "Y": 355.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3433,
+              "Y": 0.5547
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 337.5,
+            "RightMargin": 693.5,
+            "TopMargin": 268.0,
+            "BottomMargin": 338.0,
+            "Tag": 70,
+            "ActionTag": 411997518,
+            "Size": {
+              "X": 105.0,
+              "Y": 34.0
+            },
+            "Name": "DLzhanghao_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLmima.png",
+              "Plist": "dengLu.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 390.0,
+              "Y": 280.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3433,
+              "Y": 0.4375
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 337.5,
+            "RightMargin": 693.5,
+            "TopMargin": 342.5,
+            "BottomMargin": 262.5,
+            "Tag": 71,
+            "ActionTag": 1419545847,
+            "Size": {
+              "X": 105.0,
+              "Y": 35.0
+            },
+            "Name": "DLmima_5",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

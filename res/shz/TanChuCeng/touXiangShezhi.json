@@ -1,0 +1,553 @@
+{
+  "ID": "3ec1a809-8dec-41c2-b96b-26ea6e71a5a2",
+  "Version": "2.2.8.0",
+  "Name": "touXiangShezhi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 64,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "TS_bj.png",
+              "Plist": "tanChuCengRes/jc_sz_ts_xt.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -347.0,
+            "RightMargin": -347.0,
+            "TopMargin": -202.0,
+            "BottomMargin": -202.0,
+            "Tag": 65,
+            "ActionTag": 1832803369,
+            "Size": {
+              "X": 694.0,
+              "Y": 404.0
+            },
+            "Name": "touxiang_touxiangBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tx-grzl.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 176.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -107.5,
+            "RightMargin": -107.5,
+            "TopMargin": -198.5,
+            "BottomMargin": 154.5,
+            "Tag": 66,
+            "ActionTag": -345445359,
+            "Size": {
+              "X": 215.0,
+              "Y": 44.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "tx_xgnc.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -156.0,
+              "Y": 81.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -257.0,
+            "RightMargin": 55.0,
+            "TopMargin": -99.0,
+            "BottomMargin": 63.0,
+            "Tag": 67,
+            "ActionTag": -1146209618,
+            "Size": {
+              "X": 202.0,
+              "Y": 36.0
+            },
+            "Name": "touxiang_xiugainicheng",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sex_nan.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -137.0,
+              "Y": 25.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -170.0,
+            "RightMargin": 104.0,
+            "TopMargin": -40.0,
+            "BottomMargin": 10.0,
+            "Tag": 70,
+            "ActionTag": -2052202563,
+            "Size": {
+              "X": 66.0,
+              "Y": 30.0
+            },
+            "Name": "sex_nan_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "sex_nv.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 132.0,
+              "Y": 25.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 99.0,
+            "RightMargin": -165.0,
+            "TopMargin": -40.0,
+            "BottomMargin": 10.0,
+            "Tag": 71,
+            "ActionTag": -2049745004,
+            "Size": {
+              "X": 66.0,
+              "Y": 30.0
+            },
+            "Name": "sex_nv_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex01.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex01.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex01.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 11,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 13,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -74.5,
+              "Y": 25.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -92.0,
+            "RightMargin": 57.0,
+            "TopMargin": -42.5,
+            "BottomMargin": 7.5,
+            "Tag": 72,
+            "ActionTag": 1464368469,
+            "Size": {
+              "X": 35.0,
+              "Y": 35.0
+            },
+            "Name": "touxiang_nanBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex02.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex02.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_sex02.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 11,
+            "Scale9OriginY": 11,
+            "Scale9Width": 13,
+            "Scale9Height": 13,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 192.5,
+              "Y": 26.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 175.0,
+            "RightMargin": -210.0,
+            "TopMargin": -43.5,
+            "BottomMargin": 8.5,
+            "Tag": 73,
+            "ActionTag": -2103533014,
+            "Size": {
+              "X": 35.0,
+              "Y": 35.0
+            },
+            "Name": "touxiang_nvBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tx_txBtn3.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tx_txBtn2.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "tx_txBtn1.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 98,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1.0,
+              "Y": -151.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -63.0,
+            "RightMargin": -65.0,
+            "TopMargin": 125.0,
+            "BottomMargin": -178.0,
+            "Tag": 74,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btnTX_queding.png",
+                  "Plist": "tanChuCengRes/touXiangVip.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.0,
+                  "Y": 26.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 28.5,
+                "RightMargin": 28.5,
+                "TopMargin": 14.5,
+                "BottomMargin": 14.5,
+                "Tag": 75,
+                "ActionTag": -1350495489,
+                "Size": {
+                  "X": 71.0,
+                  "Y": 24.0
+                },
+                "Name": "queding_7",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -2035606667,
+            "Size": {
+              "X": 128.0,
+              "Y": 53.0
+            },
+            "Name": "touxiang_quedingBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 108.0,
+              "Y": 81.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 108.0,
+            "RightMargin": -108.0,
+            "TopMargin": -81.0,
+            "BottomMargin": 81.0,
+            "Tag": 90,
+            "ActionTag": 972049481,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "touxiang_nichengText",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

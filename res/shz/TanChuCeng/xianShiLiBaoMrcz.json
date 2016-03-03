@@ -1,0 +1,1182 @@
+{
+  "ID": "5264d17c-870d-46a3-bf67-9abd22228ca2",
+  "Version": "2.3.1.2",
+  "Name": "xianShiLiBaoMrcz",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 125,
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 1197,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_bg.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -120.0,
+                  "Y": -27.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -222.0,
+                "RightMargin": 18.0,
+                "TopMargin": -115.0,
+                "BottomMargin": -169.0,
+                "Tag": 1198,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_rycz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 236.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8327
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 12.5,
+                    "TopMargin": 18.5,
+                    "BottomMargin": 207.5,
+                    "Tag": 1205,
+                    "ActionTag": -1737966184,
+                    "Size": {
+                      "X": 179.0,
+                      "Y": 58.0
+                    },
+                    "Name": "mrcz_rycz_244",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_bx00.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 104.0,
+                      "Y": 143.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5098,
+                      "Y": 0.5053
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 33.0,
+                    "RightMargin": 29.0,
+                    "TopMargin": 93.5,
+                    "BottomMargin": 96.5,
+                    "Tag": 1208,
+                    "ActionTag": -1203548689,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 94.0
+                    },
+                    "Name": "mrcz_bx03_247",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -607513469,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 284.0
+                },
+                "Name": "mrcz_bg_237",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_bg.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.5,
+                  "Y": -28.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -10.5,
+                "RightMargin": -193.5,
+                "TopMargin": -114.0,
+                "BottomMargin": -170.0,
+                "Tag": 1200,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_ljcz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.25,
+                      "Y": 236.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4963,
+                      "Y": 0.8327
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 7.75,
+                    "RightMargin": 9.25,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 208.0,
+                    "Tag": 1206,
+                    "ActionTag": 2035333409,
+                    "Size": {
+                      "X": 187.0,
+                      "Y": 57.0
+                    },
+                    "Name": "mrcz_ljcz_245",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_bx00.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.5,
+                      "Y": 142.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5025,
+                      "Y": 0.5018
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.5,
+                    "RightMargin": 30.5,
+                    "TopMargin": 94.5,
+                    "BottomMargin": 95.5,
+                    "Tag": 1209,
+                    "ActionTag": 5286866,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 94.0
+                    },
+                    "Name": "mrcz_bx03_248",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1262568048,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 284.0
+                },
+                "Name": "mrcz_bg_239",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_bg.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 302.0,
+                  "Y": -30.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 200.0,
+                "RightMargin": -404.0,
+                "TopMargin": -112.0,
+                "BottomMargin": -172.0,
+                "Tag": 1202,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_ljcz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.0,
+                      "Y": 238.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4951,
+                      "Y": 0.8398
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 7.5,
+                    "RightMargin": 9.5,
+                    "TopMargin": 17.0,
+                    "BottomMargin": 210.0,
+                    "Tag": 1207,
+                    "ActionTag": 1865198183,
+                    "Size": {
+                      "X": 187.0,
+                      "Y": 57.0
+                    },
+                    "Name": "mrcz_ljcz_246",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_bx00.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 103.0,
+                      "Y": 144.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5049,
+                      "Y": 0.5088
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 32.0,
+                    "RightMargin": 30.0,
+                    "TopMargin": 92.5,
+                    "BottomMargin": 97.5,
+                    "Tag": 1210,
+                    "ActionTag": 1572542026,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 94.0
+                    },
+                    "Name": "mrcz_bx03_249",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2016314521,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 284.0
+                },
+                "Name": "mrcz_bg_241",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_title.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.0,
+                  "Y": 149.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -41.5,
+                "RightMargin": -219.5,
+                "TopMargin": -170.5,
+                "BottomMargin": 127.5,
+                "Tag": 1204,
+                "ActionTag": -2057424560,
+                "Size": {
+                  "X": 261.0,
+                  "Y": 43.0
+                },
+                "Name": "mrcz_title_243",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_btn_ylq.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_2_2.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_1_1.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 98,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -121.0,
+                  "Y": -119.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -185.0,
+                "RightMargin": 57.0,
+                "TopMargin": 92.5,
+                "BottomMargin": -145.5,
+                "Tag": 1211,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_btn_ljcz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 64.0,
+                      "Y": 26.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 12.5,
+                    "TopMargin": 12.5,
+                    "BottomMargin": 12.5,
+                    "Tag": 1214,
+                    "ActionTag": 1212583115,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 28.0
+                    },
+                    "Name": "mrcz_btn_ljcz_250",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 966132690,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 53.0
+                },
+                "Name": "mrcz_Button_83",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_btn_ylq.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_2_2.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_1_1.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 98,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 89.0,
+                  "Y": -119.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 25.0,
+                "RightMargin": -153.0,
+                "TopMargin": 92.5,
+                "BottomMargin": -145.5,
+                "Tag": 1212,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_btn_ljcz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 64.0,
+                      "Y": 26.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 12.5,
+                    "TopMargin": 12.5,
+                    "BottomMargin": 12.5,
+                    "Tag": 1215,
+                    "ActionTag": 1373114239,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 28.0
+                    },
+                    "Name": "mrcz_btn_ljcz_251",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -1378454401,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 53.0
+                },
+                "Name": "mrcz_Button_84",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mrcz_btn_ylq.png",
+                  "Plist": "tanChuCengRes/mrcz_plist.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_2_2.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xianshi_1_1.png",
+                  "Plist": "tanChuCengRes/xianshilibao.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 98,
+                "Scale9Height": 31,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 299.0,
+                  "Y": -119.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 235.0,
+                "RightMargin": -363.0,
+                "TopMargin": 92.5,
+                "BottomMargin": -145.5,
+                "Tag": 1213,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mrcz_btn_ljcz.png",
+                      "Plist": "tanChuCengRes/mrcz_plist.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 64.0,
+                      "Y": 26.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 12.5,
+                    "RightMargin": 12.5,
+                    "TopMargin": 12.5,
+                    "BottomMargin": 12.5,
+                    "Tag": 1216,
+                    "ActionTag": -1733526453,
+                    "Size": {
+                      "X": 103.0,
+                      "Y": 28.0
+                    },
+                    "Name": "mrcz_btn_ljcz_252",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": 1868835692,
+                "Size": {
+                  "X": 128.0,
+                  "Y": 53.0
+                },
+                "Name": "mrcz_Button_85",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "今日充值： 0  元",
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 250.0,
+                  "Y": -199.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 75,
+                  "G": 47,
+                  "B": 47
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 97.0,
+                "RightMargin": -403.0,
+                "TopMargin": 183.0,
+                "BottomMargin": -215.0,
+                "Tag": 707,
+                "ActionTag": 1834844655,
+                "Size": {
+                  "X": 306.0,
+                  "Y": 32.0
+                },
+                "Name": "mrcz_ZhongChongZhi_text",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 351.0,
+                  "Y": 84.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 42,
+                  "B": 4
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 326.0,
+                "RightMargin": -376.0,
+                "TopMargin": -101.0,
+                "BottomMargin": 68.0,
+                "Tag": 706,
+                "ActionTag": 1154325188,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 33.0
+                },
+                "Name": "mrcz_ChongZhi_two",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.0,
+                  "Y": 84.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 18,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 126.0,
+                "RightMargin": -156.0,
+                "TopMargin": -101.0,
+                "BottomMargin": 68.0,
+                "Tag": 704,
+                "ActionTag": 2104719387,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 33.0
+                },
+                "Name": "mrcz_ChongZhi_one",
+                "ctype": "TextObjectData"
+              },
+              {
+                "LabelText": "10000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/number_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -90.9995,
+                  "Y": 48.0
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -99.4995,
+                "RightMargin": 82.4995,
+                "TopMargin": -69.0,
+                "BottomMargin": 27.0,
+                "Tag": 708,
+                "ActionTag": -953255102,
+                "Size": {
+                  "X": 117.0,
+                  "Y": 42.0
+                },
+                "Name": "mrcz_GetNum_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "10000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/number_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 121.0,
+                  "Y": 49.0
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 112.5,
+                "RightMargin": -129.5,
+                "TopMargin": -70.0,
+                "BottomMargin": 28.0,
+                "Tag": 709,
+                "ActionTag": 1508653130,
+                "Size": {
+                  "X": 117.0,
+                  "Y": 42.0
+                },
+                "Name": "mrcz_GetNum_2",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "10000",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "tanChuCengRes/number_1.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 330.0001,
+                  "Y": 48.0
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.65
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 321.5001,
+                "RightMargin": -338.5001,
+                "TopMargin": -69.0,
+                "BottomMargin": 27.0,
+                "Tag": 710,
+                "ActionTag": 640831089,
+                "Size": {
+                  "X": 117.0,
+                  "Y": 42.0
+                },
+                "Name": "mrcz_GetNum_3",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 292580911,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "XS_meirichongzhi_node",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/mrcz_plist.plist",
+        "tanChuCengRes/mrcz_plist.png",
+        "tanChuCengRes/number_1.fnt",
+        "tanChuCengRes/number_1.png",
+        "tanChuCengRes/xianshilibao.plist",
+        "tanChuCengRes/xianshilibao.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

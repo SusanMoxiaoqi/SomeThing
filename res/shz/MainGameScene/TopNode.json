@@ -1,0 +1,647 @@
+{
+  "ID": "7b59cb2a-46d8-4370-802a-34e010a7ca44",
+  "Version": "2.2.8.0",
+  "Name": "TopNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 47,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_jiangquan_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_jiangquan_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_jiangquan_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 208,
+            "Scale9Height": 69,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -435.0,
+              "Y": 275.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -539.0,
+            "RightMargin": 331.0,
+            "TopMargin": -309.75,
+            "BottomMargin": 240.75,
+            "Tag": 50,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "123456333",
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 109.0,
+                  "Y": 40.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.524,
+                  "Y": 0.5797
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 59.0,
+                "RightMargin": 49.0,
+                "TopMargin": 17.5,
+                "BottomMargin": 28.5,
+                "Tag": 61,
+                "ActionTag": -622159664,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_jiangquan",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1216088372,
+            "Size": {
+              "X": 208.0,
+              "Y": 69.0
+            },
+            "Name": "First_jiangquanBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_buy_dis.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_buy_down.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "First_buy_up.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 66,
+            "Scale9Height": 73,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 412.5,
+              "Y": 275.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 379.5,
+            "RightMargin": -445.5,
+            "TopMargin": -311.75,
+            "BottomMargin": 238.75,
+            "Tag": 51,
+            "ActionTag": -1096093886,
+            "Size": {
+              "X": 66.0,
+              "Y": 73.0
+            },
+            "Name": "First_chongzhiBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_xuanxiang_3.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_xuanxiang_2.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "btn_xuanxiang_1.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 65,
+            "Scale9Height": 74,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0,
+            "ShadowOffsetY": 0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 500.0,
+              "Y": 275.25
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 467.5,
+            "RightMargin": -532.5,
+            "TopMargin": -312.25,
+            "BottomMargin": 238.25,
+            "Tag": 61,
+            "ActionTag": -681896854,
+            "Size": {
+              "X": 65.0,
+              "Y": 74.0
+            },
+            "Name": "First_xuangxiangBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xuanxiang_bg.png",
+              "Plist": "ButtonLightsBorders.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 448.5,
+              "Y": 132.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 363.5,
+            "RightMargin": -533.5,
+            "TopMargin": -217.0,
+            "BottomMargin": 47.0,
+            "Tag": 63,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_bangzhu_3.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_bangzhu_2.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_bangzhu_1.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 65,
+                "Scale9Height": 74,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.75,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3221,
+                  "Y": 0.3059
+                },
+                "PreSize": {
+                  "X": 0.3824,
+                  "Y": 0.4353
+                },
+                "LeftMargin": 22.25,
+                "RightMargin": 82.75,
+                "TopMargin": 81.0,
+                "BottomMargin": 15.0,
+                "Tag": 62,
+                "ActionTag": 1081780520,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 74.0
+                },
+                "Name": "First_bangzhuBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_jietu_dis.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_jietu_down.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_jietu_up.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 74,
+                "Scale9Height": 73,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 133.75,
+                  "Y": 135.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7868,
+                  "Y": 0.7985
+                },
+                "PreSize": {
+                  "X": 0.4353,
+                  "Y": 0.4294
+                },
+                "LeftMargin": 96.75,
+                "RightMargin": -0.75,
+                "TopMargin": -2.25,
+                "BottomMargin": 99.25,
+                "Tag": 53,
+                "ActionTag": 389800233,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 73.0
+                },
+                "Name": "First_jietuBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_shezhi_dis.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_shezhi_down.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_shezhi_up.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 73,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 133.75,
+                  "Y": 52.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7868,
+                  "Y": 0.3059
+                },
+                "PreSize": {
+                  "X": 0.3765,
+                  "Y": 0.4294
+                },
+                "LeftMargin": 101.75,
+                "RightMargin": 4.25,
+                "TopMargin": 81.5,
+                "BottomMargin": 15.5,
+                "Tag": 52,
+                "ActionTag": 463814844,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 73.0
+                },
+                "Name": "First_shezhiBtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_back_dis.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_back_down.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "First_back_up.png",
+                  "Plist": "ButtonLightsBorders.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 64,
+                "Scale9Height": 73,
+                "OutlineSize": 0,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 0,
+                "ShadowOffsetY": 0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.75,
+                  "Y": 135.75
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3221,
+                  "Y": 0.7985
+                },
+                "PreSize": {
+                  "X": 0.3765,
+                  "Y": 0.4294
+                },
+                "LeftMargin": 22.75,
+                "RightMargin": 83.25,
+                "TopMargin": -2.25,
+                "BottomMargin": 99.25,
+                "Tag": 49,
+                "ActionTag": 1786666385,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 73.0
+                },
+                "Name": "First_backBtn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1136962463,
+            "Size": {
+              "X": 170.0,
+              "Y": 170.0
+            },
+            "Name": "xuanxiang_bg_3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

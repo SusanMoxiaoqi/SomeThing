@@ -1,0 +1,413 @@
+{
+  "ID": "b1422c8d-7d5c-4557-a0f7-5ea387b80314",
+  "Version": "2.1.5.0",
+  "Name": "Scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 65,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "Tag": 66,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Children": [
+              {
+                "LabelText": "水浒传",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "shuihu.fnt"
+                },
+                "Tag": 67,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.790625
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 333.0,
+                "RightMargin": 333.0,
+                "TopMargin": 49.0,
+                "BottomMargin": 421.0,
+                "ActionTag": -990240625,
+                "Position": {
+                  "X": 568.0,
+                  "Y": 506.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 470.0,
+                  "Y": 170.0
+                },
+                "FrameEvent": "",
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "登录",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png"
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png"
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "Tag": 68,
+                "PrePosition": {
+                  "X": 0.361355633,
+                  "Y": 0.24609375
+                },
+                "PreSize": {
+                  "X": 0.08802817,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 360.5,
+                "RightMargin": 675.5,
+                "TopMargin": 462.5,
+                "BottomMargin": 137.5,
+                "ActionTag": -2026219588,
+                "Position": {
+                  "X": 410.5,
+                  "Y": 157.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 100.0,
+                  "Y": 40.0
+                },
+                "FrameEvent": "",
+                "Name": "denglu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 24,
+                "ButtonText": "返回",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png"
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png"
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 36,
+                "TouchEnable": true,
+                "Tag": 69,
+                "PrePosition": {
+                  "X": 0.6456866,
+                  "Y": 0.241406247
+                },
+                "PreSize": {
+                  "X": 0.08802817,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 683.5,
+                "RightMargin": 352.5,
+                "TopMargin": 465.5,
+                "BottomMargin": 134.5,
+                "ActionTag": -996311075,
+                "Position": {
+                  "X": 733.5,
+                  "Y": 154.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 100.0,
+                  "Y": 40.0
+                },
+                "FrameEvent": "",
+                "Name": "fanhui",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "账号 ：",
+                "Tag": 70,
+                "PrePosition": {
+                  "X": 0.355193675,
+                  "Y": 0.5835937
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 358.0,
+                "RightMargin": 687.0,
+                "TopMargin": 255.0,
+                "BottomMargin": 362.0,
+                "ActionTag": 285241840,
+                "Position": {
+                  "X": 403.5,
+                  "Y": 373.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 65.0,
+                  "Y": 23.0
+                },
+                "FrameEvent": "",
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "密码 ：",
+                "Tag": 71,
+                "PrePosition": {
+                  "X": 0.356073946,
+                  "Y": 0.43359375
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 372.0,
+                "RightMargin": 699.0,
+                "TopMargin": 351.0,
+                "BottomMargin": 266.0,
+                "ActionTag": 416530465,
+                "Position": {
+                  "X": 404.5,
+                  "Y": 277.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 65.0,
+                  "Y": 23.0
+                },
+                "FrameEvent": "",
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入账号",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "Tag": 72,
+                "PrePosition": {
+                  "X": 0.4977993,
+                  "Y": 0.584375
+                },
+                "PreSize": {
+                  "X": 0.17605634,
+                  "Y": 0.0421875
+                },
+                "LeftMargin": 465.5,
+                "RightMargin": 470.5,
+                "TopMargin": 252.5,
+                "BottomMargin": 360.5,
+                "ActionTag": -1826449898,
+                "Position": {
+                  "X": 565.5,
+                  "Y": 374.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 200.0,
+                  "Y": 27.0
+                },
+                "FrameEvent": "",
+                "Name": "zhanghao",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "请输入密码",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "Tag": 73,
+                "PrePosition": {
+                  "X": 0.4977993,
+                  "Y": 0.4328125
+                },
+                "PreSize": {
+                  "X": 0.17605634,
+                  "Y": 0.0421875
+                },
+                "LeftMargin": 465.5,
+                "RightMargin": 470.5,
+                "TopMargin": 349.5,
+                "BottomMargin": 263.5,
+                "ActionTag": -1368036266,
+                "Position": {
+                  "X": 565.5,
+                  "Y": 277.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 200.0,
+                  "Y": 27.0
+                },
+                "FrameEvent": "",
+                "Name": "mima",
+                "ctype": "TextFieldObjectData"
+              }
+            ],
+            "ActionTag": -401324078,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {},
+            "CColor": {},
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "FrameEvent": "",
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "FrameEvent": "",
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

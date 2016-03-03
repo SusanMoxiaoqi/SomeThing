@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E61FFBB3-984E-4A40-B58F-CA2C44BAC79F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShuiHuZhuanPhone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>547E3CEBE5DCDA324F0AB704BA032EF9E171F5F2</key>
+		<string>172.16.10.112:shizhiwei/ShuiHuZhuan.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>frameworks/runtime-src/proj.ios_mac/ShuiHuZhuanPhone.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>547E3CEBE5DCDA324F0AB704BA032EF9E171F5F2</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>172.16.10.112:shizhiwei/ShuiHuZhuan.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>547E3CEBE5DCDA324F0AB704BA032EF9E171F5F2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>547E3CEBE5DCDA324F0AB704BA032EF9E171F5F2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShuiHuZhuan</string>
+		</dict>
+	</array>
+</dict>
+</plist>

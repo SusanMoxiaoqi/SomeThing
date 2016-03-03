@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="match_parent"
+    android:background="@drawable/by_firstpage_leftbg"
+    android:scrollbars="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="false"
+        android:fillViewport="true"
+        android:layout_marginTop="10dp"
+        android:scrollbarThumbVertical="@drawable/by_gundong_bg"
+        android:layout_marginBottom="60dp" >
+
+        <LinearLayout
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+            <!-- <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="联通充值卡" 
+                android:textOff="联通充值卡"
+                android:id="@+id/card_liantong"
+                android:textOn="联通充值卡"/>
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="移动充值卡" 
+                android:textOff="移动充值卡"
+                android:id="@+id/card_yidong"
+                android:textOn="移动充值卡"/>
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="电信充值卡" 
+                android:textOff="电信充值卡"
+                android:id="@+id/card_dianxin"
+                android:textOn="电信充值卡"/> -->
+            
+             <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="天宏一卡通" 
+                android:textOff="天宏一卡通"
+                android:id="@+id/card_tianhong"
+                android:textOn="天宏一卡通"/>
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="征途游戏卡" 
+                android:textOff="征途游戏卡"
+                android:id="@+id/card_zhengtu"
+                android:textOn="征途游戏卡"/>
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="搜狐卡" 
+                android:textOff="搜狐卡"
+                android:id="@+id/card_souhu"
+                android:textOn="搜狐卡"/>
+            
+            
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="骏网一卡通" 
+                android:textOff="骏网一卡通"
+                android:id="@+id/card_junwang"
+                android:textOn="骏网一卡通"/>
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:text="盛大游戏卡" 
+                android:textOff="盛大游戏卡"  
+                android:id="@+id/card_shengda"
+        android:textOn="盛大游戏卡"/>
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:text="纵游一卡通" 
+                android:textOff="纵游一卡通" 
+                android:id="@+id/card_zongyou" 
+        android:textOn="纵游一卡通"/>
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:text="久游卡"
+                android:textOff="久游卡"  
+                android:id="@+id/card_jiuyou"
+        android:textOn="久游卡" />
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:text="天下通"
+                android:textOff="天下通"  
+                android:id="@+id/card_tianxia"
+        android:textOn="天下通" />
+
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:text="完美卡"
+                android:textOff="完美卡"  
+                android:id="@+id/card_wanmei"
+        android:textOn="完美卡" />
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:src="@drawable/by_firstpage_dianhua" />
+
+</RelativeLayout>

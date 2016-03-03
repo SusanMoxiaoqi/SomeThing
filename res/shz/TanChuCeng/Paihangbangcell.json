@@ -1,0 +1,616 @@
+{
+  "ID": "ef67020d-715b-48f7-975c-e8b06fb0f1ab",
+  "Version": "2.3.2.0",
+  "Name": "Paihangbangcell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 52,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_henggang.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -325.5,
+            "RightMargin": -325.5,
+            "TopMargin": -31.5,
+            "BottomMargin": -31.5,
+            "Tag": 80,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "3",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.0,
+                  "Y": 31.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0799,
+                  "Y": 0.4921
+                },
+                "PreSize": {
+                  "X": 0.1229,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 12.0,
+                "RightMargin": 559.0,
+                "TopMargin": 18.0,
+                "BottomMargin": 17.0,
+                "Tag": 81,
+                "ActionTag": 968511363,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 28.0
+                },
+                "Name": "phb_mingci",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "天魁星",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 152.0,
+                  "Y": 31.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2335,
+                  "Y": 0.4921
+                },
+                "PreSize": {
+                  "X": 0.1536,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 102.0,
+                "RightMargin": 449.0,
+                "TopMargin": 18.0,
+                "BottomMargin": 17.0,
+                "Tag": 82,
+                "ActionTag": 978865083,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 28.0
+                },
+                "Name": "phb_xingwei",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "我是昵称一号",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 283.0,
+                  "Y": 31.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4347,
+                  "Y": 0.4921
+                },
+                "PreSize": {
+                  "X": 0.3072,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 183.0,
+                "RightMargin": 268.0,
+                "TopMargin": 18.0,
+                "BottomMargin": 17.0,
+                "Tag": 83,
+                "ActionTag": -2100051098,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 28.0
+                },
+                "Name": "phb_nickname",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "paihang_dianzhan2.png",
+                  "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "paihang_dianzhan2.png",
+                  "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "paihang_dianzhan.png",
+                  "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 61,
+                "Scale9Height": 22,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 590.0,
+                  "Y": 33.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9063,
+                  "Y": 0.5238
+                },
+                "PreSize": {
+                  "X": 0.1398,
+                  "Y": 0.6984
+                },
+                "LeftMargin": 544.5,
+                "RightMargin": 15.5,
+                "TopMargin": 8.0,
+                "BottomMargin": 11.0,
+                "Tag": 84,
+                "ActionTag": -995686662,
+                "Size": {
+                  "X": 91.0,
+                  "Y": 44.0
+                },
+                "Name": "phb_zhanbtn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "88888888",
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 447.0,
+                  "Y": 32.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6866,
+                  "Y": 0.5079
+                },
+                "PreSize": {
+                  "X": 0.2765,
+                  "Y": 0.4444
+                },
+                "LeftMargin": 357.0,
+                "RightMargin": 114.0,
+                "TopMargin": 17.0,
+                "BottomMargin": 18.0,
+                "Tag": 85,
+                "ActionTag": 569723409,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 28.0
+                },
+                "Name": "phb_count",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1114418448,
+            "Size": {
+              "X": 651.0,
+              "Y": 63.0
+            },
+            "Name": "paihang_henggang_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_rank_1.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -274.0,
+              "Y": -3.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -285.5,
+            "RightMargin": 262.5,
+            "TopMargin": -12.5,
+            "BottomMargin": -18.5,
+            "Tag": 70,
+            "ActionTag": -476866370,
+            "Size": {
+              "X": 23.0,
+              "Y": 31.0
+            },
+            "VisibleForFrame": false,
+            "Name": "paiming",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_yizhan.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 265.0,
+              "Y": 1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 219.5,
+            "RightMargin": -310.5,
+            "TopMargin": -23.0,
+            "BottomMargin": -21.0,
+            "Tag": 69,
+            "ActionTag": 513487022,
+            "Size": {
+              "X": 91.0,
+              "Y": 44.0
+            },
+            "VisibleForFrame": false,
+            "Name": "paihangbang_yizhan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 24,
+            "LabelText": "888888888",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 263.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 203.0,
+            "RightMargin": -323.0,
+            "TopMargin": -16.0,
+            "BottomMargin": -12.0,
+            "Tag": 71,
+            "ActionTag": -501525781,
+            "Size": {
+              "X": 120.0,
+              "Y": 28.0
+            },
+            "VisibleForFrame": false,
+            "Name": "paihang_actiontext",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "paihang_gang.png",
+              "Plist": "tanChuCengRes/Paihangbanglayer.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 264.0,
+              "Y": 2.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 247.0,
+            "RightMargin": -281.0,
+            "TopMargin": -3.0,
+            "BottomMargin": 1.0,
+            "Tag": 73,
+            "ActionTag": 524347967,
+            "Size": {
+              "X": 34.0,
+              "Y": 2.0
+            },
+            "Name": "paihang_line",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "vip0.png",
+              "Plist": "tanChuCengRes/touXiangVip.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -175.0,
+              "Y": -1.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -208.5,
+            "RightMargin": 141.5,
+            "TopMargin": -12.5,
+            "BottomMargin": -14.5,
+            "Tag": 83,
+            "ActionTag": -555313066,
+            "Size": {
+              "X": 67.0,
+              "Y": 27.0
+            },
+            "VisibleForFrame": false,
+            "Name": "playerVipImg",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "tanChuCengRes/Paihangbanglayer.plist",
+        "tanChuCengRes/Paihangbanglayer.png",
+        "tanChuCengRes/touXiangVip.plist",
+        "tanChuCengRes/touXiangVip.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Node"
+}

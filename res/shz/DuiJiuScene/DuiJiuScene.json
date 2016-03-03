@@ -1,0 +1,523 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.1.2",
+  "Name": "DuiJiuScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_bg.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Tag": 5,
+            "ActionTag": 953446860,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "dj_bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFanHui3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFanHui3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFanHui1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 49,
+            "Scale9Height": 75,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 60.0,
+              "Y": 585.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0528,
+              "Y": 0.9148
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.1516
+            },
+            "LeftMargin": 20.5,
+            "RightMargin": 1036.5,
+            "TopMargin": 6.0,
+            "BottomMargin": 537.0,
+            "Tag": 29,
+            "ActionTag": -2132188020,
+            "Size": {
+              "X": 79.0,
+              "Y": 97.0
+            },
+            "Name": "dj_btnfanhui",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFenXiang3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFenXiang2.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnFenXiang1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 49,
+            "Scale9Height": 75,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 165.0,
+              "Y": 585.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1452,
+              "Y": 0.9148
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.1516
+            },
+            "LeftMargin": 125.5,
+            "RightMargin": 931.5,
+            "TopMargin": 6.0,
+            "BottomMargin": 537.0,
+            "Tag": 30,
+            "ActionTag": -2142267356,
+            "Size": {
+              "X": 79.0,
+              "Y": 97.0
+            },
+            "Name": "dj_btnfenxiang",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnJiangPin3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnJiangPin2.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnJiangPin1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 49,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 971.0,
+              "Y": 587.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8548,
+              "Y": 0.9172
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.1563
+            },
+            "LeftMargin": 931.5,
+            "RightMargin": 125.5,
+            "TopMargin": 3.0,
+            "BottomMargin": 537.0,
+            "Tag": 31,
+            "ActionTag": -696743376,
+            "Size": {
+              "X": 79.0,
+              "Y": 100.0
+            },
+            "Name": "dj_btnjiangpin",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnGuiZe3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnGuiZe2.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnGuiZe1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 49,
+            "Scale9Height": 77,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1076.0,
+              "Y": 586.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9472,
+              "Y": 0.9164
+            },
+            "PreSize": {
+              "X": 0.0695,
+              "Y": 0.1547
+            },
+            "LeftMargin": 1036.5,
+            "RightMargin": 20.5,
+            "TopMargin": 4.0,
+            "BottomMargin": 537.0,
+            "Tag": 32,
+            "ActionTag": 768498177,
+            "Size": {
+              "X": 79.0,
+              "Y": 99.0
+            },
+            "Name": "dj_btnguize",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_Btnjiahao3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_Btnjiahao2.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_Btnjiahao1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 11,
+            "Scale9Width": 14,
+            "Scale9Height": 18,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 423.5,
+              "Y": 27.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3728,
+              "Y": 0.0422
+            },
+            "PreSize": {
+              "X": 0.0352,
+              "Y": 0.0625
+            },
+            "LeftMargin": 403.5,
+            "RightMargin": 692.5,
+            "TopMargin": 593.0,
+            "BottomMargin": 7.0,
+            "Tag": 10,
+            "ActionTag": 1333018200,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "dj_btnjiahao",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnDuiHuan3.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnDuiHuan2.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "dj_btnDuiHuan1.png",
+              "Plist": "DuiJiuRes.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 13,
+            "Scale9OriginY": 11,
+            "Scale9Width": 14,
+            "Scale9Height": 18,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 668.0,
+              "Y": 27.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.588,
+              "Y": 0.0422
+            },
+            "PreSize": {
+              "X": 0.0352,
+              "Y": 0.0625
+            },
+            "LeftMargin": 648.0,
+            "RightMargin": 448.0,
+            "TopMargin": 593.0,
+            "BottomMargin": 7.0,
+            "Tag": 11,
+            "ActionTag": 226180446,
+            "Size": {
+              "X": 40.0,
+              "Y": 40.0
+            },
+            "Name": "dj_btnduihuan",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "DuiJiuRes.plist",
+        "DuiJiuRes.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

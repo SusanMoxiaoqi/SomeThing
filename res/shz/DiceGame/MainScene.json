@@ -1,0 +1,1327 @@
+{
+  "ID": "c7928986-73ca-431e-8b06-63baa993e323",
+  "Version": "2.3.1.1",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_bg.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 567.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4991,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1.0,
+            "RightMargin": 1.0,
+            "Tag": 3,
+            "ActionTag": -37787025,
+            "Size": {
+              "X": 1136.0,
+              "Y": 640.0
+            },
+            "Name": "SecondBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "12345",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.5,
+              "Y": 69.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5709,
+              "Y": 0.1086
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.0359
+            },
+            "LeftMargin": 588.5,
+            "RightMargin": 427.5,
+            "TopMargin": 559.0,
+            "BottomMargin": 58.0,
+            "Tag": 7,
+            "ActionTag": 422414293,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "Second_defen",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "18",
+            "HorizontalAlignmentType": "HT_Center",
+            "VerticalAlignmentType": "VT_Center",
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 648.5,
+              "Y": 28.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5709,
+              "Y": 0.0445
+            },
+            "PreSize": {
+              "X": 0.1056,
+              "Y": 0.0359
+            },
+            "LeftMargin": 588.5,
+            "RightMargin": 427.5,
+            "TopMargin": 600.0,
+            "BottomMargin": 17.0,
+            "Tag": 8,
+            "ActionTag": -190829652,
+            "Size": {
+              "X": 120.0,
+              "Y": 23.0
+            },
+            "Name": "Second_yazhu",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_shoufen3.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_shoufen2.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_shoufen1.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 151,
+            "Scale9Height": 77,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 845.5,
+              "Y": 47.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7443,
+              "Y": 0.0742
+            },
+            "PreSize": {
+              "X": 0.1329,
+              "Y": 0.1203
+            },
+            "LeftMargin": 770.0,
+            "RightMargin": 215.0,
+            "TopMargin": 554.0,
+            "BottomMargin": 9.0,
+            "Tag": 9,
+            "ActionTag": 1926071862,
+            "Size": {
+              "X": 151.0,
+              "Y": 77.0
+            },
+            "Name": "Second_shoufenBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jixu3.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jixu2.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jixu1.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 151,
+            "Scale9Height": 77,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1028.5,
+              "Y": 47.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9054,
+              "Y": 0.0742
+            },
+            "PreSize": {
+              "X": 0.1329,
+              "Y": 0.1203
+            },
+            "LeftMargin": 953.0,
+            "RightMargin": 32.0,
+            "TopMargin": 554.0,
+            "BottomMargin": 9.0,
+            "Tag": 10,
+            "ActionTag": -172835844,
+            "Size": {
+              "X": 151.0,
+              "Y": 77.0
+            },
+            "Name": "Second_jixuBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_flash.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 560.0,
+              "Y": 162.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.493,
+              "Y": 0.2531
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 35.0,
+            "RightMargin": 51.0,
+            "TopMargin": 426.5,
+            "BottomMargin": 110.5,
+            "Tag": 13,
+            "ActionTag": -156021424,
+            "Size": {
+              "X": 1050.0,
+              "Y": 103.0
+            },
+            "Name": "Second_flash",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_diezi.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 254.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3969
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 503.5,
+            "RightMargin": 503.5,
+            "TopMargin": 366.0,
+            "BottomMargin": 234.0,
+            "Tag": 27,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Second_shangshai00.png",
+                  "Plist": "Second_zujian.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 46.0,
+                  "Y": 31.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3566,
+                  "Y": 0.7875
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 20.5,
+                "RightMargin": 57.5,
+                "TopMargin": -12.0,
+                "BottomMargin": 11.0,
+                "Tag": 24,
+                "ActionTag": -1350228789,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 41.0
+                },
+                "Name": "Second_shangLshazi",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Second_shangshai00.png",
+                  "Plist": "Second_zujian.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 81.0,
+                  "Y": 27.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6279,
+                  "Y": 0.6875
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 55.5,
+                "RightMargin": 22.5,
+                "TopMargin": -8.0,
+                "BottomMargin": 7.0,
+                "Tag": 25,
+                "ActionTag": 290247929,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 41.0
+                },
+                "Name": "Second_shangRshaizi",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -1186372184,
+            "Size": {
+              "X": 129.0,
+              "Y": 40.0
+            },
+            "Name": "Second_diezi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_shengzi.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.0,
+              "Y": 620.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9688
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "TopMargin": 16.0,
+            "BottomMargin": 616.0,
+            "Tag": 26,
+            "ActionTag": -738674199,
+            "Size": {
+              "X": 1136.0,
+              "Y": 8.0
+            },
+            "Name": "Second_shengzi",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_heguan_yao00.png",
+              "Plist": "HeGuan.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 561.0,
+              "Y": 428.0
+            },
+            "Scale": {
+              "ScaleX": 2.0,
+              "ScaleY": 2.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4938,
+              "Y": 0.6687
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 449.0,
+            "RightMargin": 463.0,
+            "TopMargin": 96.5,
+            "BottomMargin": 312.5,
+            "Tag": 25,
+            "ActionTag": 1689722878,
+            "Size": {
+              "X": 224.0,
+              "Y": 231.0
+            },
+            "Name": "Second_heguan",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_bet_gold.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 563.0,
+              "Y": 163.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4956,
+              "Y": 0.2547
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 499.0,
+            "RightMargin": 509.0,
+            "TopMargin": 445.5,
+            "BottomMargin": 131.5,
+            "Tag": 29,
+            "ActionTag": -725458125,
+            "Size": {
+              "X": 128.0,
+              "Y": 63.0
+            },
+            "Name": "Second_bet_gold",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_Lgold00.png",
+              "Plist": "Second_GoldFlash.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 232.0,
+              "Y": 163.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2042,
+              "Y": 0.2547
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 30.5,
+            "RightMargin": 702.5,
+            "TopMargin": 429.5,
+            "BottomMargin": 115.5,
+            "Tag": 89,
+            "ActionTag": 236000662,
+            "Size": {
+              "X": 403.0,
+              "Y": 95.0
+            },
+            "Name": "Second_LFlashgold",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_Mgold00.png",
+              "Plist": "Second_GoldFlash.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 572.0,
+              "Y": 163.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5035,
+              "Y": 0.2547
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 387.5,
+            "RightMargin": 379.5,
+            "TopMargin": 429.5,
+            "BottomMargin": 115.5,
+            "Tag": 90,
+            "ActionTag": -1637711797,
+            "Size": {
+              "X": 369.0,
+              "Y": 95.0
+            },
+            "Name": "Second_MFlashgold",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_Rgold00.png",
+              "Plist": "Second_GoldFlash.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 905.0,
+              "Y": 163.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7967,
+              "Y": 0.2547
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 708.5,
+            "RightMargin": 34.5,
+            "TopMargin": 429.5,
+            "BottomMargin": 115.5,
+            "Tag": 91,
+            "ActionTag": 1008118116,
+            "Size": {
+              "X": 393.0,
+              "Y": 95.0
+            },
+            "Name": "Second_RFlashgold",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yada.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yada.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yada.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 370,
+            "Scale9Height": 103,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 910.5,
+              "Y": 164.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8015,
+              "Y": 0.257
+            },
+            "PreSize": {
+              "X": 0.3574,
+              "Y": 0.1609
+            },
+            "LeftMargin": 707.5,
+            "RightMargin": 22.5,
+            "TopMargin": 424.0,
+            "BottomMargin": 113.0,
+            "Tag": 14,
+            "ActionTag": -468572519,
+            "Size": {
+              "X": 406.0,
+              "Y": 103.0
+            },
+            "Name": "Second_yadaBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yaxiao.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yaxiao.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yaxiao.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 406,
+            "Scale9Height": 103,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 232.5,
+              "Y": 164.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2047,
+              "Y": 0.257
+            },
+            "PreSize": {
+              "X": 0.3574,
+              "Y": 0.1609
+            },
+            "LeftMargin": 29.5,
+            "RightMargin": 700.5,
+            "TopMargin": 424.0,
+            "BottomMargin": 113.0,
+            "Tag": 16,
+            "ActionTag": -324387528,
+            "Size": {
+              "X": 406.0,
+              "Y": 103.0
+            },
+            "Name": "Second_yaXiaoBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yahe.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yahe.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_yahe.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 372,
+            "Scale9Height": 103,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 568.5,
+              "Y": 164.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "Alpha": 0,
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5004,
+              "Y": 0.257
+            },
+            "PreSize": {
+              "X": 0.3275,
+              "Y": 0.1609
+            },
+            "LeftMargin": 382.5,
+            "RightMargin": 381.5,
+            "TopMargin": 424.0,
+            "BottomMargin": 113.0,
+            "Tag": 15,
+            "ActionTag": 1806889631,
+            "Size": {
+              "X": 372.0,
+              "Y": 103.0
+            },
+            "Name": "Second_yaHeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 76,
+            "Scale9Height": 112,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 894.5,
+              "Y": 275.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7874,
+              "Y": 0.4297
+            },
+            "PreSize": {
+              "X": 0.0669,
+              "Y": 0.175
+            },
+            "LeftMargin": 856.5,
+            "RightMargin": 203.5,
+            "TopMargin": 309.0,
+            "BottomMargin": 219.0,
+            "Tag": 17,
+            "ActionTag": 1669672522,
+            "Size": {
+              "X": 76.0,
+              "Y": 112.0
+            },
+            "Name": "Second_jiantouDaBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 76,
+            "Scale9Height": 112,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 240.5,
+              "Y": 275.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2117,
+              "Y": 0.4297
+            },
+            "PreSize": {
+              "X": 0.0669,
+              "Y": 0.175
+            },
+            "LeftMargin": 202.5,
+            "RightMargin": 857.5,
+            "TopMargin": 309.0,
+            "BottomMargin": 219.0,
+            "Tag": 18,
+            "ActionTag": 1507546160,
+            "Size": {
+              "X": 76.0,
+              "Y": 112.0
+            },
+            "Name": "Second_jiantouXiaoBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_jiantou.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9Width": 76,
+            "Scale9Height": 112,
+            "OutlineSize": 0,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 0.0,
+            "ShadowOffsetY": 0.0,
+            "TouchEnable": true,
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 572.5,
+              "Y": 275.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.504,
+              "Y": 0.4297
+            },
+            "PreSize": {
+              "X": 0.0669,
+              "Y": 0.175
+            },
+            "LeftMargin": 534.5,
+            "RightMargin": 525.5,
+            "TopMargin": 309.0,
+            "BottomMargin": 219.0,
+            "Tag": 19,
+            "ActionTag": -178318318,
+            "Size": {
+              "X": 76.0,
+              "Y": 112.0
+            },
+            "Name": "Second_jiantouHeBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "Second_qianshai00.png",
+              "Plist": "Second_zujian.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 527.5,
+              "Y": 259.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4643,
+              "Y": 0.4047
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 488.0,
+            "RightMargin": 569.0,
+            "TopMargin": 350.0,
+            "BottomMargin": 228.0,
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "Second_qianshai00.png",
+                  "Plist": "Second_zujian.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.5,
+                  "Y": 31.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.8544,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 107.0,
+                "RightMargin": -107.0,
+                "Tag": 35,
+                "ActionTag": 1376100213,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 62.0
+                },
+                "Name": "Second_qianshai2",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -800208513,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "Second_qianshai1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "HeGuan.plist",
+        "HeGuan.png",
+        "Second_GoldFlash.plist",
+        "Second_GoldFlash.png",
+        "Second_zujian.plist",
+        "Second_zujian.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Scene"
+}

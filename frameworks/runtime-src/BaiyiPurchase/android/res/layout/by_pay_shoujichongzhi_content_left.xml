@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/by_firstpage_leftbg"
+    android:scrollbars="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="220dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="10dp"
+        android:scrollbarThumbVertical="@drawable/by_gundong_bg" >
+
+        <LinearLayout
+            android:layout_width="130dp"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="联通充值卡" 
+                android:textOff="联通充值卡"
+                android:id="@+id/card_liantong"
+                android:textOn="联通充值卡"/>
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="移动充值卡" 
+                android:textOff="移动充值卡"
+                android:id="@+id/card_yidong"
+                android:textOn="移动充值卡"/>
+            
+            
+            <ToggleButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/btn_shoujichongzhi_bg"
+                android:layout_marginTop="10dp"
+                android:text="电信充值卡" 
+                android:textOff="电信充值卡"
+                android:id="@+id/card_dianxin"
+                android:textOn="电信充值卡"/>
+            
+             
+        </LinearLayout>
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="13dp"
+        android:src="@drawable/by_firstpage_dianhua" />
+
+</RelativeLayout>

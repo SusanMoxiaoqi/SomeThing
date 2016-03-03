@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/by_pay_content_right"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="15dp"
+        android:text="推荐支付方式"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Button04"
+        android:layout_marginTop="16dp"
+        android:text="请选择支付方式"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView8"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/zhifubaobtnstyle" />
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignLeft="@+id/Button04"
+        android:layout_below="@+id/textView5"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/zhifubaobtnstyle" />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignBaseline="@+id/Button01"
+        android:layout_alignBottom="@+id/Button01"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Button01"
+        android:background="@drawable/shoujichongzhi_btn_style" />
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_alignBaseline="@+id/Button02"
+        android:layout_alignBottom="@+id/Button02"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Button02"
+        android:background="@drawable/youxichongzhi_btn_style" />
+
+</RelativeLayout>

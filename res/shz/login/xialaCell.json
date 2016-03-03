@@ -1,0 +1,202 @@
+{
+  "ID": "91e55256-ed97-4052-bdf8-40f0e55c6290",
+  "Version": "2.2.1.0",
+  "Name": "xialaCell",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 46,
+        "PrePosition": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "PreSize": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "DLxialaBg.png",
+              "Plist": "dengLu.plist"
+            },
+            "Tag": 47,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -146.5,
+            "RightMargin": -146.5,
+            "TopMargin": -25.0,
+            "BottomMargin": -25.0,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Text Label",
+                "VerticalAlignmentType": "VT_Center",
+                "Tag": 50,
+                "PrePosition": {
+                  "X": 0.4625,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8532,
+                  "Y": 0.6
+                },
+                "LeftMargin": 10.5,
+                "RightMargin": 32.5,
+                "TopMargin": 10.0,
+                "BottomMargin": 10.0,
+                "ActionTag": 944239807,
+                "Position": {
+                  "X": 135.5,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 250.0,
+                  "Y": 30.0
+                },
+                "FrameEvent": "",
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLclose_3.png",
+                  "Plist": "dengLu.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLclose_2.png",
+                  "Plist": "dengLu.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "DLclose_1.png",
+                  "Plist": "dengLu.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 36,
+                "Scale9Height": 38,
+                "TouchEnable": true,
+                "Tag": 49,
+                "PrePosition": {
+                  "X": 0.9386,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1229,
+                  "Y": 0.76
+                },
+                "LeftMargin": 257.0,
+                "TopMargin": 6.0,
+                "BottomMargin": 6.0,
+                "ActionTag": -12072509,
+                "Position": {
+                  "X": 275.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "Size": {
+                  "X": 36.0,
+                  "Y": 38.0
+                },
+                "FrameEvent": "",
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -996158684,
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "Size": {
+              "X": 293.0,
+              "Y": 50.0
+            },
+            "FrameEvent": "",
+            "Name": "DLxialaBg_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Scale": {
+          "ScaleX": 1.0,
+          "ScaleY": 1.0
+        },
+        "AnchorPoint": {},
+        "CColor": {},
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "FrameEvent": "",
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "ctype": "GameProjectData"
+    },
+    "CameraPosition": {
+      "ValueX": 0.0,
+      "ValueY": 5.0,
+      "ValueZ": -1.0
+    },
+    "CameraRotation": {
+      "ValueX": 0.0,
+      "ValueY": 0.0,
+      "ValueZ": 0.0
+    }
+  },
+  "Type": "Node"
+}
